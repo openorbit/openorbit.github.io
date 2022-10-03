@@ -1,0 +1,7 @@
+= Restarting Website
+:categories: update
+:date: 2019-11-09
+:page-layout: post
+
+The website is finally getting restarted.
+While Open Orbit, the project, has not been maintained in some time, from now on I will at least try to write something about software development here.
