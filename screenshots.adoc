@@ -1,0 +1,32 @@
+= Screenshots
+:page-layout: page
+:imagesdir: assets/screenshots/
+
+== Test Flight 2010-04-12
+
+[cols="2*"]
+|===
+a| .Earth Orbit
+image::2010-04-12/earth-orbit-tn.jpg[link="{imagesdir}/2010-04-12/earth-orbit.png"] 
+
+a| .Earth Orbit 2
+image::2010-04-12/earth-orbit-2-tn.jpg[link="{imagesdir}/2010-04-12/earth-orbit-2.png"]
+
+a| .Jupiter Orbit
+image::2010-04-12/jupiter-orbit-tn.jpg[link="{imagesdir}/2010-04-12/jupiter-orbit.png"] 
+a|
+
+a| .Pleiades
+image::2010-04-12/pleiades-tn.jpg[link="{imagesdir}/2010-04-12/pleiades.png"]
+a| .Pleiades 2
+image::2010-04-12/pleiades-2-tn.jpg[link="{imagesdir}/2010-04-12/pleiades-2.png"]
+|===
+
+== Test Flight 2010-05-15
+
+[cols="2*"]
+|===
+a| .Stage Detatch
+image::2010-05-15/stage-detatch-tn.jpg[link="{imagesdir}/2010-05-15/stage-detatch.png"] 
+a| 
+|===
