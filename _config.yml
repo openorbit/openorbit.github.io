@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Open Orbit Space Flight Simulator and personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: openorbitsim
+twitter_username: lorrdenh
 github_username:  lorrden
 
 # Build settings
