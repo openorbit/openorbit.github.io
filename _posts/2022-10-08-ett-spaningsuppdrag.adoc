@@ -1,0 +1,102 @@
+= Ett Spaningsuppdrag
+Nils Holm
+:imagesdir: /assets/images/
+
+Denna artikel var initialt del i ett manuskript för en bok
+som skrevs av et antal Svenska tidigare Caproni-piloter.
+Orginalmanuskriptet publicerades aldrig öppet.
+Delar av manuskriptet kom på vägar fram till Mikael Forslund
+som gjorde en book med delar av manuskriptet.
+Boken innehåller inte denna berättelse, men historien om Caproni Ca.313
+i Svenska Flygvapnet är rätt intressant och jag rekommenderar starkt
+https://books.google.nl/books/about/Caproni_Ca_313_R_P_B_S.html?id=-bs9MwEACAAJ&redir_esc=y[Mikael Forslunds Caproni-bok].
+Boken är skriven på svenska.
+
+Nils var en värnpliktig Caproni-pilot i Flygvapnet under andra världskriget.
+
+.Caproni Ca.313. Förmodligen © 1944, Nils Holm / https://creativecommons.org/licenses/by-nc-sa/4.0/[CC-BY-NC-SA 4.0].
+image::Nils_Holm,Caproni.jpeg[Me 109,align="center"]
+
+
+_Kommentar av Carl Holm:_
+Den här artikeln kom inte med i Mikael Forslund’s utgåva.
+Nils berättade att befälet som gav ordern sa att de skulle förneka att någon order givits om det hände något… 
+
+_Kommentar av Mattias Holm:_
+Nils som var värnpliktig,
+sa vid tillfälle att han gavs ett tillfälligt officerspass för detta uppdrag.
+Officerare brukade nämligen behandlas bättre om de blev tillfångatagna.
+
+[discrete]
+== Datumet
+
+_Kommentar av Mattias Holm._
+
+Uppdraged genomfördes en Söndag i augusti, 1943.
+This was after the famous commando raids against the heavy water plants den 19e november 1942 och tidigt 1943,
+men innan den slutgiltiga bombningen av fabrikerna som tog plats 16e och 18e november.
+För det exakta datumet, så är det skrivet att det var en söndag i augusti 1943.
+Söndagar i augusti 1943 är följande:  1a, 8e, 15e, 22a och 29e.
+Det var bra väder för simmning, så det måste varit en varm dag.
+Det finns
+https://www.smhi.se/data/meteorologi/ladda-ner-meteorologiska-observationer[historisk temperaturdata från SMHI].
+Temperaturerna i Vänersborg (inte långt från Såtenäs) var för de relevanta dagarna:
+
+.Temperaturer i Vänersborg (℃)
+|===
+| | 07:00 UTC | 12:00 UTC | 18:00 UTC
+
+| 1 augusti 1943 | 18.6 | 26.8 | 26.4
+| 8 augusti 1943 | 15.4 | 15 | 13.4
+| 15 augusti 1943 | 12.4 | 18 | 16.4
+| 22 augusti 1943 | 17 | 20.4 | 22.2
+| 29 augusti 1943 | 9.6 | 17 | 14.8
+|===
+
+NOTE: Temperaturdata är tillgänglig från SMHI via
+https://creativecommons.org/licenses/by/4.0/legalcode.sv[Creative Commons Erkännande 4.0 SE].
+
+Så vi kan dra slutsatsen flygningen mest sannolikt hände antingen den 1a augusti eller den 22a augusti. The other dates seem to cold to be offering sunny weather for swimming.
+De andra datumen verkar för kalla för att ha soligt väder för simmning.
+
+Det är ganska sannolikt att fotona som togs under uppdraget användses för att planera bombningarna den 16e och 18e november.
+Min farfars biddrag till historien...
+
+== Berättelsen
+
+_Som berättad och nerskriven av Nils Holm._
+_Regigering av Mattias Holm_.
+
+Jag tillhörde en spaningsgrupp som var förlagd på F 7 Såtenäs, med uppgift att spana på marina rörelser på västkusten och på bevakning av den norska gränsen.
+Det var en söndag i augusti 1943.
+Vi hade reservtjänstgöring.
+Det var en underbart vacker dag och vi sökte och fick faktiskt tillstånd att gå ner till Vänern och bada.
+Det brukade sällan vara utryckning.
+Vakten underrättades om vår befintlighet.
+
+Efter någon timme kom en ordonnans i full fart och meddelade att vi skulle ut på uppdrag.
+Ordergivningen var knapphändig.
+Försvarsstaben hade fått informationer om tyska truppförflyttningar i trakten av Rjukan i Norge och önskade bilder.
+Vi bestämde att utföra uppdraget på högsta höjd beroende på den extremt goda sikten, vilket väl kan ifrågasättas.
+Av säkerhetsskäl fick planen inte stå i hangarerna med laddade syrgasflaskor ombord och den syrgas som vi skulle ha fanns i Lidköping.
+Eftersom det var söndag så var syrgaslagret stängt.
+Vi beslöt trots detta att flyga på högsta höjd 7.000 m.
+Max höjd utan syrgas var 5.000 m.
+
+Vi hittade vårt mål och spanaren tog från nosen en serie bilder.
+När vi svängde och spanaren slängde över kameran till den andra sidan så tuppade han helt enkelt av p g a syrgasbrist och låg sedan sött på golvet.
+Jag lämnade snabbt målet och svängde österut under brant dykning för att komma ned i tätare luft.
+Så småningom vaknade spanaren och det var förvånansvärt så pigg han blev när vi talade om för honom att vi hade en Me 109 långt bakom oss och på samma kurs.
+För säkerhets skull dök vi ned till lägsta höjd och besvärades inte vidare av den.
+
+.Messerschmitt 109 som nämns i berättelsen. Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / https://creativecommons.org/licenses/by-sa/3.0/de/deed.en[CC-BY-SA 3.0].
+image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center"]
+
+Vi tog det hela ganska lugnt eftersom vi hade uppfattningen att Me-piloterna i Norge var helt ofarliga.
+Dom lär ha varit gröngölingar under inflygning på typen.
+Senare blev dom farligare eftersom Norge användes som rekreationsort för att rehabilitera mentalt ansträngda piloter.
+
+På natten lär ett flygplan ha landat och åter startat på F 7.
+Rykten cirkulerade att det hade varit en engelsk Mosquito, som hämtat våra bilder.
+Kanske vi trots allt inte var så neutrala som man försökte inbilla det svenska folket.
+

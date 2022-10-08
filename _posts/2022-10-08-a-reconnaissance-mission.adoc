@@ -1,0 +1,127 @@
+= A Reconnaissance Mission
+Nils Holm
+:imagesdir: /assets/images/
+
+_Translated by Mattias Holm._
+
+This story was part of an inital manuscript of a book
+which was written by a number of Swedish former Caproni pilots.
+The original manuscript was never published officially.
+However, part of the manuscript was provided to Mikael Forslund who produced a book,
+using parts of the manuscript.
+The book does not include this story, however the history of the Caproni Ca.313
+in the Swedish Airforce is quite interesting and I would strongly reccommend
+https://books.google.nl/books/about/Caproni_Ca_313_R_P_B_S.html?id=-bs9MwEACAAJ&redir_esc=y[Mikael Forslund’s Caproni book].
+Most of the book is in Swedish, but a summary in the book is written in English.
+
+Nils was a https://en.wikipedia.org/wiki/Caproni_Ca.313[Caproni Ca.313] pilot
+in the https://en.wikipedia.org/wiki/Swedish_Air_Force[Swedish Airforce]
+during https://en.wikipedia.org/wiki/World_War_II[World War II].
+
+.Caproni Ca.313. Probably © 1944, Nils Holm / https://creativecommons.org/licenses/by-nc-sa/4.0/[CC-BY-NC-SA 4.0].
+image::Nils_Holm,Caproni.jpeg[Me 109,align="center"]
+
+_Comment by Carl Holm:_
+Nils was telling that the commander that gave the order said
+that they should deny that any order had been given if anything happened…
+
+_Comment by Mattias Holm:_
+Nils who was a conscript,
+stated one time that he was given a temporary officer's pass during this mission.
+That way, they would be treated better in case of being captured.
+
+[discrete]
+== The Date of the Event
+
+_Comment by Mattias Holm._
+
+The mission took place on a Sunday in august 1943.
+This was after the famous commando raids against the heavy water plants
+on https://en.wikipedia.org/wiki/Operation_Freshman[19 November 1942]
+and https://en.wikipedia.org/wiki/Norwegian_heavy_water_sabotage#Operation_Gunnerside[early 1943],
+but just before the final bombing raids at the plants
+that took place on https://en.wikipedia.org/wiki/Norwegian_heavy_water_sabotage#Resumed_operation_and_Allied_air_raids[16 and 18 November].
+As for the exact date of the event in this story, it would be one of the Sundays in August that year,
+which would be either the 1st, 8th, 15th, 22nd or 29th.
+It was good weather for a swim, so the temperatures need to be good.
+There is
+https://www.smhi.se/data/meteorologi/ladda-ner-meteorologiska-observationer[historical temperature data from SMHI].
+The temperatures recorded at Vänersborg (not far from Såtenäs) were for the relevant dates the following:
+
+.Temperatures in Vänersborg (℃)
+|===
+| | 07:00 UTC | 12:00 UTC | 18:00 UTC
+
+| 1 August 1943 | 18.6 | 26.8 | 26.4
+| 8 August 1943 | 15.4 | 15 | 13.4
+| 15 August 1943 | 12.4 | 18 | 16.4
+| 22 August 1943 | 17 | 20.4 | 22.2
+| 29 August 1943 | 9.6 | 17 | 14.8
+|===
+
+NOTE: Temperature data is available from SMHI following the
+https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attribution License].
+
+So we can conclude that the flight most likely happened on either the 1st of August or the 22nd of August.
+The other dates seem to cold to be offering sunny weather for swimming.
+
+It is very likely that the photos taken during this mission was used to plan the bombing raids of the 16 and 18 November.
+My grandfathers contribution to history...
+
+
+== The Story
+
+_As told by Nils Holm._
+_Editing and translation by Mattias Holm._
+
+I belonged to a reconnaissance group
+that was stationed at https://en.wikipedia.org/wiki/Skaraborg_Wing[F 7 Såtenäs],
+with the task to carry out reconnaissance on naval movements at the western coast
+and monitoring of the Norwegian border.
+It was a Sunday in August 1943.
+We were on backup duty.
+It was a wonderful day and we sought and was even given permission
+to head down to https://en.wikipedia.org/wiki/Vänern[Vänern] for a swim.
+It was usually not any emergencies.
+The guards were notified about our availability. 
+
+After about an hour a courier came at full speed and told us that we had to fly a a mission.
+The orders were sparsely formulated.
+The defence staff had received information
+about https://en.wikipedia.org/wiki/German_occupation_of_Norway[German troop movements]
+in the area of https://en.wikipedia.org/wiki/Rjukan[Rjukan]
+in https://en.wikipedia.org/wiki/Norway[Norway] and wanted pictures.
+We decided to carry out the mission at highest altitude
+due to the good visibility, which can be questioned.
+Due to safety reasons, the planes were not allowed to be in the hangars
+with topped up oxygen bottles onboard
+and the oxygen that we were supposed to bring along was in Lidköping.
+As it was Sunday, the oxygen storage facility was closed.
+We decided despite this to fly at highest altitude 7000 m.
+Max altitude without oxygen was 5000 m.
+
+We found our target and the scout took a series of pictures from the nose of the plane.
+When we turned and the scouts throw over the camera to the other side he passed out
+due to oxygen deprivation and was then laying sweetly on the floor.
+I quickly left the target and turned east under a steep dive to get into more dense air.
+Eventually the scout woke up and he became surprisingly alert
+when we told him that we had an https://en.wikipedia.org/wiki/Messerschmitt_Bf_109[Me 109]
+far behind us on the same course.
+For safety reasons we dove down to minimum altitude and was not bothered by it anymore.
+
+.Messerschmitt 109 as referred to in the story. Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / https://creativecommons.org/licenses/by-sa/3.0/de/deed.en[CC-BY-SA 3.0].
+image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center"]
+
+We took it quite easy because we hade the understanding
+that the _Me_ pilots in Norway were completely harmless.
+They were supposedly rookies under schooling on the plane type.
+Later they became more dangerous because
+Norway was used as a recreational resort
+to rehabilitate mentally exhausted pilots.
+
+During the night, a plane had supposedly landed and took off at _F 7_.
+Rumours were circulating
+that it was an https://en.wikipedia.org/wiki/De_Havilland_Mosquito[English Mosquito]
+that had picked up our photos.
+Maybe we were not as https://en.wikipedia.org/wiki/Sweden_during_World_War_II[neutral]
+as they tried to tell the Swedish people.
