@@ -20,9 +20,8 @@ Nils var en värnpliktig https://sv.wikipedia.org/wiki/Caproni_Ca.313[Caproni Ca
 i https://sv.wikipedia.org/wiki/Svenska_flygvapnet[Flygvapnet]
 under https://sv.wikipedia.org/wiki/Andra_världskriget[andra världskriget].
 
-.Caproni Ca.313. Förmodligen © 1944, Nils Holm / https://creativecommons.org/licenses/by-nc-sa/4.0/[CC-BY-NC-SA 4.0].
-image::Nils_Holm,Caproni.jpeg[Me 109,align="center"]
-
+.Caproni Ca.313. Probably 1944, Flygvapenmuseum / FVM.149864 / https://digitaltmuseum.se/021025518001/tavla / https://creativecommons.org/licenses/by/4.0/deed.en[CC-BY 4.0].
+image::Caproni.jpeg[Ca.313,align="center"]
 
 _Kommentar av Carl Holm:_
 Den här artikeln kom inte med i Mikael Forslunds utgåva.
