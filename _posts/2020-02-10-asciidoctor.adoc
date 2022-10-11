@@ -1,5 +1,5 @@
 = Asciidoctor for Progress Reports
-:categories: asciidoctor, update
+:page-tags: [asciidoctor, update]
 :date: 2020-02-10
 :page-layout: post
 :url-jira-rest: https://developer.atlassian.com/server/jira/platform/rest-apis/

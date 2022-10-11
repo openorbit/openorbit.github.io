@@ -1,6 +1,6 @@
 = A Reconnaissance Mission
 Nils Holm
-:tags: aviation wwii
+:page-tags: [aviation, wwii]
 :imagesdir: /assets/images/
 
 _Translated by Mattias Holm._

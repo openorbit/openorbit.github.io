@@ -1,5 +1,5 @@
 = Restarting Website
-:categories: update
+:page-tags: [update]
 :date: 2019-11-09
 :page-layout: post
 

@@ -3,7 +3,7 @@ Nils Holm
 :lang: sv
 :figure-caption: Figur
 :note-caption: Notera
-:tags: aviation wwii
+:page-tags: [aviation, wwii]
 :imagesdir: /assets/images/
 
 Denna artikel var initialt del i ett manuskript för en bok
