@@ -1,0 +1,4 @@
+= Tags
+:page-layout: tags
+
+This page collects tags on this site.
