@@ -1,0 +1,11 @@
+= Eddan
+:page-project-github-url: https://github.com/lorrden/eddan
+
+This Eddan is a conversion of the Elder Edda
+from http://runeberg.org/eddan/[Runeberg] in Swedish, to AsciiDoc.
+
+The translation from Iclandic to Swedish was done by
+http://runeberg.org/authors/braterik.html[Erik Brathe (1857-1924)].
+
+The latest PDF of the conversion is available here:
+https://github.com/lorrden/eddan/releases/download/1.0/eddan.pdf[eddan.pdf]
