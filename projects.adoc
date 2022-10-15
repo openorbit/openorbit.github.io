@@ -1,0 +1,4 @@
+= Projects
+:page-layout: projects
+
+Different projects.

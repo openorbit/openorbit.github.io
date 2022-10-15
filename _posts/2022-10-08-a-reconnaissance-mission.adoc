@@ -20,7 +20,7 @@ in the https://en.wikipedia.org/wiki/Swedish_Air_Force[Swedish Airforce]
 during https://en.wikipedia.org/wiki/World_War_II[World War II].
 
 .Caproni Ca.313. Probably 1944, Flygvapenmuseum / FVM.149864 / https://digitaltmuseum.se/021025518001/tavla / https://creativecommons.org/licenses/by/4.0/deed.en[CC-BY 4.0].
-image::Caproni.jpeg[Ca.313,align="center"]
+image::Caproni.jpeg[Ca.313,align="center",width="100%"]
 
 _Comment by Carl Holm:_
 Nils was telling that the commander that gave the order said
