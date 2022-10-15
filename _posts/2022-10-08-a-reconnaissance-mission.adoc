@@ -111,7 +111,7 @@ far behind us on the same course.
 For safety reasons we dove down to minimum altitude and was not bothered by it anymore.
 
 .Messerschmitt 109 as referred to in the story. Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / https://creativecommons.org/licenses/by-sa/3.0/de/deed.en[CC-BY-SA 3.0].
-image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center"]
+image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center",width="100%"]
 
 We took it quite easy because we hade the understanding
 that the _Me_ pilots in Norway were completely harmless.

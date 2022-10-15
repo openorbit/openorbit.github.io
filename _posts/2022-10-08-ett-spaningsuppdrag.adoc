@@ -108,7 +108,7 @@ långt bakom oss och på samma kurs.
 För säkerhets skull dök vi ned till lägsta höjd och besvärades inte vidare av den.
 
 .Messerschmitt 109 som nämns i berättelsen. Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / https://creativecommons.org/licenses/by-sa/3.0/de/deed.en[CC-BY-SA 3.0].
-image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center"]
+image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center",width="100%"]
 
 Vi tog det hela ganska lugnt eftersom vi hade uppfattningen att Me-piloterna i Norge var helt ofarliga.
 Dom lär ha varit gröngölingar under inflygning på typen.
