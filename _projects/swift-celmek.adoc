@@ -1,5 +1,6 @@
 = Swift Celmek
 :page-project-github-url: https://github.com/lorrden/swift-celmek
+:page-project-github-action-status: https://github.com/lorrden/swift-celmek/actions/workflows/swift.yml/badge.svg
 
 Swift celmek is a celestial mechanics library written in Swift.
 It implements a number of astronomical algorithms such as:

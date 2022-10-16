@@ -1,5 +1,6 @@
 = Eddan
 :page-project-github-url: https://github.com/lorrden/eddan
+:page-project-github-action-status: https://github.com/lorrden/eddan/actions/workflows/asciidoc.yml/badge.svg
 
 This Eddan is a conversion of the Elder Edda
 from http://runeberg.org/eddan/[Runeberg] in Swedish, to AsciiDoc.

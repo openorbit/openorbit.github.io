@@ -19,10 +19,14 @@ layout: default
     <div class="col-md-6">
       <div class="h-100 p-5 bg-light border rounded-3">
         <h1>{{ project.title | escape }} </h1>
-      {% if project.project-github-url %}
-        <a href="{{project.project-github-url}}"><svg class="bi" width="24" height="24"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg><span>Source Code</span></a>
-      {% endif%}
-      <p>{{ project.content }}</p>
+        {% if project.project-github-url %}
+          <a href="{{project.project-github-url}}"><svg class="bi" width="24" height="24"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg><span>Source Code</span></a>
+        {% endif%}
+        {% if project.project-github-action-status %}
+          <br/>
+          <img src="{{project.project-github-action-status}}" alt="Build Status"/><br/>
+        {% endif%}
+        <p>{{ project.content }}</p>
       </div>
     </div>
     {% endfor %}
