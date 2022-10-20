@@ -4,6 +4,10 @@ Nils Holm
 :figure-caption: Figur
 :note-caption: Notera
 :page-tags: [aviation, wwii]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
 :imagesdir: /assets/images/
 
 Denna artikel var initialt del i ett manuskript för en bok
@@ -107,8 +111,8 @@ när vi talade om för honom att vi hade en https://sv.wikipedia.org/wiki/Messer
 långt bakom oss och på samma kurs.
 För säkerhets skull dök vi ned till lägsta höjd och besvärades inte vidare av den.
 
-.Messerschmitt 109 som nämns i berättelsen. Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / https://creativecommons.org/licenses/by-sa/3.0/de/deed.en[CC-BY-SA 3.0].
-image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center",width="100%"]
+.Messerschmitt 109 som nämns i berättelsen. I.W.M. Photo / Public Domain.
+image::Bf_109E-3_in_flight_(1940).jpg[Me 109,align="center",width="100%"]
 
 Vi tog det hela ganska lugnt eftersom vi hade uppfattningen att Me-piloterna i Norge var helt ofarliga.
 Dom lär ha varit gröngölingar under inflygning på typen.

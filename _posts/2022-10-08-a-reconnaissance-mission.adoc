@@ -1,6 +1,11 @@
 = A Reconnaissance Mission
 Nils Holm
 :page-tags: [aviation, wwii]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+
 :imagesdir: /assets/images/
 
 _Translated by Mattias Holm._
@@ -110,8 +115,8 @@ when we told him that we had an https://en.wikipedia.org/wiki/Messerschmitt_Bf_1
 far behind us on the same course.
 For safety reasons we dove down to minimum altitude and was not bothered by it anymore.
 
-.Messerschmitt 109 as referred to in the story. Bundesarchiv, Bild 101I-662-6659-37 / Hebenstreit / https://creativecommons.org/licenses/by-sa/3.0/de/deed.en[CC-BY-SA 3.0].
-image::Bundesarchiv_Bild_101I-662-6659-37,_Flugzeug_Messerschmitt_Me_109.jpeg[Me 109,align="center",width="100%"]
+.Messerschmitt 109 as referred to in the story. I.W.M. Photo / Public Domain.
+image::Bf_109E-3_in_flight_(1940).jpg[Me 109,align="center",width="100%"]
 
 We took it quite easy because we hade the understanding
 that the _Me_ pilots in Norway were completely harmless.
