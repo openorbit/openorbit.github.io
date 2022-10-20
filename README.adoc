@@ -1,0 +1,15 @@
+= Open Orbit Website
+
+This is a https://jekyllrb.com[Jekyll] based site.
+
+The site is primarily built
+using the https://github.com/asciidoctor/jekyll-asciidoc[jekyll-asciidoc] plugin.
+
+== Licenses
+
+The site was initially constructed using the https://github.com/jekyll/minima[minima] theme.
+Theme has for most part been replaced using a custom
+https://getbootstrap.com/docs/5.2/getting-started/introduction/[Bootstrap 5] based theme.
+However some part of the minima theme may still be around.
+
+The pages and posts on the website is by default in https://creativecommons.org/licenses/by-nc-sa/4.0/[CC BY-NC-SA 4.0] unless otherwise explicitly stated.
