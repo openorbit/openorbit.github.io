@@ -71,6 +71,15 @@ https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attributi
 So we can conclude that the flight most likely happened on either the 1st of August or the 22nd of August.
 The other dates seem to cold to be offering sunny weather for swimming.
 
+The distance between Såtenäs and Rjukan is 153 NM (283 km), of which 60 NM (111 km) was in Sweden and 93 NM (172 km) in Norway.
+The minimum trip in the mission was thus 306 NM.
+The Caproni had a max speed of 233 knots (430 km/h).
+Thus, the minimum time of the mission would have been 1h 20min (of which 46 minutes would be in the German controlled airspace of Norway).
+Obviously, actual mission time would be longer. 
+
+.Map with shortest route between Såtenäs and Rjukan  
+image::Såtenäs-till-Rjukan.jpg[Såtenäs to Rjukan,align="center",width="100%"]
+
 It is very likely that the photos taken during this mission was used to plan the bombing raids of the 16 and 18 November.
 My grandfathers contribution to history...
 
