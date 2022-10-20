@@ -1,0 +1,5 @@
+= Openorbit Website
+:page-project-github-url: hthttps://github.com/openorbit/openorbit.github.io
+:page-project-github-action-status: https://github.com/openorbit/openorbit.github.io/actions/workflows/pages.yml/badge.svg
+
+https://openorbit.org[This website] is manged in a Jekyll-based project using GitHub pages.
