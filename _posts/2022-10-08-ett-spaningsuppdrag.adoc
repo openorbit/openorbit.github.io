@@ -66,7 +66,7 @@ Temperaturerna i Vänersborg (inte långt från Såtenäs) var för de relevanta
 NOTE: Temperaturdata är tillgänglig från SMHI via
 https://creativecommons.org/licenses/by/4.0/legalcode.sv[Creative Commons Erkännande 4.0 SE].
 
-Så vi kan dra slutsatsen flygningen mest sannolikt hände antingen den 1a augusti eller den 22a augusti. The other dates seem to cold to be offering sunny weather for swimming.
+Så vi kan dra slutsatsen flygningen mest sannolikt hände antingen den 1a augusti eller den 22a augusti.
 De andra datumen verkar för kalla för att ha soligt väder för simmning.
 
 Avståndet mellan Såtenäs och Rjukan är 153 NM (283 km), varav 60 NM (111 km) i Sverige och 93 NM (172 km) i Norge.
@@ -77,8 +77,6 @@ Naturligtvis var den riktiga flygtiden längre.
 
 .Karta med kortaste rutten mellan Såtenäs och Rjukan  
 image::Såtenäs-till-Rjukan.jpg[Såtenäs to Rjukan,align="center",width="100%"]
-
-
 
 Det är ganska sannolikt att fotona som togs under uppdraget användes för att planera bombningarna den 16e och 18e november.
 Min farfars biddrag till historien...
