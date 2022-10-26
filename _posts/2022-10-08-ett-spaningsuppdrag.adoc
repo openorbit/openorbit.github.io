@@ -48,7 +48,7 @@ den https://sv.wikipedia.org/wiki/Tungvattenaktionen[19e november 1942 och tidig
 men innan den slutgiltiga bombningen av fabriken som tog plats 16e och 18e november.
 För det exakta datumet, så är det skrivet att det var en söndag i augusti 1943.
 Söndagar i augusti 1943 är följande:  1a, 8e, 15e, 22a och 29e.
-Det var bra väder för simmning, så det måste varit en varm dag.
+Det var bra väder för simning, så det måste varit en varm dag.
 Det finns
 https://www.smhi.se/data/meteorologi/ladda-ner-meteorologiska-observationer[historisk temperaturdata från SMHI].
 Temperaturerna i Vänersborg (inte långt från Såtenäs) var för de relevanta dagarna:
@@ -68,7 +68,7 @@ NOTE: Temperaturdata är tillgänglig från SMHI via
 https://creativecommons.org/licenses/by/4.0/legalcode.sv[Creative Commons Erkännande 4.0 SE].
 
 Så vi kan dra slutsatsen flygningen mest sannolikt hände antingen den 1a augusti eller den 22a augusti.
-De andra datumen verkar för kalla för att ha soligt väder för simmning.
+De andra datumen verkar för kalla för att ha soligt väder för simning.
 
 Avståndet mellan Såtenäs och Rjukan är 153 NM (283 km), varav 60 NM (111 km) i Sverige och 93 NM (172 km) i Norge.
 Uppdragets minsta flygavstånd var därmed 306 NM (566 km).
@@ -80,12 +80,12 @@ Naturligtvis var den riktiga flygtiden längre.
 image::Såtenäs-till-Rjukan.jpg[Såtenäs to Rjukan,align="center",width="100%"]
 
 Det är ganska sannolikt att fotona som togs under uppdraget användes för att planera bombningarna den 16e och 18e november.
-Min farfars biddrag till historien...
+Min farfars bidrag till historien...
 
 == Berättelsen
 
 _Som berättad och nerskriven av Nils Holm._
-_Regigering av Mattias Holm_.
+_Redigering av Mattias Holm_.
 
 Jag tillhörde en spaningsgrupp som var förlagd på
 https://sv.wikipedia.org/wiki/Skaraborgs_flygflottilj[F 7 Såtenäs],
