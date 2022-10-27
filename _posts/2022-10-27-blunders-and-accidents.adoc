@@ -1,0 +1,407 @@
+= Blunders and Accidents
+Nils Holm
+:lang: en
+:page-tags: [aviation]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+:page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
+:imagesdir: /assets/images/
+
+== Foreword by Mattias
+
+This article was first published in https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
+It is re-published here with a non-commercial clause.
+
+The article is a number of short stories about different incidents during Nils' flying career.
+The article has been edited by Mattias Holm, adding links, and images to provide more context.
+
+The translation was done by Mattias as well, and it should be stated that several terms are very hard to translate.
+Someone with better insight in aviation terms could help out here (e.g. by filing an issue report at https://github.com/openorbit/openorbit.github.io[GitHub] or by contacting Mattias at Twitter).
+
+As an example of terms that I find uncertain, include:
+
+Flöjla motorn:: Feathering the propeller pitch
+Upptagning:: Flair (the pitch-up of an aircraft before landing)
+Kupera motor:: Turning off the engine 
+Flygplansmästare:: Aircraft master
+Magra motorn:: Thinning the engine
+Gå ut:: Abort
+Vikning:: Wing drop
+
+I have added distances, speed and elevation in some cases.
+Distance, speed and elevation added by me are given in nautical miles, knots and feet respectively
+(since this is what is used in international aviation).
+However, the original story had some elevations in meters and speeds in km/h,
+in those cases I have kept the original and added the converted amount in parenthesis.
+
+One of the stories refers to a US lieutenant, Franklin D. Talcott.
+The story was told on occasion by Nils,
+and I remember him saying that Lt. Talcott was overconfident and killed in the crash
+(this not directly mentioned in the story)
+that was caused by reckless flying.
+
+Talcott flew a P51 Mustang during a raid in Poland and was forced into an https://aviation-safety.net/wikibase/95049[emergency landing in Sweden].
+That Mustang was repaired and https://www.forcedlandingcollection.se/USAAF/USAAF115-440806-youvehadit.html[flew up to F 8 Barkaby by a US Embassy flight officer].
+The aircraft was formally purchased by Sweden in 1945 and served in the air force until it was sold to the Dominican Republic in 1952.
+The fatal accident was with another Mustang that was supposed to be ferried up towards F 8 Barkaby.
+It seems that Talcott is the same person mentioned https://www.ancestry.com/1940-census/usa/Maryland/Franklin-D-Talcott_575225[here] and https://www.findagrave.com/memorial/1239515/franklin-d-talcott[here].
+
+NOTE: As far as I have been able to determine, all named individuals here are dead.
+Several for over 70 years.
+Hence the GDPR should normally not apply.
+
+== Blunders and Accidents
+
+During my 40 years as a pilot there has naturally been several things that I am ashamed for.
+Here follows an account for some of them, without consideration for the chronological order.
+
+== With the Throttle in the Hand
+
+On May 7, 1943, I was heading out on a reconnaissance mission in a fully fueled https://en.wikipedia.org/wiki/Caproni_Ca.313[Caproni],
+three weeks after my first solo flight.
+As I after takeoff reduced the throttle to climb, the throttle fell off in my hand. 
+// flöjla motorn?
+Considering the high start weight and my lack of routine,
+I did not dare to feather the propeller pitch,
+that was running at 2000 RPM.
+I came in for landing, but was way to high and hand to go around.
+// upptagning
+The next attempt had to be aborted during flaring as a truck was passing the runway
+(this was before the introduction of telephony).
+Despite full rudder and banking,
+I was unable to keep the course due to being near _minimum control speed_
+and the right engine's power, and I got a significant course deviation to the left.
+The mechanic was quick with retracting the landing gear
+and after a while we got enough speed to climb to traffic speed height.
+
+// Kupera motor?
+The next landing went fine.
+The speed I regulated by in similarly to https://en.wikipedia.org/wiki/FVM_Ö1_Tummelisa[Tummelisa]
+temporarily cutting the left engine.
+
+I was called in for interrogation and the lieutenant was very critical
+of my escapades, until I showed him the throttle.
+It consisted of a chromed brass tube.
+The mounting was very simple.
+Only a drilled hole through the tube and then attached using a split cotter pin.
+
+To my great surprise, the lieutenant changed his criticism to praise. 
+
+== Double Engine Failure on Caproni
+
+We had been doing winter exercises at https://en.wikipedia.org/wiki/Norrbotten_Wing[F 21 in Luleå]
+and was flying home to https://en.wikipedia.org/wiki/Södermanland_Wing[F 11].
+We were given aircraft number 21 and had an estimated flying time of three hours.
+As usually the aircraft was fully loaded for this type of flying.
+We had to get as much of the field equipment along, including oil drums and engine covers.
+// Flygplanmästare??
+The crew consisted of the undersigned, spotter Wibom, radio operator Eriksson and aircraft master Helmer Larsson.
+
+The takeoff and climb went normal to around 600 m (ca 2000 feet).
+Helmer Larsson came to the front and looked out towards the left engine.
+Suddenly, both motors stopped.
+We started sinking quickly and I picked a lake to make an emergency landing on.
+I quickly checked the fuel cock, the instruments and finally found the main magnet switch to be in the OFF position (the both individual magnet switches was in position "BOTH").
+We had fallen down to around 200 m (around 650 feet) and started to deploy the flaps for landing when Helmer thought we should do a start attempt.
+A couple of years later when we met at his workplace "Teknis" he claimed that I said:
+
+-- No, now we are landing, you should not change your mind at this late stage.
+It can end in a catastrophe.
+
+According to Helmer my voice was supposed to have been absolutely calm and serious, which I doubt.
+
+In any case we did a start attempt by putting the throttle to idle,
+turn on the magnets switch, and behold both engines started up.
+They were still warm and the speed wind was enough to keep the propellers spinning with a good RPM.
+
+The cause for the flameout was that Helmer had when he turned his head, bumped into the magnet switch in the ceiling with his winter hat.
+As the lowest, we estimated our altitude to 70-80 m (230 - 260 feet).
+
+We continued the flying to https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] without any comments,
+I could not notice any special reaction or nervosity with anyone onboard.
+We did not even think it was worth to report.
+
+== Thoroughly Scolded
+
+The problem of failed airspeed indicators
+was common on the https://en.wikipedia.org/wiki/Caproni_Ca.313[S 16 Caproni].
+The cause was that the https://en.wikipedia.org/wiki/Pitot_tube[pitot tube] heaters
+burned off and therefore subsequent icing.
+Not until we stopped having the heating on already from taxiing it got better.
+The cause was of course the lack of cooling at the low speed.
+The heat was turned on after takeoff and the problem went away almost completely.
+
+// Did the original document say 2 times, well 2 times are described so we put that here.
+I suffered the problem at least 2 times.
+One time the airspeed indicator stopped at 2 km/h.
+For an experienced flyer, this was no bigger problem.
+The last time it happened to me, I landed as usual at the given runway
+which happened to be https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] runway 26. 
+
+After a day or so I got called into https://sv.wikipedia.org/wiki/Birger_Schyberg[colonel Schyberg].
+Unaware of this honor I was very surprised to get a real scolding
+for my bad judgement with landing over the administrative building
+with a broken airspeed indicator and therefore risking both human life and buildings.
+
+On the question about whether I understood the risks I answered
+that it was not a problem because you could determine the speed
+by the wind sound and the stick pressure.
+Easy-peasy.
+The colonel turned red in his face and shouted:
+
+-- Out!!!
+
+It should be noted that the colonel, despite many attempts,
+never got approved for solo flying.
+It was not just him that had a problem with the landings,
+one just had to remember that it wasn't an https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
+
+So easy it can be to to mindlessly step on someone's toes.
+I was ashamed.
+
+== Two Landing Failures in One Hour
+
+During my time as flight instructor
+at the https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[aspirant school in Ljungbyhed],
+I had an aspirant that had serious problems with completing the exercise "landing during wing gliding".
+The exercise was about managing to handle an emergency landing after a too high approach,
+especially with aircraft that did not have flaps.
+In this case an https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15].
+For the modern pilot it may be in place to explain how it went:
+
+When you came in to high or to far,
+the air resistance should increase in order to increase the sink rate.
+So one could bank the plane and apply the opposite rudder to maintain a straight course.
+It was actually not a nice feeling as the noise increased
+and the wind was blowing the pilot in the face in the open cockpit,
+but the effect on the sink rate was impressive.
+If the landing space was very limited one kept on with the wing gliding
+even during the landing flare to just before the 3-point landing set the plane straight.
+
+My aspirant was afraid of the last moment
+and could not be made to stay in the wing gliding when we approached the ground.
+It was thus a normal landing and the purpose of the exercise
+to shorten the landing length was not achieved.
+
+After consultation with the head flight instructor, it was decided that I,
+because the pupil was promising, would get an extra session.
+To work without being disturbed by other planes,
+we got to practice at Kvidinge airfield.
+
+The exercises did not go well.
+The pupil was too tense and kept on aborting the wing gliding way to early.
+Suddenly he said:
+
+-- This time I will make it.
+
+It looked to go well with a strong banking,
+but when I felt that the speed was running out I said:
+
+-- Abort!
+
+But nothing happened so I felt compelled intervene - but too late.
+He held the rudder in a stern grip that I in the speed was not able to countermand.
+The result was a landing with a low left wing and a large drift.
+In protest against the not so mild treatment, the left gear folded it self substantially,
+and prevented further practice.
+
+A walk to a farm and a telephone call to with the traffic controller
+resulted in that two airplanes came with help and a few technicians.
+The technicians stayed while a lieutenant in one plane;
+and I and the aspirant in the other started in a closed formation
+towards https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[F 5] and the looming lunch.
+
+The landing was also done in closed formation - I was to the left of the lieutenant
+who apparently forgot I was at his wing tip.
+He suddenly braked hard and turned left to the neutral zone.
+The well known 1 second reaction time was not enough.
+We collided, with smaller damages on both of the aircrafts' wing tips as result.
+
+During the afternoon session the first flight instructor A approached me
+and voiced his dissatisfaction with my recklessness,
+and explained that the result for my part meant military detention.
+When I expressed my doubt that it was only my fault,
+because we landed in closed formation, the instructor asked if that was really true.
+After my affirmative answer, he removed himself without a word.
+
+I avoided detention but so did the lieutenant.
+It was a difference between how one judged sergeants and a lieutenants at that time.
+
+== Wrecked Wing Tip
+
+The flight instructor course (FIC) 1944 was finished with with an advanced flying competition;
+including both a mandatory and a freely composed programme, navigation flying under time, and finished with precision landing using an Sk 14.
+It was during the last part I messed up.
+
+The grading was done by having specified a simulated ditch. Every meter beyond it resulted in minus points.
+Landing before the ditch was equivalent with a crash and disqualification.
+
+I had found out that you could have a few extra km/h in excess speed during the flight;
+by yanking on the stick the aircraft would touch down nicely due to the increased wing load.
+
+Absolutely sure to land only a few meters plus, I looked right at the mark and the official,
+and when it was time I yanked the stick.
+The result was plus 5 m, but as a bonus I got a smaller damage on the wing tip.
+Guess if I was surprised.
+The whole thing went so quick that I didn't get that it actually was a regular wing drop.
+The cause must have been that when I looked straight down,
+I had unconsciously turned the plane a little bit and caused a stall on the right wing.
+
+I got a thorough scolding which was the custom at that time.
+I had earned it - but I did not have to pay for the wing tip.
+
+== Elevator Mass Balance in the Bed
+
+This happened on Saturday, October 7, 1944.
+I was tired after an orienteering run and lunch and was laying on the bed, resting in the _Åsen_ barack next to the sports field at https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[F 5, Ljungbyhed].
+
+The American Lieutenant Talcott was test flying a https://en.wikipedia.org/wiki/North_American_P-51_Mustang[Mustang] before transfer to https://en.wikipedia.org/wiki/Svea_Air_Corps[F 8] (see Svensk Flyghistorisk Tidskrift 1/05).
+When I heard the fabulous engine roar I got out of bed and went to the window to see what was going on.
+The good Talcott had apparently not gotten over the tree tops and damaged the machine badly in the tree crowns.
+In an involuntary roll he passed by upside down, at approximately 10 m (30 feet) hight and about 20 m (60 feet) in front of my window.
+I can still see the expression of his face from the effort with trying to rectify the situation.
+
+With a loud bang and a shaking floor, I turned around and found a big hole in the wall and on the bed,
+that I luckily left a few minutes earlier, was the Mustang's heavy elevator mass balance.
+If I had not been so curious this article would never have been written.
+
+== Start Problems with DC-6
+
+Takeoff from https://en.wikipedia.org/wiki/Damascus[Damascus] some time in the beginning of 1949 with a https://en.wikipedia.org/wiki/Douglas_DC-6[DC-6].
+Normally wi never had any problems with takeoff, which normally was during dark in the evening as it was cooler.
+Due to a technical issue we were delayed to around 14:00 when it was as warmest.
+We started towards North West in counterslope and high terrain in front of us.
+I was the first officer for captain Einar Tehfer that had control.
+
+The acceleration was unusually slow and we soon understood it was too late to abort the takeoff,
+but would we take off before the end of the runway?
+Doubtful!
+
+Then Einar shouted:
+"This will not go, but whether we are airborne or not, you retract the gear when you cannot see the end of the runway".
+The end of the runway disappeared under the nose and it was with great discomfort I moved the landing gear leaver to UP.
+
+With high nose and light shaking of the plane we left the field, but we still hade the mountains in front of us.
+When we had reach control speed, Einar started a light left turn at around 10 m (30 feet) altitude.
+We climbed together with the terrain and it really did not feel good, it was a few critical minutes.
+In addition, we had turbulence at this altitude in the strong sunlight.
+// max starteffekt
+The engines held, despite we considerably exceeded the time for maximum start power.
+
+We arrived home and consulted Hans Walther who was head of the newly established _performance department_.
+He contacted the Douglas factory that handed out graphs for the correction of start weight, temperature, air pressure, wind strength, elevation over the sea etc.
+It turned out that it was not possible to take off from Damascus under the given environmental conditions, but we managed anyway.
+
+The result of our takeoff was additional instructions and better education of the pilots.
+We should remember that this was during the infancy of aviation. 
+
+== Flameout on Four Engines
+
+During the Korean war, there was a shortage of high octane aviation fuel.
+To solve the problem, they added, if I recall correctly, a substance that we called https://en.wikipedia.org/wiki/1,2,3-Trichloropropane[TCP].
+https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C] was especially sensitive with its high compression.
+They had taken out as much effect as possible in the aircraft.
+The gas pressure at start was not 62 inches but 62.5!
+
+The TCP had the disadvantage that you got a coating on the spark plugs.
+This often resulted in large delays due to spark plug changes.
+36 plugs in every engine!
+
+// magrade?
+Normally we "thinned" the engine when we got up to cruising altitude.
+However, an instruction was issued that we should wait 5 minutes before doing the "thinning",
+so that the engine temperature had stabilized.
+
+We started from Beirut towards Rome.
+The cruising altitude we reached over Cyprus where whe entered strong https://en.wikipedia.org/wiki/Cumulonimbus_cloud[CB clouds].
+We served from https://en.wikipedia.org/wiki/Rome[Rome]
+via https://en.wikipedia.org/wiki/Damascus[Damascus]
+to https://en.wikipedia.org/wiki/Teheran[Teheran]
+and back through https://en.wikipedia.org/wiki/Beirut[Beirut] to Rome.
+
+.Rome-Damascus-Teheran-Beirut-Rome Round Trip. Distance is around 3950 NM (7320 km).
+image::Rome-Teheran.jpg[Rome Teheran Map,align="center",width="100%"]
+
+The distance was too long for normal work so the crew was reenforced with a captain, telegraph operator and a mechanic. 
+We had three beds at our disposal.
+This leg it was my turn to sleep and i quickly laid down after takeoff and fell asleep immediately, but was woken by the aircraft going dead quiet, with the exception of the patter of the hail.
+Out of the bed and to the guys in the cockpit that were a bit chocked.
+All four engines had flamed out.
+I understood that there was icing in the carburetors so i forced my self over the mechanic and turned down the throttle, and turned the pre-heater knobs all the way up,
+and it did not take many seconds before the engines were spinning again.
+I stayed and checked that the engines were running fine after the "thinning" with https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Break Mean Effective Pressure)].
+
+After 5 minutes I was sleeping well in my bed again.
+
+The cause for the icing was that the carburetors was cooled down by excess fuel that caused the moisture in the air to turn to ice.
+During 14 days, another three flameouts happened at the same place and we pilots decided internally to "thin the engines" as soon as we reached cruising altitude and the problem was away. 
+
+== Violent Flight Training
+
+We had flight training at Bromma.
+It was the PFT (Pilots Flight Training) a torturous exercise that was carried out 2 times per year.
+This was probably 1949.
+The instructor was the gruff captain Carls, pupils Steinmark and the undersigned.
+
+Steinmark was first to be grilled. 
+Everything went fine until we were supposed to land without number one engine (left outer engine) at runway 13.
+Just as we were about to touch down Carls yelled: "Obstacles on the runway. Throttle up!"
+
+Tehier shoveled gas on the remaining engines,
+but could naturally not get the speed up with full flaps.
+In addition the plane started turning left, despite full right rudder and corresponding bank.
+
+"I need to get number one on or we are doomed" Steinmark shouted.
+"No it should go" Carls responded.
+But it didn't and after a couple of excruciatingly long seconds Carls surrendered and number one spun up.
+
+To my horror I found that we with barely control speed were heading to the right part of the air traffic control tower.
+We were a bit to low to make it, but both pilots instinctively applied full ailerons to the right,
+and the wing passed with the minimum possible margin over the tower.
+
+I who was behind the pilots saw how the air traffic controllers disappeared.
+After landing they confirmed that they had thrown themselves at the floor. 
+
+Well, we wiped the sweat of our foreheads,
+retracted the flaps and continued the flight training.
+Steinmark got to do the three engine approach again because he hadn't completed the landing and after instrument flying with two engines and subsequent landing it was my turn.
+We had nerves of steel at that time!
+
+The problem was that we were below minimum control speed. As with the start in Damascus, Hans Walter took on the problem, and after input from the factory we got to take a new course about performance.
+
+== On the Way Without Parachute
+
+The Caproni was grounded and was being modified.
+As a replacement we at https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] got to borrow https://en.wikipedia.org/wiki/Junkers_Ju_86[B 3] from https://en.wikipedia.org/wiki/Västmanland_Wing[F 1].
+There was a lack of flight instructors so it was decided that we normal pilots would train instrument flying with each other.
+
+The cadets Borg, Gustavsson and I was on December 11 1942 supposed to grill each other in B 3 number 8.
+
+I was first under the hood with Borg as safety flyer on the right side.
+Because the visibility towards the left was practically zero, it was decided that the third pilot would sit in the rear gunner's seat and watch for any planes in the dead sector.
+
+When I was done with my training, Borg entered under the hood with Gustavsson as safety flyer.
+I crawled back towards the rear turret.
+Just as I stepped over the radio nest I took the cable and attached my headset.
+I took my place and was about to put on the front mounted parachute.
+Then I heard Gustavsson shout:
+
+"No, you are climbing! This is what you should do." at the same time that he pushed the stick forward significantly.
+
+The result was that I flew up like a cork, to come back to my starting position when the pilot pulled the stick back.
+But then the speed wind had folded me backwards, resulting in my upper body laying outside the fuselage.
+Luckily I had the throat microphone and I yelled loudly for help while holding myself with hands and feet braced against the edge.
+
+The radio operator Stig Carlsson noticed my situation and came to my help,
+he simply pulled me forward and all of me was soon onboard again.
+Guess if I quickly buckled up or not after this.
+
+Except for the edge causing a skinned back, I escaped the adventure with the sheer horror.
+
+== Epilogue
+
+It may seem that I had a lot of blunders,
+but considering the 40 years and almost 22000 hours flying time maybe it is not too alarming.
+It was over three years between the incidents and they were of course focused to the air force.

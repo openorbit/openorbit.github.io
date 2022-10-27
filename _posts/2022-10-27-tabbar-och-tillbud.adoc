@@ -1,0 +1,475 @@
+= Tabbar och tillbud
+Nils Holm
+:lang: sv
+:figure-caption: Figur
+:note-caption: Notera
+:page-tags: [aviation]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+:page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
+:imagesdir: /assets/images/
+
+== Foreword by Mattias
+
+Denna artikel publicerades först i https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
+Den är här återpublicerad för icke-kommersiellt bruk.
+
+Artikeln innehåller ett antal korta berättelser om olika incidenter under Nils flygkarriär.
+Artikeln är redigerad av Mattias Holm, som lagt till länkar och bilder för att ge mer kontext.
+
+Den engelska översättningen av artikeln är också gjord av Mattias, flera termer var svåra att översätta.
+Någon med bättre insikt av flygtermer skulle kunna hjälpa här
+(t.ex. genom att skapa en _issue_ på https://github.com/openorbit/openorbit.github.io[GitHub]
+eller genom att kontakta Mattias på Twitter).
+
+Exempel på osäkra översättningar, inkluderar:
+
+Flöjla motorn:: Feathering the propeller pitch
+Upptagning:: Flair (the pitch-up of an aircraft before landing)
+Kupera motor:: Turning off the engine 
+Flygplansmästare:: Aircraft master
+Magra motorn:: Thinning the engine
+Gå ut:: Abort
+Vikning:: Wing drop
+
+Jag har i vissa fall lagt in avstånd, hastighet och höjd.
+Avstånd, hastighet och höjd från mig ges respektive i nautiska mil, knop och fot.
+(eftersom detta är vad som används i internationell flygning).
+Med det sagt, originaltexterna hade vissa höjder i meter och hastigheter i km/h,
+i de fallen har jag behållit originalen och lagt till de konverterade talen i parenteser.
+
+En av berättelserna refererar till den amerikanska löjtnanten Franklin D. Talcott.
+Berättelsen gavs av Nils vid ett tillfälle,
+och jag kommer ihåg att han sa att Lt. Talcott var övermodig och dog i kraschen
+(detta nämns inte direkt i berättelsen)
+som orsakades av vårdslös flygning.
+
+Talcott flög en P51 Mustang under en räd i Polen och tvingades till en  https://aviation-safety.net/wikibase/95049[nödlandning i Sverige].
+Mustangen reparerades och https://www.forcedlandingcollection.se/USAAF/USAAF115-440806-youvehadit.html[flögs upp till F 8 Barkaby av en flygofficer vid amerikanska ambassaden].
+Flygplanet köptes sedan av Sverige under 1945 och tjänstgjorde i flygvapnet
+tills det såldes till Dominikanska Republiken 1952.
+Den dödliga olyckan var med en annan Mustang som också skulle flygas upp til F 8 Barkaby.
+Det verkar som att Talcott är samma person som nämns https://www.ancestry.com/1940-census/usa/Maryland/Franklin-D-Talcott_575225[här] och https://www.findagrave.com/memorial/1239515/franklin-d-talcott[här].
+
+NOTE: Såvitt jag har lyckats utreda så är alla namngivna individer här döda.
+Vissa över 70 år.
+Därmed gäller inte GDPR för dessa.
+
+== Tabbar och tillbud
+
+Under mina 40 år som pilot har det naturligtvis hänt en del saker som jag skäms för.
+Här följer en redogörelse för en del av dem, utan hänsyn tagen till kronologisk ordning.
+
+== Med gasreglaget i näven
+
+Jag skulle den 7 maj 1943 ut på ett spaningsuppdrag med en fulltankad Caproni,
+tre veckor efter min första ensamflygning.
+Då jag efter starten drog ned gasen till stigeffekt
+fick jag vänster gasreglage i näven.
+Med hänsyn till den höga startvikten och min orutin vågade jag inte flöjla motor,
+som höll 2 000 varv.
+Jag gick in för landning men kom alldeles för högt och måste dra pã.
+Nästa försök måste avbrytas under upptagningen då en lastbil passerade banan
+(detta före telefonins introduktion).
+Trots fullt sidoroder och skevning kunde jag inte hålla kursen
+p g a närheten till "minimum control speed" och höger motors effekt,
+varför jag fick en avsevärd kursavvikelse åt vänster.
+Mekanikern var snabb med att ta in landstället
+och efter en stund fick vi fart nog att stiga till trafikvarvshöjd.
+
+Nästa landning gick bra.
+Farthållning reglerade jag med att på _Tummelisa_-vis
+momentant kupera vänster motor.
+
+Jag blev inkallad till förhör och löjtnanten var synnerligen kritisk
+till mina "eskapader" ända tills jag visade honom gasreglaget.
+Det bestod helt enkelt av ett förkromat mässingsrör.
+Monteringen var synnerligen enkel.
+Man hade helt enkelt borrat ett hål genom röret
+och fäst det i reglagebocken med en saxpinne.
+
+Till min stora förvåning ändrade löjtnanten sin kritik
+till uppfattningen att det var ett omdömesgillt handlande.
+
+== Dubbla motorstopp på Caproni
+
+Vi hade legat på vinterövningar på
+https://sv.wikipedia.org/wiki/Norrbottens_flygflottilj[F 21 i Luleå]
+och skulle flyga hem till https://sv.wikipedia.org/wiki/Södermanlands_flygflottilj[F 11].
+Vi tilldelades fpl nr 21 och hade en beräknad flygtid på tre timmar.
+Som vanligt lastades fpl till minst fullvikt vid denna typ av flygning.
+Det gällde ju att få med så mycket som möjligt av fältutrustningen,
+bl a oljefat och motorkapell.
+Besättningen bestod av undertecknad, spanare Wibom, signalist Eriksson
+samt flygplanmästare Helmer Larsson.
+
+Start och stigning gick normalt upp till 600 m.
+Helmer Larsson kom fram och tittade ut mot vänster motor.
+Plötsligt tvärstannade båda motorerna.
+Vi sjönk snabbt och jag utsåg en sjö att nödlanda på.
+Snabbt kontrollerade jag bränslekranarna, instrumenten
+och fann slutligen att huvudmagnetkontakten stod i läge "OFF"
+(de båda individuella magnetbrytarna stod i läge "BÅDA").
+Vi hade kommit ned till 200 m höjd och började ta ut klaff för landning
+då Helmer tyckte att vi skulle göra ett startförsök.
+Han påstod några år senare då vi träffades på hans arbetsplats "Teknis" att jag skulle ha sagt:
+
+-- Nej nu landar vi, man skall inte ändra sig på så här sent stadium.
+Det kan sluta i en katastrof.
+
+Enligt Helmer skulle min röst ha varit absolut lugn och allvarlig vilket jag betvivlar.
+
+Vi gjorde i alla fall ett startförsök genom att dra av gasen,
+slå på magnetströmbrytaren och se motorerna startade hur snällt som helst.
+De var ju fortfarande varma
+och fartvinden var tillräcklig för att dra runt motorera med ett bra varvtal.
+
+Orsaken till motorstoppen var att Helmer med sin vintermössa
+medelst huvudvridning hade kommit åt magnetbrytaren som satt i taket.
+Som lägst uppskattade vi höjden till 70-80 m.
+
+Vi fortsatte flygningen till F 11 utan några särskilda kommentarer.
+Jag kunde inte inte märka någon särskild reaktion
+eller nervositet från någon ombord.
+Vi tyckte inte ens att det var värt att rapportera.
+
+== Utskällning efter noter 
+
+Problemen med hastighetsmätare som slutade att fungera
+var ofta förekommande https://sv.wikipedia.org/wiki/Caproni_Ca.313#S_16A[S 16 Caproni].
+Orsaken var att pitotelementen brändes sönder med därav följande isbildning.
+Inte förrän man slutade med att ha värmen tillslagen
+redan från det att man började taxa ut blev det bättre.
+Orsaken var naturligtvis bristande kylning vid den låga farten.
+Värmen slogs på efter lättning och se problemen försvann nästan helt.
+
+// Did the original document say 2 times, well 2 times are described so we put that here.
+Jag råkade ut för problemet minst 2 gånger.
+En gång stannade mätaren på 2 km/h.
+För en van förare var det inget större problem.
+Sista gången det hände mig landade jag som vanligt på gällande bana
+vilket råkade vara F 11 bana 26.
+
+Efter någon dag blev jag inkallad till https://sv.wikipedia.org/wiki/Birger_Schyberg[överste Schyberg].
+Omedveten om denna ä?? blev jag mycket förvånad
+över att få en riktig utskällning för mitt dåliga omdöme
+att med trasig hastighetsmätare landa över kanslihuset
+och därmed riskera både människor och byggnader.
+
+På förfrågan om jag förstått riskerna
+svarade jag att det inte var något problem eftersom man ju hörde på suset
+och kände på spaktrycket vilken fart man hade.
+Det var hur lätt som helst.
+Översten blev alldeles blodröd i ansiktet och röt:
+
+-- Uuuut!
+
+Till saken hör att översten trots många försök
+inte blev godkänd för ensamflygning.
+Det var inte bara han som hade problem med landningarna,
+det gällde bara att glömma bort att det inte var någon https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
+
+Så lätt kan det vara att tanklöst trampa någon på tårna.
+Jag skämdes.
+
+== Två landningshaverier inom en timme
+
+Under min tid som flyglärare på https://sv.wikipedia.org/wiki/Krigsflygskolan[aspirantskolan i Ljungbyhed]
+hade jag en aspirant som hade stora svårigheter att klara av övningen
+"landning under vingglidning".
+Övningen avsåg att klara av nödlandning efter för hög anflygning,
+framförallt med flygplan som inte var försedda med vingklaffar.
+I detta fall https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15].
+För den moderne oinvigde piloten
+kanske det kan vara på sin plats att förklara hur det hela gick till.
+
+Då man kom in för högt eller för långt fram
+gällde det att öka luftmotståndet för att öka sjunkhastigheten.
+Så t ex skevade man omkull planet och gav motsatt sidoroder
+för att hålla rak kurs.
+Det var egentligen ingen skön känsla då oljudet ökade
+och vinden blåste in i ansiktet på piloten i de då för tiden öppna flygplanen,
+men effekten på sjunkhastigheten var imponerande.
+Om landningsutrymmet var mycket begränsat fortsatte man vingglidningen
+även under upptagningen för att omedelbart före 3-punktsättningen räta upp planet.
+
+Min aspirant var rädd för det sista momentet
+och kunde inte förmås att ligga kvar i vingglidningen då vi närmade oss marken.
+Det blev med andra ord normal landning
+och övningens ändamål att förkorta landningssträckan förfelades.
+
+Efter konsultation med förste flygläraren, beslöts att jag,
+eftersom eleven f ö var lovande, skulle få ett extra pass
+och för att få arbeta utan störande moment från andra flygplan
+fick vi träna på https://sv.wikipedia.org/wiki/Kvidinge[Kvidinge] flygfält.
+
+Övningarna gick inte bra.
+Eleven spände sig och fortsatte att avbryta vingglidningen alldeles för tidigt.
+Så helt plötsligt sade han:
+
+-- Den här gången skall jag klara det.
+
+Det såg också ut att gå bra med kraftig bankning,
+men jag kände att farten höll på att ta slut och sade:
+
+-- Gå ut!
+
+Men ingenting hände så jag kände mig föranlåten att ingripa - men för sent.
+Han höll sidorodret i ett fast grepp som jag i hastigheten inte orkade på.
+Resultatet blev sättning med låg vänstervinge och kraftig avdrift.
+I protest mot den omilda behandlingen vek sig vänster ställ markant
+och satte stopp för vidare övning.
+
+En vandring till en bondgard och ett telefonsamtal med trafikledaren
+resulterade i att två flygplan kom ut med hjälp och ett par tekniker.
+Teknikerna stannade kvar medan en löjtnant i det ena planet och jag
+och aspiranten i det andra startade i sluten formering mot F 5
+och den hägrande lunchen.
+
+Även landningen skedde i sluten formering - jag till vänster om löjtnanten
+som tydligen hade glömt att jag låg vid hans vingspets.
+Han bromsade helt plötsligt kraftigt
+och svängde vänster in mot den neutrala zonen.
+Den berömda 1-sekunders reaktionstiden räckte inte till.
+Vi kolliderade med smärre skador på båda flygplanens vingspetsar som följd.
+
+Under eftermiddagspasset kom förste flygläraren A fram till mej
+och uttryckte sitt missnöje med min vårdslöshet
+och förklarade att resultatet för min del betydde "buren".
+Då jag uttryckte tvivel på att det var enbart mitt fel
+eftersom vi landat i sluten formering frågade han om det var sant.
+Efter mitt jakande svar avlägsnade han sig utan ett ord.
+
+Jag slapp buren men det gjorde löjtnanten också.
+Det var ju skillnad på hur man bedömde furirer och löjtnanter på den tiden.
+
+== Kvaddad vingspets
+
+FIK (Flyginstruktörskurs) 1944 avslutades med en flygtävlan
+omfattande avancerad flygning
+med både obligatoriskt och fritt komponerat program,
+navigationsflygning med tidskontroll
+som avslutades med precisionslandning med https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
+Det var på det sista momentet som jag gjorde bort mej.
+
+Betygsättningen gick så till att man simulerat ett dike.
+För varje meter plus blev det minuspoang.
+Landning före diket jämställdes med haveri och diskvalifikation.
+
+Jag hade kommit underfund med att man kunde ha ett par km/h i överskottsfart
+under utflygningen och rycka till i spaken
+så satte sig kärran snällt p g a den ökade vingbelastningen.
+
+Helt säker på att landa på endast ett par meter plus
+tittade jag ner till höger på märket och på funktionären
+och då det var dags ryckte jag till.
+Resultatet blev plus 5 m men som bonus fick jag en mindre skada på vingspetsen.
+Gissa om jag blev snopen.
+Det hela gick så blixtsnabbt att jag att jag inte fattade
+att det i själva verket var en regelrätt vikning.
+Orsaken måste ha varit att då jag tittade rakt ned
+hade jag samtidigt omedvetet svängt en aning
+och förorsakat en överstegring av höger vinge.
+
+Jag fick en ordentlig utskällning efter den tidens sedvana.
+Det hade jag ju förtjänat - men jag slapp att betala vingspetsen.
+
+== Höjdroderbalans i sängen
+
+Detta skedde lördagen den 7 oktober 1944.
+Jag var trött efter orienteringslöpning och lunch och låg på sängen
+och vilade mig i barack _Åsen_ intill idrottsplatsen på https://sv.wikipedia.org/wiki/Krigsflygskolan[F 5, Ljungbyhed].
+Den amerikanske https://aviation-safety.net/wikibase/95049[löjtnanten Talcott] provflög en _Mustang_
+inför överföring till https://sv.wikipedia.org/wiki/Svea_flygflottilj[F 8] (se SFT 1/05).
+Då jag hörde det fantastiska motorvrålet masade jag mig upp ur sängen
+och gick fram till fönstret för att se vad som stod på.
+Den gode Talcott hade tydligen inte kommit över trädtopparna
+utan skadat maskinen svårt i lövkronorna.
+I en ofrivillig roll passerade han i ryggläge
+på uppskattningsvis 10 m höjd cirka 20 m framför mitt fönster.
+Jag kan ännu se hur han grimaserade av ansträngning att klara upp situationen.
+
+Med en kraftig smäll och skakande golv vände jag mig om
+och fann till min stora förvåning att det är ett stort hål i väggen
+och på sängen som jag turligt nog lämnat någon minut tidigare
+ligger ligger _Mustangens_ tunga höjdroderbalans.
+Hade jag inte varit så nyfiken hade denna artikel inte skrivits.
+
+== Startproblem med DC-6
+
+Start fran Damaskus någon gång i början av 1949 med https://en.wikipedia.org/wiki/Douglas_DC-6[DC-6].
+Normalt hade vi aldrig något problem med starten
+som vanligtvis skedde i mörker på kvällen, då det var svalt.
+Denna gång var vi p g a tekniskt problem försenade
+till 14-tiden då det var som varmast.
+Vi startade mot NV i motlut och hög terrang i framför oss.
+Jag var styrman åt kapten Einar Tehfer som själv "spakade".
+
+Accelerationen var osedvanligt långsam
+och snart förstod vi att det var för sent att avbryta starten,
+men skulle vi komma upp innan banan tog slut.
+Tveksamt!
+
+Då skrek Einar:
+"Det här går nog inte, men oavsett om vi är airborne eller inte så tar Du in stället när du inte längre kan se banändan".
+Banändan försvann under nosen
+och med stort obehag flyttade jag landställsspaken till UPP.
+
+Med hög nos och lätta skakningar i planet lämnade vi fältet
+men vi hade bergen rakt framför oss.
+Då vi fått styrfart började Einar en svag sväng at vänster på cirka 10 m höjd.
+Vi steg precis som terrängen och det kändes verkligen inte bra
+och det var ett par kritiska minuter.
+Vi hade dessutom turbulens på denna höjd i det starka solskenet.
+Motorerna höll trots att vi betydligt överskred tiden för max starteffekt.
+
+Vi kom lyckligt hem och konsulterade Hans Walther
+som var chef pä den nyligen inrättade "Prestandaavdelningen".
+Han kontaktade Douglas-fabriken som lämnade kurvor
+för korrektion av startvikt, temperatur, lufttryck, vindstyrka,
+höjd över havet m m.
+Det visade sig att det inte gick att starta från Damaskus
+under rådande förhållanden - men vi gjorde det trots allt.
+
+Resultatet av vår start blev kompletterande instruktioner
+och bättre utbildning av piloterna.
+Man skall komma ihåg att detta var i flygets barndom.
+
+== Motorstopp på fyra motorer
+
+Under https://sv.wikipedia.org/wiki/Koreakriget[Koreakriget] blev det brist på högoktanig flygbensin.
+För att lösa problemen tillsatte man, om jag minns rätt,
+ett ämne som vi kallade https://en.wikipedia.org/wiki/Tricresyl_phosphate[TCP].
+https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C] var ju särskilt känslig med sin höga kompression.
+Man hade tagit ut så mycket effekt som var möjligt.
+Ingastrycket vid start var inte 62 tum utan 62,5!
+TCP:n hade nackdelen att det blev beläggning på tändstiften.
+Detta medförde ofta stora förseningar p g a tändstiftsbyten.
+36 tändstift på varje motor!
+
+Normalt magrade vi ut motorn då vi kom upp på marschhöjd.
+Så utgick ett påbud att vi skulle vänta i 5 min innan vi gjorde utmagringen,
+så att motortemperaturen hade stabiliserats.
+
+Vi startade från Beirut mot Rom.
+Marschhöjden nådde vi över Cypern där vi gick i kraftiga https://sv.wikipedia.org/wiki/Cumulonimbus[CB-moln].
+Vi tjänstgjorde från https://sv.wikipedia.org/wiki/Rom[Rom]
+via https://sv.wikipedia.org/wiki/Damaskus[Damaskus]
+till https://sv.wikipedia.org/wiki/Teheran[Teheran]
+och åter via https://sv.wikipedia.org/wiki/Beirut[Beirut] till Rom.
+Sträckan var för lång för normal tjänstgöringstid
+så besättningen var förstärkt med en kapten, en telegrafist och en mekaniker.
+Vi hade tre sängar till förfogande.
+Denna delsträcka var det min tur att sova
+och jag kvartade in rätt snart efter start och somnade omedelbart
+men väcktes av att det blev dödstyst, så när som smattret från hagel.
+Upp ur sängen och fram till pojkarna som nog var lite chockade.
+Alla fyra motorera hade lagt av.
+Jag förstod att det var isbildning i förgasarna
+så jag trängde mig fram över mekanikern drog av gasen
+och drog förvärmningsreglagen ända upp,
+och det tog inte många sekunder förrän motorera sjöng vackert igen.
+Jag stannade kvar och kontrollerade att motorera gick bra
+efter utmagringen med https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Brake Mean Effective Pressure)].
+
+.Rome-Damascus-Teheran-Beirut-Rome Round Trip. Distance is around 3950 NM (7320 km).
+image::Rome-Teheran.jpg[Rome Teheran Map,align="center",width="100%"]
+
+Efter 5 min sov jag åter gott i min säng.
+
+Orsaken till isbildningen var att förgasarna kyldes ned av överskottsbensin
+som gjorde att den fukt som fanns i luften frös till is.
+Under 14 dagar inträffade ytterligare tre motorstopp på samma ställe
+och vi piloter kom internt överens om att magra ut motorerna
+så snart vi kom upp på marschhöjd och så var det slut på problemet.
+
+
+== Våldsam skolflygning
+
+Vi hade skolflygning på Bromma.
+Det gällde PFT (= Pilots Flight Training) en tortyr som utfördes 2 ggr/år.
+Troligtvis 1949.
+Instruktör var den barske kapten Carls, elever Steinmark och undertecknad.
+
+Steinmark var först i grillen.
+Allt gick bra tills vi skulle landa utan ettans motor (vänster yttermotor)
+på bana 13.
+Precis som vi skulle sätta oss skrek Carls: "Hinder på banan. Dra på!"
+
+Tehier skyfflade på gas på de arbetande motorera,
+men fick naturligtvis inte upp farten med full klaff.
+Till yttermera visso började flygplanet svänga åt vänster
+trots fullt högerroder och dito skevning.
+
+"Jag måste få in ettan annars går det t skogen" röt Steinmark.
+"Nej det ska gå" sade Carls.
+Men det gjorde det inte
+och efter ett par olidligt långa sekunder kapitulerade Carls
+och ettan trädde i tjänst.
+
+Till min fasa konstaterade jag att vi med knappt styrfart
+är på väg rakt mot den högra delen av trafikledartornet.
+Vi låg en aning för lågt för att klara det,
+men så skevar båda piloterna instinktivt med full skevroderutslag åt höger,
+och vingen gick med minsta möjliga marginal över tornet.
+
+Jag som stod bakom piloterna såg hur trafikledarna försvann.
+Vi fick efter landning bekräftat att de slängt sig på golvet.
+
+Nåja, vi torkade svetten ur pannorna,
+tog in vingklaffarna och fortsatte skolningen.
+Steinmark fick göra om tremotorsinflygningen
+eftersom han inte hade fullföljt landningen
+och efter en instrumentinflygning på två motorer med efterföljande landning
+blev det min tur.
+Vi hade nerver av stål på den tiden!
+
+Problemet var att vi legat under minimum control speed,
+men som vid starten i Damaskus tog Hans Walther tag i problemen
+och efter underlag från fabriken fick vi gå en ny kurs i prestanda.
+
+== På väg utan fallskärm
+
+Caproni hade flygförbud och modifierades.
+Som ersättning fick vi på F 11 låna B 3 från F 1.
+Det var ont om flyglärare så det beslöts att vi vanliga piloter skulle träna instrumentflygning med varandra.
+
+Kadetterna Borg, Gustavsson och jag skulle den 11 december 1942 grilla varandra i B 3 nr 8.
+
+Jag var först under huven med Borg som säkerhetsförare på höger sida.
+Eftersom sikten mot vänster var praktiskt taget obefintlig bestämdes att den tredje piloten skulle sitta på akterskyttens plats och hålla utkik efter eventuella fpl i den döda sektorn.
+
+När jag var klar med min träning hoppade Borg in under huven
+med Gustavsson som säkerhetsförare.
+Jag ålade mej bakåt till "aktertornet".
+Samtidigt som jag klev över signalistholken
+fick jag tag i signalsladden och anslöt till mitt headset, intog min plats,
+och skulle haka på mig bröstfallskärmen.
+Då hörde jag Gustavsson skrika:
+
+"Nej, Du stiger! Så här skall Du göra",
+samtidigt som han körde fram spaken markant.
+Resultatet blev att jag flög upp som en kork
+för att återkomma till mitt utgångsläge då piloten drog i spaken,
+men då hade fartvinden fällt mig bakåt,
+resulterande i att överkroppen låg utanpå flygkroppen.
+Som tur var hade jag strupmikrofon och jag skrek högt på hjälp
+samtidigt som jag höll mig fast
+med händer och med fötterna spärrade mot sargen.
+
+Signalisten Stig Carlsson uppfattade min situation och kom till min undsättning,
+han drog mig helt enkelt framåt och hela jag befann mig snart ombord igen.
+Gissa om jag snabbt spände fast mig.
+
+Frånsett att sargen förorsakade en skinnflådd rygg
+undkom jag äventyret med blotta förskräckelsen.
+
+== Slutord
+
+Det kan tyckas att jag gjorde många tabbar,
+men räknat på 40 år och nästan 22000 timmars flygning
+kanske det inte är alltför alarmerande.
+Det gick ju över tre år mellan incidenterna
+och naturligtvis koncentrerades de till Flygvapnet.
