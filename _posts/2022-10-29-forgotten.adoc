@@ -1,0 +1,106 @@
+= Forgotten: Furlough Flying with Sk 15
+Nils Holm
+:lang: en
+:page-tags: [aviation]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+:page-translation: { en: forgotten.html, sv: preskriberat.html }
+:imagesdir: /assets/images/
+
+_Translated by Mattias Holm._
+
+NOTE: This is the English translation of an article previously published in an anthology
+(in the original Swedish).
+However we have not been able to determine which one.
+Only that it was at pages 111-113.
+Contact Mattias on Twitter
+or file an issue at https://github.com/openorbit/openorbit.github.io[GitHub] if you have more info.
+
+As flight instructor at the aspirant school, it was difficult to get a leave.
+So, when I offered on Friday, October 20, 1944 to fly an https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15] that needed major overhaul to CVV (Central Workshops in Västerås), it was well suited to me as I could then visit my parental home a few tenths of km south of Eskilstuna.
+
+.Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
+image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
+
+The weather was very bad with a "No fly day".
+The meterological assistance discouraged from flying, but because it was better weather north, I decided to carry out the mission anyway.
+Between Nässjö and Linköping I was however forced to railroad height, though with margin for meeting trains.
+Behind the smokestack you felt a lifting effect thanks to thermals.
+I landed at Malmen F 3 for refueling, but was not allowed to carry on due to a bad weather flight ban. 
+The Saturday started with good weather and I started towards F 1 in Västerås.
+It should be noted that I had an older brother that was an officer at F 1, he had visited home with a Sparman S1A and made an attention-grabbing air show.
+I naturally had to show that I was even better, at least I had attended the flight instructor course.
+
+To get a better understanding of the altitude loss in the composed advanced air show program, I rehearsed it near Katrineholm.
+
+The show finished at a good altitude in inverted position with a dive and leveling also in inverted position.
+Then I saw something flying past my eyes.
+I turned the aircraft right, turned 180 degrees and saw something falling down to ground.
+I quickly figured that it was my classified numbered map that had abandoned me.
+I circled after it and saw it landing in a stony hill in the middle of a turnip field.
+Luckily a farmer was out de-shawing the turnips only 20 meters from the hill.
+Because I was afraid of not being able to explain the loss of the map (marked with secret military airfields), I wrote in my instructors note book a message to the farmer and asked him to send the map to me with a promise of an ample reward.
+A couple of dives towards the hill showed where the map was laying.
+I flew over the farmer at 5 m altitude and threw out the "letter" and set a course towards Västerås.
+
+Just before passing by my parental home, I dove down towards another estate to say hello.
+During the sharp climb after, I looked back to see if I was noticed.
+I saw nothing except the message, that I threw out to the farmer, nicely folded around the tail fins front!
+
+.Rough flying route. Total distance 242 NM / 449 km.
+image::Ljungbyhed-till-Västerås.jpg[Ljungbyhed to Västerås,align="center",width="100%"]
+
+At the parental home Tandla I managed an in my mind nice airshow, that ended at _very_ low altitude.
+Between the wing and the farmhouse, I had to (inverted) go up fast in order to not injure a pair of large ashes and a flagpole.
+After a good by wave in a vertical turn, I continued to the nearby school where I brightened up the children's break with a vertical turn between the school building and a flagpole 8 m away.
+
+On a straight course towards Västerås I could not really recognize the aircraft, but I cold not figure out why.
+The engine was spinning nicely and the the aircraft was working normally.
+Maybe the sound was a bit strange.
+For safety's sake I reduced the speed and arrived successfully to Västerås, where the activity was in Saturday mode, with standby crew as a welcoming committee.
+I felt a bit unsure of myself and made a very bad landing.
+I probably had a bit of a guilty conscience.
+
+Before I had time to climb out of the cockpit the mechanic jumped up on the wing and greeted me with the words:
+
+-- Where has the sergeant been? Has the sergeant been <prank flying>? The whole trunk lid is gone! Can the sergeant explain that?
+
+I saw an impending court martial and dismissal so I (forgive me good God) responded with:
+
+-- Oh, it must have been that mechanic at Malmslätt that did nott properly close the lid when he hung back the tank cap key.
+
+The lid was quite large and followed the shape of the hull.
+It was right behind the pilot seat and was closed with a snap lock.
+In addition to my suitcase the inventory list, motor journal and I think even the hand crank.
+
+That I quickly left the airbase is perhaps understandable.
+At the Västerås railroad station I called home.
+My mother answered and the following dialog took place:
+
+-- Hello!
+
+-- Hi, it is Nisse. I am in Västerås and will be home visiting in a few hours.
+
+-- Ok, you are welcome!
+
+-- You don't sound surprised.
+
+-- No, you were just here, so you are expected.
+
+-- But you could not know it was me. It might as well have been Erik (my broder, serving as a lieutenant at F1).
+
+-- No for two reasons. Firstly I recognize your suitcase that you so recklessly throw in front off our feet, and secondly Erik would never be so lazy as you.
+He would certainly carry his suitcase himself.
+But you are welcome anyway you big buffon!
+
+Even before I got home, the school children had arrived with the lost items that had been found between the farm and the school.
+At the inverted climb the bag must have due to the centripetal force been thrown towards the trunk lid, that bent further,
+pulling out the bolt of snap lock from the socket. 
+The air power dit the rest of the work.
+The bag had landed only 5 meters in front of my parents.
+One of the suitcase's corners had smaller damage, and from the content only the razor was broken, while the camera and a hair water bottle was intact.
+
+Of course, I never received the map, and luckily not any reaction from the air force either.
+Otherwise, maybe I would not have been enjoying over 40 years of flying.

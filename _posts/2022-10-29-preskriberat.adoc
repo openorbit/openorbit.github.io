@@ -1,0 +1,103 @@
+= Preskriberat: Permissionsflygning med Sk 15
+Nils Holm
+:lang: sv
+:figure-caption: Figur
+:note-caption: Notera
+:page-tags: [aviation]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+:page-translation: { en: forgotten.html, sv: preskriberat.html }
+:imagesdir: /assets/images/
+
+NOTE: Tidigare publicerat i en antologi.
+Vi har inte lyckats klura ut vilken.
+Bara att artikeln låg på sidorna 111-113.
+Kontakta Mattias på Twitter
+eller lägg in en _issue_ på https://github.com/openorbit/openorbit.github.io[GitHub] om du har mer information.
+
+Som flyglärare på Aspirantskolan var det dåligt med permissioner.
+När jag därför fredagen den 20 okt 1944 erbjöds att flyga till https://sv.wikipedia.org/wiki/Centrala_Flygverkstaden_Västerås[CVV (Centrala Verkstäderna i Västerås)] med en https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15], som skulle in på stor översyn, passade det mej förträffligt, eftersom jag då skulle kunna hälsa på i mitt föräldrahem några mil söder om Eskilstuna.
+
+.Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
+image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
+
+Vädret var tämligen dåligt med "Icke flygdag".
+Väderassistenten avrådde från flygning, men eftersom det var bättre väder norrut, beslöt jag mej för att genomföra uppdraget. Mellan Nässjö och Linköping tvingades jag dock ned på
+"järnvägshöjd", dock hade jag marginal för mötande tåg, men kände tydligt en upplyftande effekt omedelbart efter skorstenen (termik).
+Jag landade på Malmen F3 för tankning, men fick inte fortsätta på grund av utfärdat FLÖR (=flygförbud), då vädret var för dåligt.
+
+Lördagen kom med fint väder och jag startade mot F1 i Västerås.
+Till saken hörde att en äldre bror, som var officer på https://sv.wikipedia.org/wiki/Västmanlands_flygflottilj[F1], hade varit på besök hemma med en https://sv.wikipedia.org/wiki/Sparmann_S1A[Sparmanjagare] och gjort en uppmärksammad flyguppvisning.
+Naturligtvis måste jag visa att jag var ännu skickligare, jag hade ju i alla fall gått FIK (flyginstruktörskurs).
+
+För att få ett begrepp om höjdförlusten i det komponerade, avancerade uppvisningsprogrammet körde jag igenom det i trakten av Katrineholm.
+Övningen avslutades på god höjd i ryggläge med dykning och upptagning likaså i ryggläge.
+Då såg jag att något for förbi mina ögon.
+Jag vände kärran rätt, svängde 180 grader och fick se något singla ner mot jorden.
+Jag konstaterade snabbt att det var min hemligstämplade och numrerade karta som tänkte överge mej.
+Jag cirklade efter den och såg den landa i en liten stenig backe mitt i en rovåker.
+Som tur var höll en bonde på att blasta rovor endast något 20-tal meter från backen.
+Eftersom jag var rädd för att inte kunna förklara kartförlusten (med inprickade hemliga krigsflygfält), skrev jag på mitt lärarblock ett meddelande till bonden och bad honom skicka kartan till mej med löfte om en rundlig ersättning.
+Några dykningar mot backen visade precis var kartan låg.
+Jag flög över bonden på 5 meters höjd och kastade ut "brevet" och satte kurs mot Västerås.
+
+Strax innan mitt föräldrahem dök jag ned mot ett annat gods för att "hälsa".
+Under brant stigning tittade jag bakåt för att se, om jag blivit vederbörligen uppmärksammad.
+Jag såg inget utom meddelandet, som jag kastat, snyggt vikt runt fenans framkant!
+
+.Ungefärlig flygrutt. Totalt avstånd 242 NM / 449 km.
+image::Ljungbyhed-till-Västerås.jpg[Ljungbyhed till Västerås,align="center",width="100%"]
+
+Hemma vid föräldrahemmet https://sv.wikipedia.org/wiki/Tandla[Tandla] gjorde jag en i mitt tycke fin uppvisning, som slutade på _mycket_ låg höjd.
+Mellan flygeln och mangårdsbyggnaden måste jag (i ryggläge) ta upp ordentligt för att inte skada ett par stora askar och en flaggstäng.
+Efter avskedsvinkning i vertikalsväng fortsatte jag till den närbelägna skolan, där jag förgyllde barnens rast med en vertikalsväng mellan skolbyggnaden och en 8 meter därifrån stående flaggstång.
+
+På rakbana mot Västerås kände jag inte, riktigt igen planet, men kunde inte analysera varför.
+Motorn gick fint och planet i övrigt fungerade normalt.
+Kanske ljudet var lite ovanligt.
+För säkerhets skull reducerade jag farten och kom lyckligt till Västerås, där verksamheten på F1 gick på lördagsvarv med beredskapspersonal som mottagningskommitté.
+Jag hade känt mej osäker och gjort en mycket dålig landning.
+Jag hade nog lite dåligt samvete.
+
+Innan jag hunnit kliva ur sittbrunnen hoppade mekanikern upp på vingen och hälsade mig med orden:
+
+-- Var har furiren varit? Har furiren busflugit? Hela bagageluckan är ju borta! Kan furiren förklara det?
+
+Jag såg i andanom krigsrätt och avsked så jag (förlåt gode Gud) slängde till med:
+
+-- Ja det måste väl vara den där mekanikern på Malmslätt som inte stängt luckan ordentligt, när han hängde tillbaka tanklocksnyckeln.
+
+Luckan var ganska stor och följde kroppens välvning.
+Den satt omedelbart bakom förarsitsen och reglades med ett snäpplås.
+Förutom min resväska saknades inventarieförteckning, motorjournal och jag tror även startveven.
+
+Att jag hastigt avlägsnade mig från flottiljen är kanske förståeligt.
+På Västerås järnvägsstation ringde jag hem.
+Mor svarade och följande dialog utspann sig:
+
+-- Hallå!
+
+-- Hej, det är Nisse. Jag är i Västerås och kommer hem och hälsar på några timmar.
+
+-- Jaha, du är välkommen!
+
+-- Du låter inte alls förvånad.
+
+-- Nej, du var ju här alldeles nyss, så du är väntad.
+
+-- Du kunde väl inte veta att det var jag. Det kunde lika väl ha varit Erik (Min bror, som var löjtnant på F1).
+
+-- Nej av två skäl. För det första känner jag igen din resväska, som du så värdslöst kastade ned framför fötterna på oss, och för det andra så skulle Erik aldrig ha varit så lat som du.
+Han hade säkert bekvämat sig med att själv bära sin väska.
+Men du är välkommen i alla fall din latoxe!
+
+Redan innan jag kommit hem, hade skolbarnen kommit upp med de förlorade effekterna, som hittats mellan gården och skolan.
+Vid upptagningen i ryggläge måste väskan p g a centrifugalkraften ha kastats mot bagageluckan, som böjts ytterligare, varvid snäpplåsets sprint dragits ur fattningen.
+Luftkraften utförde resten av arbetet.
+Väskan hade hamnat 5 meter framför mina föräldrar.
+Ett av väskans hörn hade en mindre skada och av innehallet var endast rakhyveln trasig, medan kameran och en hårvattenflaska var intakta.
+
+Någon karta återfick jag naturligtvis inte och någon reaktion från flygvapnet kom inte heller, som tur var.
+I annat fall hade jag kanske inte med glädje kunnat se tillbaka på 40 års lycklig flygtjänst.
