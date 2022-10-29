@@ -9,6 +9,8 @@ Nils Holm
 :page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
 :imagesdir: /assets/images/
 
+_Translated by Mattias Holm._
+
 == Foreword by Mattias
 
 This article was first published in https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
