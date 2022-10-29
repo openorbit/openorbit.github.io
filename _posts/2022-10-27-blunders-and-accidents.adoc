@@ -76,6 +76,10 @@ and the right engine's power, and I got a significant course deviation to the le
 The mechanic was quick with retracting the landing gear
 and after a while we got enough speed to climb to traffic speed height.
 
+.Caproni Ca.313. Probably 1944, Flygvapenmuseum / FVM.149864 / https://digitaltmuseum.se/021025518001/tavla / https://creativecommons.org/licenses/by/4.0/deed.en[CC-BY 4.0].
+image::Caproni.jpeg[Ca.313,align="center",width="100%"]
+
+
 // Kupera motor?
 The next landing went fine.
 The speed I regulated by in similarly to https://en.wikipedia.org/wiki/FVM_Ö1_Tummelisa[Tummelisa]
@@ -169,6 +173,10 @@ I had an aspirant that had serious problems with completing the exercise "landin
 The exercise was about managing to handle an emergency landing after a too high approach,
 especially with aircraft that did not have flaps.
 In this case an https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15].
+
+.Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
+image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
+
 For the modern pilot it may be in place to explain how it went:
 
 When you came in to high or to far,
@@ -235,6 +243,9 @@ The flight instructor course (FIC) 1944 was finished with with an advanced flyin
 including both a mandatory and a freely composed programme, navigation flying under time, and finished with precision landing using an Sk 14.
 It was during the last part I messed up.
 
+.North American NA-16 / Sk 14. https://creativecommons.org/publicdomain/mark/1.0/deed.en[Public Domain].
+image::FVMF.002264.jpg[Sk 14,align="center",width="100%"]
+
 The grading was done by having specified a simulated ditch. Every meter beyond it resulted in minus points.
 Landing before the ditch was equivalent with a crash and disqualification.
 
@@ -275,6 +286,9 @@ Due to a technical issue we were delayed to around 14:00 when it was as warmest.
 We started towards North West in counterslope and high terrain in front of us.
 I was the first officer for captain Einar Tehfer that had control.
 
+.SAS DC-6. Public Domain.
+image::SAS_DC-6,_Alrek_Viking_SE-BDE_at_Bromma_Airport,_Stockholm,_Sweden.jpg[DC-6,align="center",width="100%"]
+
 The acceleration was unusually slow and we soon understood it was too late to abort the takeoff,
 but would we take off before the end of the runway?
 Doubtful!
@@ -304,6 +318,9 @@ To solve the problem, they added, if I recall correctly, a substance that we cal
 https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C] was especially sensitive with its high compression.
 They had taken out as much effect as possible in the aircraft.
 The gas pressure at start was not 62 inches but 62.5!
+
+.SAS DC-7C. Public Domain.
+image::SAS_DC-7C,_Stig_Viking_SE-CCC_on_the_ground,_at_the_airport_1960s.jpg[DC-7C,align="center",width="100%"]
 
 The TCP had the disadvantage that you got a coating on the spark plugs.
 This often resulted in large delays due to spark plug changes.
@@ -376,6 +393,9 @@ The problem was that we were below minimum control speed. As with the start in D
 The Caproni was grounded and was being modified.
 As a replacement we at https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] got to borrow https://en.wikipedia.org/wiki/Junkers_Ju_86[B 3] from https://en.wikipedia.org/wiki/Västmanland_Wing[F 1].
 There was a lack of flight instructors so it was decided that we normal pilots would train instrument flying with each other.
+
+.Junkers Ju 86K / B 3. Public Domain.
+image::FVMF.006081.jpg[B 3,align="center",width="100%"]
 
 The cadets Borg, Gustavsson and I was on December 11 1942 supposed to grill each other in B 3 number 8.
 

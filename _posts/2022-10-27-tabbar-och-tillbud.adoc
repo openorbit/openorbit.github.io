@@ -79,6 +79,9 @@ varför jag fick en avsevärd kursavvikelse åt vänster.
 Mekanikern var snabb med att ta in landstället
 och efter en stund fick vi fart nog att stiga till trafikvarvshöjd.
 
+.Caproni Ca.313. Probably 1944, Flygvapenmuseum / FVM.149864 / https://digitaltmuseum.se/021025518001/tavla / https://creativecommons.org/licenses/by/4.0/deed.en[CC-BY 4.0].
+image::Caproni.jpeg[Ca.313,align="center",width="100%"]
+
 Nästa landning gick bra.
 Farthållning reglerade jag med att på _Tummelisa_-vis
 momentant kupera vänster motor.
@@ -182,6 +185,10 @@ hade jag en aspirant som hade stora svårigheter att klara av övningen
 Övningen avsåg att klara av nödlandning efter för hög anflygning,
 framförallt med flygplan som inte var försedda med vingklaffar.
 I detta fall https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15].
+
+.Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
+image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
+
 För den moderne oinvigde piloten
 kanske det kan vara på sin plats att förklara hur det hela gick till.
 
@@ -254,6 +261,9 @@ navigationsflygning med tidskontroll
 som avslutades med precisionslandning med https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
 Det var på det sista momentet som jag gjorde bort mej.
 
+.North American NA-16 / Sk 14. https://creativecommons.org/publicdomain/mark/1.0/deed.en[Public Domain].
+image::FVMF.002264.jpg[Sk 14,align="center",width="100%"]
+
 Betygsättningen gick så till att man simulerat ett dike.
 För varje meter plus blev det minuspoang.
 Landning före diket jämställdes med haveri och diskvalifikation.
@@ -307,6 +317,9 @@ till 14-tiden då det var som varmast.
 Vi startade mot NV i motlut och hög terrang i framför oss.
 Jag var styrman åt kapten Einar Tehfer som själv "spakade".
 
+.SAS DC-6. Public Domain.
+image::SAS_DC-6,_Alrek_Viking_SE-BDE_at_Bromma_Airport,_Stockholm,_Sweden.jpg[DC-6,align="center",width="100%"]
+
 Accelerationen var osedvanligt långsam
 och snart förstod vi att det var för sent att avbryta starten,
 men skulle vi komma upp innan banan tog slut.
@@ -348,6 +361,9 @@ Ingastrycket vid start var inte 62 tum utan 62,5!
 TCP:n hade nackdelen att det blev beläggning på tändstiften.
 Detta medförde ofta stora förseningar p g a tändstiftsbyten.
 36 tändstift på varje motor!
+
+.SAS DC-7C. Public Domain.
+image::SAS_DC-7C,_Stig_Viking_SE-CCC_on_the_ground,_at_the_airport_1960s.jpg[DC-7C,align="center",width="100%"]
 
 Normalt magrade vi ut motorn då vi kom upp på marschhöjd.
 Så utgick ett påbud att vi skulle vänta i 5 min innan vi gjorde utmagringen,
@@ -435,6 +451,9 @@ och efter underlag från fabriken fick vi gå en ny kurs i prestanda.
 Caproni hade flygförbud och modifierades.
 Som ersättning fick vi på F 11 låna B 3 från F 1.
 Det var ont om flyglärare så det beslöts att vi vanliga piloter skulle träna instrumentflygning med varandra.
+
+.Junkers Ju 86K / B 3. Public Domain.
+image::FVMF.006081.jpg[B 3,align="center",width="100%"]
 
 Kadetterna Borg, Gustavsson och jag skulle den 11 december 1942 grilla varandra i B 3 nr 8.
 
