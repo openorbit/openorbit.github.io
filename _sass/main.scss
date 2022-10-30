@@ -2,3 +2,14 @@
 @import "bootstrap-5.2.2/scss/bootstrap.scss";
 
 /* Custom Styles */
+
+// Asciidoc generated definition list indentation of defined items
+div.dlist dd {
+    margin-bottom: .5rem;
+    margin-left: 22px; // 1
+}
+
+// Asciidoc admonition notes, adding some spacing in table
+div.admonitionblock.note table td {
+    padding: 8px;
+}
