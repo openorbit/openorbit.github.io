@@ -31,7 +31,8 @@ default-license: CC BY-NC-SA 4.0
 default-license-link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 default-license-image: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 show_excerpts: false
-
+piwik_pro_url: https://lorrden.containers.piwik.pro/
+piwik_pro_id: 301cad79-7ed5-44a7-a6ca-8860637f970b
 # Build settings
 # theme: minima
 plugins:
