@@ -1,7 +1,7 @@
 = Blunders and Accidents
 Nils Holm
 :lang: en
-:page-tags: [aviation]
+:page-tags: [aviation, caproni]
 :page-license: CC BY-NC-ND 4.0
 :page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
 :page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
