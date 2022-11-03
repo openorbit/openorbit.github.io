@@ -1,0 +1,22 @@
+- name: Test Flight 2010-04-12
+  images:
+    - caption: Earth Orbit
+      thumbnail: 2010-04-12/earth-orbit-tn.jpg
+      image: 2010-04-12/earth-orbit.png
+    - caption: Earth Orbit 2
+      thumbnail: 2010-04-12/earth-orbit-2-tn.jpg
+      image: 2010-04-12/earth-orbit-2.png
+    - caption: Jupiter Orbit
+      thumbnail: 2010-04-12/jupiter-orbit-tn.jpg
+      image: 2010-04-12/jupiter-orbit.png
+    - caption: Pleiades
+      thumbnail: 2010-04-12/pleiades-tn.jpg
+      image: 2010-04-12/pleiades.png
+    - caption: Pleiades 2
+      thumbnail: 2010-04-12/pleiades-2-tn.jpg
+      image: 2010-04-12/pleiades-2.png
+- name: Test Flight 2010-05-15
+  images:
+    - caption: Stage Detatch
+      thumbnail: 2010-05-15/stage-detatch-tn.jpg
+      image: 2010-05-15/stage-detatch.png
