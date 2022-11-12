@@ -9,4 +9,7 @@ The translation from Iclandic to Swedish was done by
 http://runeberg.org/authors/braterik.html[Erik Brathe (1857-1924)].
 
 The latest PDF of the conversion is available here:
-https://github.com/lorrden/eddan/releases/latest/download/eddan.pdf[eddan.pdf]
+
+- https://github.com/lorrden/eddan/releases/latest/download/eddan.pdf[eddan.pdf]
+- https://github.com/lorrden/eddan/releases/latest/download/eddan.epub[eddan.epub]
+- https://github.com/lorrden/eddan/releases/latest/download/eddan.html[eddan.html]
