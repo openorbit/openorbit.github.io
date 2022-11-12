@@ -13,3 +13,11 @@ The latest E-books from the conversion are available here:
 - https://github.com/lorrden/eddan/releases/latest/download/eddan.pdf[eddan.pdf]
 - https://github.com/lorrden/eddan/releases/latest/download/eddan.epub[eddan.epub]
 - https://github.com/lorrden/eddan/releases/latest/download/eddan.html[eddan.html]
+
+Revision History:
+
+1.1::
+* Added EPUB and HTML file.
+* Add missing chapter _Sången om Regin_.
+1.0::
+* Added PDF file.
