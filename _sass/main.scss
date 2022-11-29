@@ -13,3 +13,32 @@ div.dlist dd {
 div.admonitionblock.note table td {
     padding: 8px;
 }
+
+// Adjustment of block quotes,
+// Asciidoctor place these in div class "quoteblock"
+div.quoteblock {
+    margin-bottom: .5rem;
+    margin-left: 22px; // 1
+    margin-right: 22px; // 1
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 5px solid #ccc;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}
+  
