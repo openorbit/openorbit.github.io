@@ -8,6 +8,10 @@ Nils Holm
 :page-translation: { en: a-reconnaissance-mission.html, sv: ett-spaningsuppdrag.html }
 :imagesdir: /assets/images/
 
+[.lead]
+The airman Nils describes a perilous reconnaissance mission in Norway 1943,
+during his time in the Swedish Air Force.
+
 _Translated by Mattias Holm._
 
 This story was part of an inital manuscript of a book

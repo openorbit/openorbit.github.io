@@ -11,6 +11,10 @@ Nils Holm
 :page-translation: { en: a-reconnaissance-mission.html, sv: ett-spaningsuppdrag.html }
 :imagesdir: /assets/images/
 
+[.lead]
+Flygföraren Nils beskriver ett spännande spaningsuppdrag i Norge 1943,
+under sin tid i det svenska flygvapnet.
+
 Denna artikel var initialt del i ett manuskript för en bok
 som skrevs av ett antal Svenska tidigare Caproni-piloter.
 Orginalmanuskriptet publicerades aldrig öppet.

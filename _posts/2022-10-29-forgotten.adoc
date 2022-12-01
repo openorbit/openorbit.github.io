@@ -7,7 +7,12 @@ Nils Holm
 :page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 :page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
 :page-translation: { en: forgotten.html, sv: preskriberat.html }
+:page-category: aviation
 :imagesdir: /assets/images/
+
+[.lead]
+The airman Nils describes an episode in the Swedish Air Force when he flew
+and carried out an unsanctioned air show for his parents. 
 
 _Translated by Mattias Holm._
 

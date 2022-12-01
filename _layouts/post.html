@@ -26,7 +26,8 @@ layout: default
       <p>
       [
         {% for tag in page.tags %}
-        <span class="badge bg-primary rounded-pill">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        <span class="badge bg-primary rounded-pill"><a class="text-white" href="/archive/tag/{{tag}}">{{ tag }}</a></span></a>
+        {% unless forloop.last %}, {% endunless %}
         {% endfor %}
       ]
       </p>

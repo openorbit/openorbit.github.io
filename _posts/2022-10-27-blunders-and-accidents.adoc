@@ -7,7 +7,13 @@ Nils Holm
 :page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 :page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
 :page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
+:page-category: aviation
 :imagesdir: /assets/images/
+
+[.lead]
+Nils was an airman that started in the Swedish Air Force as a conscript.
+During his career in the Air Force and later ABA / SAS he experienced several incidents,
+many in which his life was in jeopardy.
 
 _Translated by Mattias Holm._
 

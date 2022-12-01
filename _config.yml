@@ -43,6 +43,7 @@ plugins:
   - jekyll-asciidoc
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -74,4 +75,20 @@ asciidoctor:
     source-highlighter: rouge
 
 collections:
+  - authors
   - projects
+
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - year
+  layouts:
+    category: archive-tag
+    tag: archive-tag
+    year: archive-year
+  permalinks:
+    year: '/archive/year/:year/'
+    tag: '/archive/tag/:name/'
+    category: '/archive/category/:name/'

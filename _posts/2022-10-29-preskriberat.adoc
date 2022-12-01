@@ -9,7 +9,12 @@ Nils Holm
 :page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 :page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
 :page-translation: { en: forgotten.html, sv: preskriberat.html }
+:page-category: aviation
 :imagesdir: /assets/images/
+
+[.lead]
+Flygföraren Nils beskriver en episod i flygvapnet när han busflög
+och genomförde en ickesanktionerad flyguppvisning för sina föräldrar. 
 
 NOTE: Tidigare publicerat i en antologi.
 Vi har inte lyckats klura ut vilken.

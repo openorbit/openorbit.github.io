@@ -1,7 +1,12 @@
 = The Dangers of DHMO, ACT NOW!
+Mattias Holm
 :page-layout: post
 :datetime: 2005-09-07 18:18
 :page-tags: [humor]
+:page-category: humor
+
+[.lead]
+Dangers of the chemical DHMO.
 
 NOTE: Imported from previous blog.
 

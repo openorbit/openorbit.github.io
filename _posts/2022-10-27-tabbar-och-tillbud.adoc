@@ -9,9 +9,15 @@ Nils Holm
 :page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 :page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
 :page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
+:page-category: aviation
 :imagesdir: /assets/images/
 
-== Foreword by Mattias
+[.lead]
+Nils var en flygförare som började i flygvapnet som värnpliktig.
+Under sin karriär i flygvapnet och sedan ABA / SAS var han med om flera händelser,
+många med livet i fara.
+
+== Förord av Mattias
 
 Denna artikel publicerades först i https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
 Den är här återpublicerad för icke-kommersiellt bruk.

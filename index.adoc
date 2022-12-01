@@ -1,5 +1,5 @@
-= About
-:page-layout: page
+= Blog
+:page-layout: blog
 
 Open Orbit is an open source space flight simulator in development.
 You can find the source code at github.
