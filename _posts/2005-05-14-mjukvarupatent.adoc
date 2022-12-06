@@ -1,0 +1,136 @@
+= Mjukvarupatent
+Mattias Holm
+:datetime: 2005-05-14 11:13 
+:lang: sv
+:page-category: politics
+:page-layout: post
+:page-mathjax:
+:page-tags: [patent, eu]
+:stem:
+
+Omkring 2005 genomfördes det ett försök till att introducera patentbarhet
+för mjukvara inom den Europeiska Unionen.
+Det var en av de första frågorna som Europeiska Unionen försökte lagstifta om,
+som mötte signifikant motstånd bland gräsrötterna.
+Till dagens datum (2022) är mjukvara inte patenterbart inom Europeiska Unionen,
+dock är fysiska system med mjukvara som en komponent det.
+Denna artikel är en kommentar om mjukvarupatent från 2005,
+med lite grammatik- och stavningsuppdateringar.
+
+Notera att oavsett frågan i sig,
+så lyfte hela händelsen upp det besynnerliga arbetssättet i ministerrådet,
+och etablerade därmed ännu mer solida argument för federalism inom Europeiska Unionen.
+Detta är alltså intressant även från konstitutionell synvinkel.
+
+== Något ruttet i Bryssel
+
+Rubriken skall inte tolkas som något antieuropeiskt.
+Den är ett uttryck för hur illa och odemokratiskt den europeiska beslutsprocessen fungerar.
+Jag är mycket europavänlig, och för att vara ännu mer tydlig, europafederalist.
+
+Det som hänt nu är Ministerrådets beslut om en gemensam hållning i frågan om huruvida mjukvarupatent skall vara tillåtna eller ej i EU.
+
+== Händelserna hittills
+
+För att förstå det hela måste man gå tillbaka till ruta 1 då Kommissionen lämnade över ett förslag för att harmonisera patentreglerna om mjukvara och datorimplementerade uppfinningar.
+Förslaget fick tusentals små och medelstora IT-företag samt tiotusentals programmerare att bli upprörda.
+En intensiv lobbykampanj startades för att hindra parlamentet att släppa igenom direktivet utan tillägg.
+Problemen med ursprungstexten var flertaliga.
+Bland annat saknades det en tydlig definition på teknik, som om man vill kan tolkas som marknadsföringsteknik, dansteknik eller något annat orimligt.
+Det behövdes därmed en definition av ordet teknik så att det endast inkluderar sådant som handlar om att kontrollera naturkrafterna.
+
+Efter Europeiska Parlamentets första läsning hösten 2003 skickades direktivet (med ändringarna som lagade direktivets oegentligheter) vidare till Ministerrådet för rådets första läsning.
+Ministerrådet valde att ta fram en ny text utan Parlamentets ändringar.
+Texten blev informellt accepterad efter diskussion i maj 2004.
+Omröstning skulle hållas senare.
+
+I december 2004 försökte rådet att få förslaget formellt accepterat under ett möte med rådet för Jordbruks- och fiskeriaffärer.
+Förslaget låg då som ett punkt som kan accepteras utan diskussion.
+En polsk minister anlände i sista minut och stoppade det hela.
+Samma sak upprepade sig i januari 2005.
+
+När FFII's representant talade med en diplomat från rådet och frågade om varför rådet vägrade gå tillbaka till förhandlingar om frågan svarade han:
+
+-- "This is not a banana republic!", d.v.s: Jag vägrar lyssna på det folkvalda Europaparlamentet för att Unionen inte är en bananrepublik.
+
+Den 17e februari 2005 samlades cirka 300 (till största delen liberala) företagare, mjukvaruutvecklare och politiker från hela Europa i Bryssel och demonstrerade mot direktivet.
+
+I mars 2005 sammanträdde rådet för den inre marknaden (den här gången rätt sammanslutning av ministrar) och röstade igenom förslaget i brott mot Ministerrådets "Rules of Procedure".
+
+Ordförande från Luxemburg sade:
+
+-- "We are adopting this Common Position today for institutional reasons as not to create a precedent".
+
+Hoppet hänger nu på att Europaparlamentet blockerar eller ändrar förslaget.
+För detta behövs absolut majoritet.
+Det verkar dock som att parlamentet kommer att återinföra alla de tidigare ändringarna.
+
+== Problemen med mjukvarupatent
+
+Som liberal är man generellt sett ganska patentvänlig, men man måste naturligtvis se på det hela ifrån varje bransch.
+Exempelvis är tanken på att patentera en film eller ett musikstycke helt absurd.
+Patent på läkemedel och tekniken och processen involverad i att isolera specifika gener är svåra att ifrågasätta.
+The Economist har dock vid ett flertal tillfällen påpekat att det nuvarande patentsystemet inte fungerar.
+
+Mjukvara är dock inte något man kan tillämpa patent på.
+Det finns ett antal anledningar till detta.
+En av dessa är att programvara redan är skyddat av upphovsrätten och att det är olämpligt att ha dubbelt skydd.
+En annan är att en patentansökan skall beskriva hur man löser ett problem, patent på mjukvara gör detta mycket sällan (det är inte orimligt att det går åt ett par miljoner rader kod för att implementera vissa patent) och då de gör det är det oftast fråga om mycket triviala saker.
+
+Thomas Östros uttalade sig i SvD efter rådets beslut.
+"Jag är starkt för patent, det är mycket viktigt för Ericsson och Nokia men också för småföretag."
+Ericsson och Nokia kan nog säkerligen tycka att det hade varit bra, men de har inga problem att söka ett EPO-patent för de cirka €30 000 som det kostar.
+Ett småföretag har väldigt sällan medlen till detta.
+
+Vidare så säljer Östros ut Unionens ekonomi och utvecklingsmöjligheter då av de mer än 30 000 mjukvarupatent som redan är beviljade (men ej giltiga) i Unionen tillhör majoriteten amerikanska företag.
+Blir mjukvarupatent lagliga kommer dessa att omedelbart bli giltiga, och europeisk industri kommer att offras.
+
+Normalt kan större företag ordna korslicensieringsavtal.
+Unionens mjukvarubranch är dominerad av små och medelstora företag.
+Dessa företag har mycket svårt att ordna korslicensieringsavtal med större bolag, då ett litet bolag har säg 5 patent jämfört med det stora bolagets 5000 patent.
+
+En avsevärd del av beviljade mjukvarupatent är dessutom antingen triviala och / eller för generella.
+I vissa fall kan man inkräkta på ett patent med en enda rad kod, och ett inte allt för stort program kan innehålla över 300 000 rader kod.
+
+Följande (RSA-kryptering) var patenterat tills för ett par år sedan,
+beskrivningen här är marginellt kortare
+footnote:[Vid användning av bibliotek eller system som kan hantera stora nummer.] än kodmassan som krävs för att implementera det hela:
+
+- Låt stem:[p, q] vara primtal,
+- Låt stem:[n = pq]
+- Låt stem:[m = (p-1)(q-1)]
+- Låt stem:[e] vara ett heltal och stem:[3 < e < m and e] skall vara koprimt till stem:[m].
+- Beräkna stem:[d] enligt: stem:[ed = 1 (mod m)]
+
+Nu gäller:
+
+- stem:[C = M^e (mod n)]
+- stem:[M = C^d (mod n)]
+
+Som ett exempel kan vi ponera att vi vill starta en webb-butik för att sälja böcker.
+Man vill ju inte tvinga kunderna att fylla i kreditkorts- och leveransuppgifter för varje bok.
+Man kan då ganska enkelt fundera ut två lösningar.
+
+. Låt kunden registrera sig en gång, lagra kundens uppgifter i en databas och bara låta hen klicka på en knapp vid boken för att köpa den.
+. Låt kunden klicka på en knapp "Lägg i kundvagn" och sedan fylla i uppgifter då hen "går till kassan".
+
+Båda dessa lösningar kommer automatiskt då man utvecklar webbshopen, båda är patenterade.
+Det ena iform av _1-Click_ av Amazon
+det andra "kundvagnspatentet" är patenterat hos EPO; patentnummer _EP807891_ och _EP784279_.
+Dessutom är hela konceptet med webbshop patenterat; nummer _EP803105_ och _EP738446_.
+Andra patent som är beviljade är hur man betalar med kreditkort via nätet; _EP820620_ och _EP779587_.
+
+För mer info kan ni ta en titt på: http://webshop.ffii.org/ där ni kan se vad du råkar ut för om ni någonsin startar en web-butik.
+
+Ett annat problem som kommer dyka upp är bolag som inte utvecklar något men som livnär sig på att köpa upp patent och stämma andra.
+I Förenta Staterna finns det ett bolag som har patent för hur man skickar film över Internet (inte för att det är någon större skillnad på att ladda ner en film jämfört med vilken annan fil som helst, om man bortser från realtidsaspekterna).
+Detta bolag började med att stämma porrbolag som lät kunder ladda ner film, detta väckte ju sympati för patentbolaget som kämpade mot den elaka porrindustrin som uppenbarligen inte hade någon respekt för intellektuella rättigheter.
+Efter tillräckligt många rättsfall där porrbolag förlorat har patentbolaget nu börjat stämma universitet och "vanliga" företag.
+
+[bibliography]
+== Bibliografi
+
+* [[[webshop]]] http://webshop.ffii.org/
+* [[[ffiiorg]]] http://www.ffii.org/
+* [[[ffise]]] http://www.ffii.se/
+* [[[noswpat]]] http://www.nosoftwarepatents.com/
