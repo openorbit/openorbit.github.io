@@ -1,0 +1,25 @@
+= EP Rejects Software Patents Directive
+Mattias Holm
+:page-layout: post
+:datetime: 2005-07-10 09:36
+:page-tags: [patents, eu]
+:page-category: politics
+
+[.lead]
+After a long period of debate, the European Parliament has finally rejected the software patents directive.
+July, 6, 2005 is a great day for European democracy, SMEs and software developers all over Europe.
+
+The EP has decided to reject the directive on computer implemented inventions, aka the software patents directive.
+The parliament rejected the directive with 648 votes to 14 with 18 abstentions, this out of a total of 732 MEPs.
+
+The overwhelming majority came after the EPP in last minute after a speech by _Michel Rocard (PSE)_;
+the speech changed the EPP MEPs to reject the directive the directive.
+
+Although, while a directive is needed that clearly limits the patentability of software,
+it is better with no text at all than a bad text;
+and it would also be better to address this issue in a full Union based patent system that replaced all the national patents.
+
+[bibliography]
+== Bibliography
+
+* https://www.europarl.europa.eu/doceo/document/CRE-6-2005-07-06-ITM-007_EN.html[European Parliament]
