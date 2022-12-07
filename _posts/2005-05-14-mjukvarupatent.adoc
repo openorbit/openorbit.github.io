@@ -8,6 +8,7 @@ Mattias Holm
 :page-tags: [patent, eu]
 :stem:
 
+[.lead]
 Omkring 2005 genomfördes det ett försök till att introducera patentbarhet
 för mjukvara inom den Europeiska Unionen.
 Det var en av de första frågorna som Europeiska Unionen försökte lagstifta om,
