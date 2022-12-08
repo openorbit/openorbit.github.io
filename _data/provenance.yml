@@ -1,0 +1,96 @@
+- image: Bf_109E-3_in_flight_(1940).jpg
+  name: Bf 109E-3 in flight
+  author: unknown / I.W.M. Photo
+  date: 1940
+  description: Messerschmitt Bf-109
+  source: https://commons.wikimedia.org/wiki/File:Bf_109E-3_in_flight_(1940).jpg
+  license:
+    name: CC-BY-3.0
+    link: https://creativecommons.org/licenses/by/3.0/
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+
+- image: Caproni.jpeg
+  name: FVM.149864
+  author: unknown / Flygvapenmuseum
+  description: Caproni Ca.313
+  source: https://digitaltmuseum.se/021025518001/tavla
+  license:
+    name: CC-BY-4.0
+    link: https://creativecommons.org/licenses/by/4.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+
+- image: FVMF.002264.jpg
+  name: FVMF.002264
+  author: unknown / Flygvapenmuseum
+  description: North American NA-16 / Sk 14
+  source: https://digitaltmuseum.org/021015638684/flygplan-sk-14a-markt-nummer-107-med-flygforare-star-pa-ett-flygfalt-flygplanet
+  license:
+    name: Public Domain
+    link: https://creativecommons.org/publicdomain/mark/1.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+
+- image: FVMF.006081.jpg
+  name: FVMF.006081
+  author: unknown / Flygvapenmuseum
+  description: Junkers Ju 86K / B 3
+  source: https://digitaltmuseum.org/0210111481231/flygplan-b-3-junkers-ju-86k-i-luften-flygbild-fran-sidan-text-vid-foto
+  license:
+    name: Public Domain
+    link: https://creativecommons.org/publicdomain/mark/1.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+
+- image: Klemm_35_01.jpg
+  name: Klemm 35
+  description: Klemm 35 / Sk 15
+  author: Towpilot
+  date: 1976-08-01
+  source: https://commons.wikimedia.org/wiki/File:Klemm_35_01.jpg
+  license:
+    name: CC-BY-3.0
+    link: https://creativecommons.org/licenses/by/3.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+
+- image: Ljungbyhed-till-Vaesteraas.jpg
+  name: Map Ljungbyhed to Västerås
+  author: Google Earth
+  description: Map showing flight route from Ljungbyhed to Västerås 
+  license:
+    name: Non-Commercial License
+    link: https://www.google.com/intl/en-GB_ALL/permissions/geoguidelines/
+
+- image: Rome-Teheran.jpg
+  name: Map Rome-Damascus-Teheran-Beirut
+  author: Google Earth
+  description: Rome-Damascus-Teheran-Beirut-Rome Round Trip. Distance is around 3950 NM (7320 km).
+  license:
+    name: Non-Commercial License
+    link: https://www.google.com/intl/en-GB_ALL/permissions/geoguidelines/
+
+- image: Saatenaes-till-Rjukan.jpg
+  name: Map Såtenäs Rjukan
+  author: Google Earth
+  description: Map showing flight route Såtenäs to Rjukan.
+  license:
+    name: Non-Commercial License
+    link: https://www.google.com/intl/en-GB_ALL/permissions/geoguidelines/
+
+- image: SAS_DC-6,_Alrek_Viking_SE-BDE_at_Bromma_Airport,_Stockholm,_Sweden.jpg
+  name: SAS DC-6
+  author: SAS Scandinavian Airlines
+  description: SAS DC-6
+  source: https://commons.wikimedia.org/wiki/File:SAS_DC-6,_Alrek_Viking_SE-BDE_at_Bromma_Airport,_Stockholm,_Sweden.jpg
+  license:
+    name: Public Domain
+    link: https://creativecommons.org/publicdomain/mark/1.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+
+- image: SAS_DC-7C,_Stig_Viking_SE-CCC_on_the_ground,_at_the_airport_1960s.jpg
+  name: SAS DC-7C
+  author: SAS Scandinavian Airlines
+  description: SAS DC-7C
+  source: https://commons.wikimedia.org/wiki/File:SAS_DC-7C,_Stig_Viking_SE-CCC_on_the_ground,_at_the_airport_1960s.jpg
+  license:
+    name: Public Domain
+    link: https://creativecommons.org/publicdomain/mark/1.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png
+

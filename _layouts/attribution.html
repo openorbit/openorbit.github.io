@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{{ content }}
+
+
+<div class="album py-5 bg-light">
+  <div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      {% for item in site.data.provenance %}
+        <div class="col">
+          <div class="card shadow-sm">
+            <a href="/assets/images/{{item.image}}"><img src="/assets/images/{{item.image}}" width="100%"></a>
+    
+            <div class="card-body">
+              <p class="card-text">{{item.description}}</p>
+              <p class="card-text">
+                This work ({{item.name}}, by {{item.author}}) is under
+                <a href="{{item.license.link}}">{{item.license.name}}</a>.
+                {% if item.source %}
+                  The image is taken from <a href="{{item.source}}">here</a>.
+                {% endif %}
+              </p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

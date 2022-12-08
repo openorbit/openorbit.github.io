@@ -1,0 +1,5 @@
+= Attribution
+:page-layout: attribution
+:imagesdir: assets/images/
+
+Attribution Page.
