@@ -1,5 +1,6 @@
 = EP Rejects Software Patents Directive
 Mattias Holm
+:lang: en
 :page-layout: post
 :datetime: 2005-07-10 09:36
 :page-tags: [patents, eu]

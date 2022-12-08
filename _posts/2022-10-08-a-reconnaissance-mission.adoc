@@ -1,5 +1,6 @@
 = A Reconnaissance Mission
 Nils Holm
+:lang: en
 :page-tags: [aviation, wwii, caproni]
 :page-license: CC BY-NC-ND 4.0
 :page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/

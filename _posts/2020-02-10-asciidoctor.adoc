@@ -1,5 +1,6 @@
 = Asciidoctor for Progress Reports
 Mattias Holm
+:lang: en
 :page-tags: [asciidoctor, update]
 :date: 2020-02-10
 :page-layout: post

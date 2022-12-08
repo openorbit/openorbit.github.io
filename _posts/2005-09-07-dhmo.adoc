@@ -1,5 +1,6 @@
 = The Dangers of DHMO, ACT NOW!
 Mattias Holm
+:lang: en
 :page-layout: post
 :datetime: 2005-09-07 18:18
 :page-tags: [humor]

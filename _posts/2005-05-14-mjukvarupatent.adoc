@@ -1,7 +1,7 @@
 = Mjukvarupatent
 Mattias Holm
-:datetime: 2005-05-14 11:13 
 :lang: sv
+:datetime: 2005-05-14 11:13 
 :page-category: politics
 :page-layout: post
 :page-mathjax:
