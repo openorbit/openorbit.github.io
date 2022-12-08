@@ -81,7 +81,7 @@ Därmed är minsta flygtid för uppdraget 1h 20min (varav 46 minuter i det tyskk
 Naturligtvis var den riktiga flygtiden längre.
 
 .Karta med kortaste rutten mellan Såtenäs och Rjukan  
-image::Såtenäs-till-Rjukan.jpg[Såtenäs to Rjukan,align="center",width="100%"]
+image::Saatenaes-till-Rjukan.jpg[Såtenäs to Rjukan,align="center",width="100%"]
 
 Det är ganska sannolikt att fotona som togs under uppdraget användes för att planera bombningarna den 16e och 18e november.
 Min farfars bidrag till historien...
