@@ -3,11 +3,96 @@ layout: default
 ---
 
 <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
-<ul class="posts">
-  {% for post in page.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+{%- assign latest_post = page.posts[0] -%}
+
+{%- if page.posts[0] -%}
+<div class="p-4 p-md-5 mb-4 rounded text-bg-dark">
+  <div class="col-md-6 px-0">
+    <strong class="d-inline-block mb-2 text-primary">{{latest_post.category}}</strong>
+    <h1 class="display-4 fst-italic">{{ latest_post.title | escape }}</h1>
+    <div class="mb-1 text-muted">{{ latest_post.date | date: date_format }} by {{ latest_post.author }}</div>
+    <p class="lead my-3">{{ latest_post.excerpt }}</p>
+    <p class="lead mb-0">
+      <a href="{{ latest_post.url | relative_url }}" class="text-white fw-bold">Continue reading...</a>
+    </p>
+  </div>
+</div>
+{%- endif -%}
+
+{%- assign post2 = page.posts[1] -%}
+{%- assign post3 = page.posts[2] -%}
+
+<div class="row mb-2">
+  {%- if page.posts[1] -%}
+  <div class="col-md-6">
+    <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+      <div class="col p-4 d-flex flex-column position-static">
+        <strong class="d-inline-block mb-2 text-primary">{{post2.category}}</strong>
+        <h3 class="mb-0">{{post2.title | escape}}</h3>
+        <div class="mb-1 text-muted">{{ post2.date | date: date_format }} by {{ post2.author }}</div>
+        <p class="card-text mb-auto">{{ post2.excerpt }}</p>
+        <a href="{{ post2.url | relative_url }}">Continue reading...</a>
+      </div>
+    </div>
+  </div>
+  {%- endif -%}
+
+  {%- if page.posts[2] -%}
+
+  <div class="col-md-6">
+    <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+      <div class="col p-4 d-flex flex-column position-static">
+        <strong class="d-inline-block mb-2 text-primary">{{post3.category}}</strong>
+        <h3 class="mb-0">{{post3.title | escape}}</h3>
+        <div class="mb-1 text-muted">{{ post3.date | date: date_format }} by {{ post3.author }}</div>
+        <p class="mb-auto">{{ post3.excerpt }}</p>
+        <a href="{{ post3.url | relative_url }}">Continue reading...</a>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endif -%}
+
+
+<div class="row g-5">
+  <div class="col-md-8">
+    <h3 class="pb-4 mb-4 fst-italic border-bottom">
+      Articles
+    </h3>
+
+    {%- for post in page.posts offset:3 -%}
+    <div class="container">
+      <article class="blog-post">
+        <h2 class="blog-post-title mb-1">{{ post.title | escape }}</h2>
+        <p class="blog-post-meta">{{ post.date | date: date_format }} by {{ post.author }}</p>
+        <p class="mb-auto">{{ post.excerpt }}</p>
+        <a href="{{ post.url | relative_url }}">Continue reading...</a>
+      </article>
+    </div>
+    {%- endfor -%}
+  </div>
+
+  <div class="col-md-4">
+    <div class="position-sticky" style="top: 2rem;">
+      <div class="p-4 mb-3 bg-light rounded">
+        <h4 class="fst-italic">About</h4>
+        <p class="mb-0">{{site.description}}</p>
+      </div>
+
+      <div class="p-4">
+        <h4 class="fst-italic">Archives</h4>
+        <ol class="list-unstyled mb-0">
+          {%- assign default_paths = site.pages | map: "path" -%}
+          {%- assign page_paths = site.header_pages | default: default_paths -%}
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {% if my_page.type == "year" %}
+              <li><a href="{{my_page.url}}">{{my_page.path | remove: "archive/year/" | remove: "/index.html"}}</a></li>
+            {% endif %}
+          {%- endfor -%}
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
