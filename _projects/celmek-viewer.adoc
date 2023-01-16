@@ -1,0 +1,9 @@
+= CelMek Viewer
+:page-project-github-url: https://github.com/lorrden/CelMek-Viewer
+
+CelMek Viewer is a simple viewer application to interact with
+and plot data produced by the
+https://github.com/lorrden/swift-celmek[Swift CelMek library].
+
+It is a macOS application, currently no public builds exist and the app
+needs to be compiled manually with Xcode.
