@@ -1,9 +1,14 @@
 = CelMek Viewer
 :page-project-github-url: https://github.com/lorrden/CelMek-Viewer
+:page-project-github-action-status: https://github.com/lorrden/CelMek-Viewer/actions/workflows/xcode.yml/badge.svg
 
-CelMek Viewer is a simple viewer application to interact with
+CelMek Viewer is a simple macOS viewer application to interact with
 and plot data produced by the
 https://github.com/lorrden/swift-celmek[Swift CelMek library].
 
-It is a macOS application, currently no public builds exist and the app
-needs to be compiled manually with Xcode.
+The latest build can be downloaded here:
+https://github.com/lorrden/CelMek-Viewer/releases/download/latest/CelMek-Viewer.zip[CelMek Viewer.app]
+
+NOTE: The app is NOT notarized at this time, although there is a code signature.
+Launching it will thus make macOS warn about something being very bad with it.
+You need to right / control-click on the app and select _Open_ after downloading, most likely two times and approve that it is opened.
