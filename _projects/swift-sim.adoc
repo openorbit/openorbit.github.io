@@ -1,0 +1,10 @@
+= Swift Sim
+:page-project-github-url: https://github.com/lorrden/swift-sim
+:page-project-github-action-status: https://github.com/lorrden/swift-sim/actions/workflows/swift.yml/badge.svg
+
+Swift sim is a simulation library written in Swift.
+It is very early in development but is intended to include:
+
+- Event driven simulation
+- Dataflow simulation
+- Snapshots
