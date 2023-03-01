@@ -1,0 +1,12 @@
+= Open Orbit
+:page-project-github-url: https://github.com/openorbit/Open-Orbit
+
+Open Orbit is a space flight simulator.
+The current project is a conversion in progress of the original C-code to Swift.
+Unlike the C-version, the Swift version utilize several dependencies on system libraries.
+
+This includes SceneKit for rendering and rigid body simulation.
+Texture based sky boxes instead of spherical point stars, etc.
+
+Open Orbit is very early in the conversion process.
+Do not expect anything fun or usable at this time (2023-03-01).
