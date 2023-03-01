@@ -10,3 +10,6 @@ Texture based sky boxes instead of spherical point stars, etc.
 
 Open Orbit is very early in the conversion process.
 Do not expect anything fun or usable at this time (2023-03-01).
+
+Open Orbit utilize the https://github.com/lorrden/swift-sim[`swift-sim`]
+and https://github.com/lorrden/swift-celmek[`swift-celmek`] packages.
