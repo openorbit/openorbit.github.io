@@ -1,5 +1,7 @@
 = Open Orbit
 :page-project-github-url: https://github.com/openorbit/Open-Orbit
+:page-project-github-action-status: https://github.com/openorbit/Open-Orbit/actions/workflows/xcode.yml/badge.svg
+:page-project-github-latest: https://github.com/openorbit/Open-Orbit/releases/download/latest/Open-Orbit.zip
 
 Open Orbit is a space flight simulator.
 The current project is a conversion in progress of the original C-code to Swift.
@@ -13,3 +15,6 @@ Do not expect anything fun or usable at this time (2023-03-01).
 
 Open Orbit utilize the https://github.com/lorrden/swift-sim[`swift-sim`]
 and https://github.com/lorrden/swift-celmek[`swift-celmek`] packages.
+
+The latest build is available here:
+{page-project-github-latest}[Open Orbit.app]

@@ -26,6 +26,10 @@ layout: default
           <br/>
           <img src="{{project.project-github-action-status}}" alt="Build Status"/><br/>
         {% endif%}
+        {% if project.project-github-latest %}
+          <br/>
+          <a href="{{project.project-github-latest}}"><svg class="bi" width="24" height="24"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg><span>Download</span></a>
+        {% endif%}
         <p>{{ project.content }}</p>
       </div>
     </div>
