@@ -18,3 +18,7 @@ and https://github.com/lorrden/swift-celmek[`swift-celmek`] packages.
 
 The latest build is available here:
 {page-project-github-latest}[Open Orbit.app]
+
+NOTE: The app is NOT notarized at this time, although there is a code signature.
+Launching it will thus make macOS warn about something being very bad with it.
+You need to right / control-click on the app and select _Open_ after downloading, most likely two times and approve that it is opened.
