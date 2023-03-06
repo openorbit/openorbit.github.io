@@ -25,3 +25,8 @@
     - caption: First Swift Rendering
       thumbnail: 2023-03-04/first-swift-screenshot-tn.jpg
       image: 2023-03-04/first-swift-screenshot.png
+- name: Test Flight 2023-03-06
+  images:
+    - caption: Earth Background Rendering
+      thumbnail: 2023-03-06/earth-background-swift-tn.jpg
+      image: 2023-03-06/earth-background-swift.png
