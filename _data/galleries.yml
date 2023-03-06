@@ -28,5 +28,5 @@
 - name: Test Flight 2023-03-06
   images:
     - caption: Earth Background Rendering
-      thumbnail: 2023-03-06/earth-background-swift-tn.jpg
+      thumbnail: 2023-03-06/earth-background-swift-tn.png
       image: 2023-03-06/earth-background-swift.png
