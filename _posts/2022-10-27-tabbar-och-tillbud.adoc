@@ -28,7 +28,7 @@ Artikeln är redigerad av Mattias Holm, som lagt till länkar och bilder för at
 Den engelska översättningen av artikeln är också gjord av Mattias, flera termer var svåra att översätta.
 Någon med bättre insikt av flygtermer skulle kunna hjälpa här
 (t.ex. genom att skapa en _issue_ på https://github.com/openorbit/openorbit.github.io[GitHub]
-eller genom att kontakta Mattias på Twitter).
+eller genom att kontakta Mattias på Mastodon).
 
 Exempel på osäkra översättningar, inkluderar:
 

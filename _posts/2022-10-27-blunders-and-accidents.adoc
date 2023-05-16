@@ -26,7 +26,7 @@ The article is a number of short stories about different incidents during Nils' 
 The article has been edited by Mattias Holm, adding links, and images to provide more context.
 
 The translation was done by Mattias as well, and it should be stated that several terms are very hard to translate.
-Someone with better insight in aviation terms could help out here (e.g. by filing an issue report at https://github.com/openorbit/openorbit.github.io[GitHub] or by contacting Mattias at Twitter).
+Someone with better insight in aviation terms could help out here (e.g. by filing an issue report at https://github.com/openorbit/openorbit.github.io[GitHub] or by contacting Mattias at Mastodon).
 
 As an example of terms that I find uncertain, include:
 

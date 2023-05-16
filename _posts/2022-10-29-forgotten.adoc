@@ -20,7 +20,7 @@ NOTE: This is the English translation of an article previously published in an a
 (in the original Swedish).
 However we have not been able to determine which one.
 Only that it was at pages 111-113.
-Contact Mattias on Twitter
+Contact Mattias on Mastodon
 or file an issue at https://github.com/openorbit/openorbit.github.io[GitHub] if you have more info.
 
 As flight instructor at the aspirant school, it was difficult to get a leave.

@@ -19,7 +19,7 @@ och genomförde en ickesanktionerad flyguppvisning för sina föräldrar.
 NOTE: Tidigare publicerat i en antologi.
 Vi har inte lyckats klura ut vilken.
 Bara att artikeln låg på sidorna 111-113.
-Kontakta Mattias på Twitter
+Kontakta Mattias på Mastodon
 eller lägg in en _issue_ på https://github.com/openorbit/openorbit.github.io[GitHub] om du har mer information.
 
 Som flyglärare på Aspirantskolan var det dåligt med permissioner.
