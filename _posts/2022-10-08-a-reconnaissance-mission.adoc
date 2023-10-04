@@ -15,7 +15,14 @@ during his time in the Swedish Air Force.
 
 _Translated by Mattias Holm._
 
-This story was part of an inital manuscript of a book
+|===
+| Date | Change
+
+| 2022-10-08 | Initial revision
+| 2023-10-04 | Added note about the actual date after discovering flight journal entries.
+|===
+
+This story was part of an initial manuscript of a book
 which was written by a number of Swedish former Caproni pilots.
 The original manuscript was never published officially.
 However, part of the manuscript was provided to Mikael Forslund who produced a book,
@@ -75,6 +82,15 @@ https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attributi
 
 So we can conclude that the flight most likely happened on either the 1st of August or the 22nd of August.
 The other dates seem to cold to be offering sunny weather for swimming.
+
+NOTE: Subsequently, we have discovered parts of Nils' flight journal.
+    It states for 1943-08-01:
+        _Reconnaissance in Norway.
+        Flies over an American B-17 Flying Fortress.
+        My engines are running badly.
+        Need to hand pump us through._
+    Since the 22nd of August is blank, we now believe that this is the date.
+    It was also the warmest Sunday in that month.
 
 The distance between Såtenäs and Rjukan is 153 NM (283 km), of which 60 NM (111 km) was in Sweden and 93 NM (172 km) in Norway.
 The minimum trip in the mission was thus 306 NM.

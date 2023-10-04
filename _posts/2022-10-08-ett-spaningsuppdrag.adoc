@@ -15,6 +15,13 @@ Nils Holm
 Flygföraren Nils beskriver ett spännande spaningsuppdrag i Norge 1943,
 under sin tid i det svenska flygvapnet.
 
+|===
+| Datum | Ändring
+
+| 2022-10-08 | Första släppet av texten
+| 2023-10-04 | Lade till en anteckning om  det riktiga datumet efter att ha upptäckt delar av flygdagboken.
+|===
+
 Denna artikel var initialt del i ett manuskript för en bok
 som skrevs av ett antal Svenska tidigare Caproni-piloter.
 Orginalmanuskriptet publicerades aldrig öppet.
@@ -73,6 +80,16 @@ https://creativecommons.org/licenses/by/4.0/legalcode.sv[Creative Commons Erkän
 
 Så vi kan dra slutsatsen flygningen mest sannolikt hände antingen den 1a augusti eller den 22a augusti.
 De andra datumen verkar för kalla för att ha soligt väder för simning.
+
+NOTE: Vi, har nyligen upptäckt delar av Nils' flygdagbok.
+    Den säger för 1943-08-01:
+        _Spaning mot Norge.
+        Flyger över en amerikansk B-17 Flygande fästing.
+        Mina motorer går dåligt.
+        Måste handpumpa oss fram._
+    Since the 22nd of August is blank, we now believe that this is the date.
+    It was also the warmest Sunday in that month.
+
 
 Avståndet mellan Såtenäs och Rjukan är 153 NM (283 km), varav 60 NM (111 km) i Sverige och 93 NM (172 km) i Norge.
 Uppdragets minsta flygavstånd var därmed 306 NM (566 km).
