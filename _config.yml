@@ -73,11 +73,11 @@ asciidoctor:
   attributes:
     stem:
     source-highlighter: rouge
+    bibtex-file: research/bibliography.bib
 
 collections:
   - authors
   - projects
-
 
 jekyll-archives:
   enabled:
