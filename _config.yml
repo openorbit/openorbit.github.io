@@ -28,6 +28,8 @@ url: "https://openorbit.org" # the base hostname & protocol for your site, e.g. 
 github_username:  lorrden
 mastodon_username: "@lorrden@c.im"
 mastodon_link: https://c.im/web/@lorrden
+bluesky_username: "lorrden.bsky.social"
+
 copyright: 2022-2023, Mattias Holm
 default-license: CC BY-NC-SA 4.0
 default-license-link: https://creativecommons.org/licenses/by-nc-sa/4.0/
