@@ -175,6 +175,11 @@ I was ashamed.
 
 == Two Landing Failures in One Hour
 
+
+NOTE: This may be the crash that is https://aviation-safety.net/wikibase/271677[documented here] cite:[as:271677].
+  The report however places the event at Reslöv instead of Kvidinge.
+
+
 During my time as flight instructor
 at the https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[aspirant school in Ljungbyhed],
 I had an aspirant that had serious problems with completing the exercise "landing during wing gliding".
@@ -433,3 +438,7 @@ Except for the edge causing a skinned back, I escaped the adventure with the she
 It may seem that I had a lot of blunders,
 but considering the 40 years and almost 22000 hours flying time maybe it is not too alarming.
 It was over three years between the incidents and they were of course focused to the air force.
+
+== Bibliography
+
+bibliography::[]

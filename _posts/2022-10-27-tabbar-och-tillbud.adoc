@@ -185,6 +185,9 @@ Jag skämdes.
 
 == Två landningshaverier inom en timme
 
+NOTE: Detta kan vara kraschen som finns https://aviation-safety.net/wikibase/271677[dokumenterad här] cite:[as:271677].
+  Denna sätter dock platsen till Reslöv istället för Kvidinge.
+
 Under min tid som flyglärare på https://sv.wikipedia.org/wiki/Krigsflygskolan[aspirantskolan i Ljungbyhed]
 hade jag en aspirant som hade stora svårigheter att klara av övningen
 "landning under vingglidning".
@@ -235,7 +238,7 @@ Resultatet blev sättning med låg vänstervinge och kraftig avdrift.
 I protest mot den omilda behandlingen vek sig vänster ställ markant
 och satte stopp för vidare övning.
 
-En vandring till en bondgard och ett telefonsamtal med trafikledaren
+En vandring till en bondgård och ett telefonsamtal med trafikledaren
 resulterade i att två flygplan kom ut med hjälp och ett par tekniker.
 Teknikerna stannade kvar medan en löjtnant i det ena planet och jag
 och aspiranten i det andra startade i sluten formering mot F 5
@@ -498,3 +501,7 @@ men räknat på 40 år och nästan 22000 timmars flygning
 kanske det inte är alltför alarmerande.
 Det gick ju över tre år mellan incidenterna
 och naturligtvis koncentrerades de till Flygvapnet.
+
+== Referenser
+
+bibliography::[]
