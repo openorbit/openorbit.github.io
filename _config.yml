@@ -23,12 +23,12 @@ title: Open Orbit
 description: >- # this means to ignore newlines until "baseurl:"
   Open Orbit Space Flight Simulator and personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://openorbit.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: lorrdenh
 github_username:  lorrden
 mastodon_username: "@lorrden@c.im"
 mastodon_link: https://c.im/web/@lorrden
-copyright: 2022, Mattias Holm
+copyright: 2022-2023, Mattias Holm
 default-license: CC BY-NC-SA 4.0
 default-license-link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 default-license-image: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
