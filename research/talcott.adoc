@@ -1,0 +1,79 @@
+= Franklin D Talcott
+:bibtex-file: research/bibliography.bib
+
+Franklin D. Talcott was born on _13 Feb, 1922_ cite:[web:talcott-grave].
+In 1940 he was living with his mother Fraces cite:[web:talcott-census] at _107 W Twenty-Ninth Street in Baltimore, Maryland_.
+Fraces was married to John Talcott cite:[web:frances-talcott-grave].
+Franklin was drafted during World War II on July 1, 1942 cite:[web:talcott-census].
+
+In 1944, Franklin was a 1st Lieutenant cite:[web:talcott-grave,uspilot:talcott] in the US Air Force,
+serving in 503rd Fighter Squadron, 339th Fighter Group.
+The fighter squadron was based in Fowlmere Airfield in England (USAAF Station F-378).
+See cite:[wiki:fowlmere, wiki:339th-fighter-group, wiki:503rd-fighter-squadron, am:339th-fighter-group, am:web:503rd-fighter-squadron].
+
+On the 4th of August, 1943 Cap. Raymond Lancaster's cite:[uspilot:lancaster] Mustang cite:[usplane:44-13939] suffered mechanical failure after a raid.
+He was escorted by two pilots (Baker cite:[uspilot:baker] and Rabb cite:[uspilot:rabb]) to neutral Sweden.
+Lancaster crash landed in Vellinge (but survived) cite:[as:95048]. 
+After the Mustang with Lancaster did an emergency landing, the other two started the flight back to England
+
+According to cite:[fb:lancaster-baker-rabb] they were intercepted by a German Bf-110 (incorrectly identified as a Dornier (see chapter _F 5 och kriget_ in cite:[book:krfl70(63)])).
+The Bf-110G-4 (serial 720251 code G9+HX) was piloted by _Hauptman Baron Fritz von Bucholtz_.
+After a dogfight the Bf-110 was shot down.
+_Unteroffizier Rudi Freund_ and the Engineer bailed out.
+_Baron von Bucholtz_ was killed in the crash and buried in Vestre Cemetary in Copenhagen.
+Baker and Rabb however had used up too much fuel to safely make it back to England.
+They turned around and landed their planes _Hot Pants_ cite:[as:95046] and _Some Joke_ cite:[as:95039] in Sweden.
+Subsequently _Lancaster_, _Rabb_ and _Baker_ were interned,
+and sent back to England together on 1944-11-01.
+
+On 1944-08-06, two days after the crash landing of the P-51D and the controlled landing of the two P-51B's, Lt. Talcott took off in his P-51D #44-13917 _You've Had It_ from F-378 in England.
+He took flak outside Bornholm, forcing him to land at Bulltofta in Sweden cite:[as:95049].
+
+On August 6, 1944 cite:[web:talcott-macr], Talcott took off in his P-51D Mustang,
+from F-378 in England.
+He took flak outside Bornholm,
+forcing him to land his P-51D #44-13917 _You've Had It_ at Bulltofta in Sweden cite:[web:talcott-macr,as:95049].
+
+At that time, Franklin was interned in Sweden (Sweden being formally neutral).
+Internment is not prison, so the Swedish air force
+asked him on 1944-10-07 to fly the Mustang (_Some Joke_) from F 5 to Stockholm cite:[book:krfl70].
+
+After the takeoff from F 5, Talcott decided to give an unsanctioned and advanced airshow.
+Persons on ground had to throw themselves on ground to not getting flown into.
+The Mustang collided with a tree top and crashed into an educational building.
+Talcott was killed immediately.
+In the process of crashing, the elevator mass balance came loose,
+and flew into one of the baracks cite:[as:95041].
+The mass balance hit the bed where a swedish airman (_Nils Holm_) had just been resting.
+
+According to cite:[book:krfl70] the other plane _Hot Pants_ was subsequently purchased by the Swedish air force,
+and became J 26 number 26002.
+
+[bibliography]
+== References
+
+bibliography::[]
+
+//* [[[web:ill:youvehadit,5]]] North American P-51D-5 Mustang, Claes Sundin, https://luftwaffeinprofile.se/P-51%20Talcott.html
+//Drawing of _You've had it_, the plane flown by Talcott before his emergency landing.
+
+//* [[[web:youvehadit,6]]] https://www.forcedlandingcollection.se/USAAFe/USAAF115-440806-youvehadit.html
+//Pictures of _You've had it_.
+
+//* [[[web:youvehadite,7]]] Nödlandade Mustanger: "YOU'VE HAD IT", Leif Hellström, https://www.forcedlandingcollection.se/USAAF/USAAF115-440806-youvehadit.html
+//Pictures and description in Swedish of _You've had it_.
+
+//* [[[web:sohforum,8]]] Sim out House Forum: Swedish P-51D-5-NA http://www.sim-outhouse.com/sohforums/archive/index.php/t-61215.html
+//Another description of the event.
+
+//* [[[web:mustangse,9]]] De Första Mustangerna i Sverige: Nödlandarna, https://svfplhist.home.blog/j-26-nodlandarna/
+//Description of different Mustangs in Sweden.
+
+//* [[[web:mustangse2,10]]] De Första Mustangerna i Sverige: Nödlandarna, http://www.flygplanshistorik.se/j26/j26nod.htm#GTEM
+//Description of different Mustangs in Sweden.
+
+//* [[[forum:mustang,11]]] Svenskt Flyghistoriskt Forum, https://forum.flyghistoria.org/viewtopic.php?f=37&t=10579&p=37093
+//Discussion of the fate of some of the planes (transfer to the Dominican republic etc).
+
+//* [[[web:339,12]]] The 339th Honors Its' Fallen Comrades, James R. Starnes and Stephen C. Ananian  http://339fg.s3.amazonaws.com/accounts/Memorials%20of%20the%20339.pdf
+//PDF with the internment status of Talcott listed.
