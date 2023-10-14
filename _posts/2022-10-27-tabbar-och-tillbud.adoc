@@ -11,6 +11,27 @@ Nils Holm
 :page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
 :page-category: aviation
 :imagesdir: /assets/images/
+:Svensk-Flyghistorisk-Tidskrift: https://flyghistoria.org[Svensk Flyghistorisk Tidskrift]
+:F-1: https://sv.wikipedia.org/wiki/Västmanlands_flygflottilj[F 1]
+:F-5: https://sv.wikipedia.org/wiki/Krigsflygskolan[F 5]
+:F-8: https://sv.wikipedia.org/wiki/Svea_flygflottilj[F 8]
+:F-11: https://sv.wikipedia.org/wiki/Södermanlands_flygflottilj[F 11]
+:F-21: https://sv.wikipedia.org/wiki/Norrbottens_flygflottilj[F 21]
+:BMEP: https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP]
+:CB-moln: https://sv.wikipedia.org/wiki/Cumulonimbus[CB-moln]
+:Rom: https://sv.wikipedia.org/wiki/Rom[Rom]
+:Damaskus: https://sv.wikipedia.org/wiki/Damaskus[Damaskus]
+:Teheran: https://sv.wikipedia.org/wiki/Teheran[Teheran]
+:Beirut: https://sv.wikipedia.org/wiki/Beirut[Beirut]
+:Koreakriget: https://sv.wikipedia.org/wiki/Koreakriget[Koreakriget]
+:TCP: https://en.wikipedia.org/wiki/Tricresyl_phosphate[TCP]
+:DC-7C: https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C]
+:Sk-14: https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14]
+:Sk-15: https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15]
+:S-16: https://sv.wikipedia.org/wiki/Caproni_Ca.313#S_16A[S 16]
+:Kvidinge: https://sv.wikipedia.org/wiki/Kvidinge[Kvidinge]
+:aspirantskolan: https://sv.wikipedia.org/wiki/Krigsflygskolan[aspirantskolan]
+:Schyberg: https://sv.wikipedia.org/wiki/Birger_Schyberg[Schyberg]
 
 [.lead]
 Nils var en flygförare som började i flygvapnet som värnpliktig.
@@ -28,7 +49,7 @@ många med livet i fara.
 
 == Förord av Mattias
 
-Denna artikel publicerades först i https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
+Denna artikel publicerades först i {Svensk-Flyghistorisk-Tidskrift} 4/12.
 Den är här återpublicerad för icke-kommersiellt bruk.
 
 Artikeln innehåller ett antal korta berättelser om olika incidenter under Nils flygkarriär.
@@ -67,7 +88,7 @@ Talcott flög en P51 Mustang under en räd i Polen och tvingades till en  https:
 Mustangen reparerades och https://www.forcedlandingcollection.se/USAAF/USAAF115-440806-youvehadit.html[flögs upp till F 8 Barkaby av en flygofficer vid amerikanska ambassaden].
 Flygplanet köptes sedan av Sverige under 1945 och tjänstgjorde i flygvapnet
 tills det såldes till Dominikanska Republiken 1952.
-Den dödliga olyckan var med en annan Mustang som också skulle flygas upp til F 8 Barkaby.
+Den dödliga olyckan var med en annan Mustang som också skulle flygas upp til {F-8} Barkaby.
 Det verkar som att Talcott är samma person som nämns https://www.ancestry.com/1940-census/usa/Maryland/Franklin-D-Talcott_575225[här] och https://www.findagrave.com/memorial/1239515/franklin-d-talcott[här].
 
 NOTE: Såvitt jag har lyckats utreda så är alla namngivna individer här döda.
@@ -115,9 +136,8 @@ till uppfattningen att det var ett omdömesgillt handlande.
 
 == Dubbla motorstopp på Caproni
 
-Vi hade legat på vinterövningar på
-https://sv.wikipedia.org/wiki/Norrbottens_flygflottilj[F 21 i Luleå]
-och skulle flyga hem till https://sv.wikipedia.org/wiki/Södermanlands_flygflottilj[F 11].
+Vi hade legat på vinterövningar på {F-21} i Luleå
+och skulle flyga hem till {F-11}.
 Vi tilldelades fpl nr 21 och hade en beräknad flygtid på tre timmar.
 Som vanligt lastades fpl till minst fullvikt vid denna typ av flygning.
 Det gällde ju att få med så mycket som möjligt av fältutrustningen,
@@ -150,7 +170,7 @@ Orsaken till motorstoppen var att Helmer med sin vintermössa
 medelst huvudvridning hade kommit åt magnetbrytaren som satt i taket.
 Som lägst uppskattade vi höjden till 70-80 m.
 
-Vi fortsatte flygningen till F 11 utan några särskilda kommentarer.
+Vi fortsatte flygningen till {F-11} utan några särskilda kommentarer.
 Jag kunde inte inte märka någon särskild reaktion
 eller nervositet från någon ombord.
 Vi tyckte inte ens att det var värt att rapportera.
@@ -158,7 +178,7 @@ Vi tyckte inte ens att det var värt att rapportera.
 == Utskällning efter noter 
 
 Problemen med hastighetsmätare som slutade att fungera
-var ofta förekommande https://sv.wikipedia.org/wiki/Caproni_Ca.313#S_16A[S 16 Caproni].
+var ofta förekommande {S-16} Caproni.
 Orsaken var att pitotelementen brändes sönder med därav följande isbildning.
 Inte förrän man slutade med att ha värmen tillslagen
 redan från det att man började taxa ut blev det bättre.
@@ -169,9 +189,9 @@ Jag råkade ut för problemet minst tre gånger.
 En gång stannade mätaren på 220 km/h.
 För en van förare var det inget större problem.
 Sista gången det hände mig landade jag som vanligt på gällande bana
-vilket råkade vara F 11 bana 26.
+vilket råkade vara {F-11} bana 26.
 
-Efter någon dag blev jag inkallad till https://sv.wikipedia.org/wiki/Birger_Schyberg[överste Schyberg].
+Efter någon dag blev jag inkallad till överste {Schyberg}.
 Omedveten om denna ära blev jag mycket förvånad
 över att få en riktig utskällning för mitt dåliga omdöme
 att med trasig hastighetsmätare landa över kanslihuset
@@ -188,7 +208,7 @@ Det var hur lätt som helst.
 Till saken hör att översten trots många försök
 inte blev godkänd för ensamflygning.
 Det var inte bara han som hade problem med landningarna,
-det gällde bara att glömma bort att det inte var någon https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
+det gällde bara att glömma bort att det inte var någon {Sk-14}.
 
 Så lätt kan det vara att tanklöst trampa någon på tårna.
 Jag skämdes.
@@ -196,14 +216,14 @@ Jag skämdes.
 == Två landningshaverier inom en timme
 
 NOTE: Detta kan vara kraschen som finns https://aviation-safety.net/wikibase/271677[dokumenterad här] cite:[as:271677].
-  Denna sätter dock platsen till Reslöv istället för Kvidinge.
+  Denna sätter dock platsen till Reslöv istället för {Kvidinge}.
 
-Under min tid som flyglärare på https://sv.wikipedia.org/wiki/Krigsflygskolan[aspirantskolan i Ljungbyhed]
+Under min tid som flyglärare på {aspirantskolan} i Ljungbyhed
 hade jag en aspirant som hade stora svårigheter att klara av övningen
 "landning under vingglidning".
 Övningen avsåg att klara av nödlandning efter för hög anflygning,
 framförallt med flygplan som inte var försedda med vingklaffar.
-I detta fall https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15 (Klemm)].
+I detta fall {Sk-15} (Klemm).
 
 .Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
 image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
@@ -229,7 +249,7 @@ och övningens ändamål att förkorta landningssträckan förfelades.
 Efter konsultation med förste flygläraren, beslöts att jag,
 eftersom eleven f ö var lovande, skulle få ett extra pass
 och för att få arbeta utan störande moment från andra flygplan
-fick vi träna på https://sv.wikipedia.org/wiki/Kvidinge[Kvidinge] flygfält.
+fick vi träna på {Kvidinge} flygfält.
 
 Övningarna gick inte bra.
 Eleven spände sig och fortsatte att avbryta vingglidningen alldeles för tidigt.
@@ -251,7 +271,7 @@ och satte stopp för vidare övning.
 En vandring till en bondgård och ett telefonsamtal med trafikledaren
 resulterade i att två flygplan kom ut med hjälp och ett par tekniker.
 Teknikerna stannade kvar medan en löjtnant i det ena planet och jag
-och aspiranten i det andra startade i sluten formering mot F 5
+och aspiranten i det andra startade i sluten formering mot {F-5}
 och den hägrande lunchen.
 
 Även landningen skedde i sluten formering - jag till vänster om löjtnanten
@@ -277,7 +297,7 @@ FIK (Flyginstruktörskurs) 1944 avslutades med en flygtävlan
 omfattande avancerad flygning
 med både obligatoriskt och fritt komponerat program,
 navigationsflygning med tidskontroll
-som avslutades med precisionslandning med https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
+som avslutades med precisionslandning med {Sk-14}.
 Det var på det sista momentet som jag gjorde bort mej.
 
 .North American NA-16 / Sk 14. https://creativecommons.org/publicdomain/mark/1.0/deed.en[Public Domain].
@@ -309,9 +329,9 @@ Det hade jag ju förtjänat - men jag slapp att betala vingspetsen.
 
 Detta skedde lördagen den 7 oktober 1944.
 Jag var trött efter orienteringslöpning och lunch och låg på sängen
-och vilade mig i barack _Åsen_ intill idrottsplatsen på https://sv.wikipedia.org/wiki/Krigsflygskolan[F 5, Ljungbyhed].
+och vilade mig i barack _Åsen_ intill idrottsplatsen på {F-5}.
 Den amerikanske https://aviation-safety.net/wikibase/95049[löjtnanten Talcott] provflög en _Mustang_
-inför överföring till https://sv.wikipedia.org/wiki/Svea_flygflottilj[F 8] (se SFT 1/05).
+inför överföring till {F-8} (se SFT 1/05).
 Då jag hörde det fantastiska motorvrålet masade jag mig upp ur sängen
 och gick fram till fönstret för att se vad som stod på.
 Den gode Talcott hade tydligen inte kommit över trädtopparna
@@ -328,7 +348,7 @@ Hade jag inte varit så nyfiken hade denna artikel inte skrivits.
 
 == Startproblem med DC-6
 
-Start fran Damaskus någon gång i början av 1949 med https://en.wikipedia.org/wiki/Douglas_DC-6[DC-6].
+Start fran Damaskus någon gång i början av 1949 med {DC-6}.
 Normalt hade vi aldrig något problem med starten
 som vanligtvis skedde i mörker på kvällen, då det var svalt.
 Denna gång var vi p g a tekniskt problem försenade
@@ -371,10 +391,10 @@ Man skall komma ihåg att detta var i flygets barndom.
 
 == Motorstopp på fyra motorer
 
-Under https://sv.wikipedia.org/wiki/Koreakriget[Koreakriget] blev det brist på högoktanig flygbensin.
+Under {Koreakriget} blev det brist på högoktanig flygbensin.
 För att lösa problemen tillsatte man, om jag minns rätt,
-ett ämne som vi kallade https://en.wikipedia.org/wiki/Tricresyl_phosphate[TCP].
-https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C] var ju särskilt känslig med sin höga kompression.
+ett ämne som vi kallade {TCP}.
+{DC-7C} var ju särskilt känslig med sin höga kompression.
 Man hade tagit ut så mycket effekt som var möjligt.
 Ingastrycket vid start var inte 62 tum utan 62,5!
 TCP:n hade nackdelen att det blev beläggning på tändstiften.
@@ -389,11 +409,9 @@ Så utgick ett påbud att vi skulle vänta i 5 min innan vi gjorde utmagringen,
 så att motortemperaturen hade stabiliserats.
 
 Vi startade från Beirut mot Rom.
-Marschhöjden nådde vi över Cypern där vi gick i kraftiga https://sv.wikipedia.org/wiki/Cumulonimbus[CB-moln].
-Vi tjänstgjorde från https://sv.wikipedia.org/wiki/Rom[Rom]
-via https://sv.wikipedia.org/wiki/Damaskus[Damaskus]
-till https://sv.wikipedia.org/wiki/Teheran[Teheran]
-och åter via https://sv.wikipedia.org/wiki/Beirut[Beirut] till Rom.
+Marschhöjden nådde vi över Cypern där vi gick i kraftiga {CB-moln}.
+Vi tjänstgjorde från {Rom} via {Damaskus} till {Teheran}
+och åter via {Beirut} till {Rom}.
 Sträckan var för lång för normal tjänstgöringstid
 så besättningen var förstärkt med en kapten, en telegrafist och en mekaniker.
 Vi hade tre sängar till förfogande.
@@ -407,7 +425,7 @@ så jag trängde mig fram över mekanikern, drog av gasen
 och drog förvärmningsreglagen ända upp,
 och det tog inte många sekunder förrän motorera sjöng vackert igen.
 Jag stannade kvar och kontrollerade att motorera gick bra
-efter utmagringen med 8 https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Brake Mean Effective Pressure)].
+efter utmagringen med 8 {BMEP} (Brake Mean Effective Pressure).
 
 .Rome-Damascus-Teheran-Beirut-Rome Round Trip. Distance is around 3950 NM (7320 km).
 image::Rome-Teheran.jpg[Rome Teheran Map,align="center",width="100%"]
@@ -468,7 +486,7 @@ och efter underlag från fabriken fick vi gå en ny kurs i prestanda.
 == På väg utan fallskärm
 
 Caproni hade flygförbud och modifierades.
-Som ersättning fick vi på F 11 låna B 3 från F 1.
+Som ersättning fick vi på {F-11} låna B 3 från {F-1}.
 Det var ont om flyglärare så det beslöts att vi vanliga piloter skulle träna instrumentflygning med varandra.
 
 .Junkers Ju 86K / B 3. Public Domain.
