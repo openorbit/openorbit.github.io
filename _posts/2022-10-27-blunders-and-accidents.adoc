@@ -443,6 +443,7 @@ Guess if I quickly buckled up or not after this.
 
 Except for the edge causing a skinned back, I escaped the adventure with the sheer horror.
 
+[#_effect_loss_during_takeoff]
 == Effect Loss During Takeoff
 
 I took off with an Sk 14 at Ljungbyhed.
@@ -456,6 +457,7 @@ So the only thing to do was to continue the exercise.
 Here I must commend the Swedish Air Force.
 Already a week after this, there were no more arm straps in the entire air force.
 
+[#_eagle_hunt_with_airplane]
 == Eagle Hunt with Airplane
 
 On the way to Tokyo with a _Coronado_, we had a stopover at Kloten Airport, Zurich.

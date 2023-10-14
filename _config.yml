@@ -73,6 +73,7 @@ asciidoctor:
   base_dir: :docdir
   safe: unsafe
   attributes:
+    idprefix: _
     stem:
     source-highlighter: rouge
     bibtex-file@: research/bibliography.bib

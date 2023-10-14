@@ -22,8 +22,8 @@ många med livet i fara.
 
 | 2022-10-27 | Första släppet av texten
 | 2023-10-14 | Rättade fel efter att orginaltexten hittats.
-| 2023-10-14 | Lade till opublicerad sektion: <<_effektförlust_under_start>>
-| 2023-10-14 | Lade till opublicerad sektion: <<_örnjakt_med_flyg>>
+| 2023-10-14 | Lade till opublicerad sektion: <<_effektforlust_under_start>>
+| 2023-10-14 | Lade till opublicerad sektion: <<_ornjakt_med_flyg>>
 |===
 
 == Förord av Mattias
@@ -504,6 +504,7 @@ Gissa om jag snabbt spände fast mig.
 Frånsett att sargen förorsakade en skinnflådd rygg
 undkom jag äventyret med blotta förskräckelsen.
 
+[#_effektforlust_under_start]
 == Effektförlust under start
 
 Jag startade med en Sk 14 på Ljungbyhed.
@@ -517,6 +518,7 @@ Så var det bara att fortsätta övningen.
 Här måste jag ge en eloge till FV.
 Redan efter en vecka fanns inte en enda slejf kvar i hela flygvapnet.
 
+[#_ornjakt_med_flyg]
 == Örnjakt med flyg
 
 På văg till Tokyo med flygplan Coronado mellanlandade vi på Kloten Airport, Zurich.
