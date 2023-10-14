@@ -16,11 +16,25 @@ Nils Holm
 :Caproni: https://en.wikipedia.org/wiki/Caproni_Ca.313[Caproni]
 :S-16: https://en.wikipedia.org/wiki/Caproni_Ca.313[S 16]
 :B-3: https://en.wikipedia.org/wiki/Junkers_Ju_86[B 3]
+:DC-6: https://en.wikipedia.org/wiki/Douglas_DC-6[DC-6]
+:DC-7C: https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C]
+:Coronado: https://en.wikipedia.org/wiki/Convair_990_Coronado[Coronado]
 :F-1: https://en.wikipedia.org/wiki/Västmanland_Wing[F 1]
 :F-5: https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[F 5]
 :F-8: https://en.wikipedia.org/wiki/Svea_Air_Corps[F 8]
 :F-11: https://en.wikipedia.org/wiki/Södermanland_Wing[F 11]
 :F-21: https://en.wikipedia.org/wiki/Norrbotten_Wing[F 21]
+:Svensk-Flyghistorisk-Tidskrift: https://flyghistoria.org[Svensk Flyghistorisk Tidskrift]
+:pitot-tube: https://en.wikipedia.org/wiki/Pitot_tube[pitot tube]
+:Schyberg: https://sv.wikipedia.org/wiki/Birger_Schyberg[Schyberg]
+:Damascus: https://en.wikipedia.org/wiki/Damascus[Damascus]
+:Rome: https://en.wikipedia.org/wiki/Rome[Rome]
+:Teheran: https://en.wikipedia.org/wiki/Teheran[Teheran]
+:Beirut: https://en.wikipedia.org/wiki/Beirut[Beirut]
+:TCP: https://en.wikipedia.org/wiki/1,2,3-Trichloropropane[TCP]
+:aspirant-school: https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[aspirant school]
+:CB-clouds: https://en.wikipedia.org/wiki/Cumulonimbus_cloud[CB clouds]
+:BMEP: https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP]
 
 [.lead]
 Nils was an airman that started in the Swedish Air Force as a conscript.
@@ -41,7 +55,7 @@ _Translated by Mattias Holm._
 
 == Foreword by Mattias
 
-This article was first published in https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
+This article was first published in {Svensk-Flyghistorisk-Tidskrift} 4/12.
 It is re-published here with a non-commercial clause.
 
 The article is a number of short stories about different incidents during Nils' flying career.
@@ -163,7 +177,7 @@ We did not even think it was worth to report.
 
 The problem of failed airspeed indicators
 was common on the {S-16} Caproni.
-The cause was that the https://en.wikipedia.org/wiki/Pitot_tube[pitot tube] heaters
+The cause was that the {pitot-tube} heaters
 burned off and therefore subsequent icing.
 Not until we stopped having the heating on already from taxiing it got better.
 The cause was of course the lack of cooling at the low speed.
@@ -175,7 +189,7 @@ For an experienced flyer, this was no bigger problem.
 The last time it happened to me, I landed as usual at the given runway
 which happened to be {F-11} runway 26. 
 
-After a day or so I got called into https://sv.wikipedia.org/wiki/Birger_Schyberg[colonel Schyberg].
+After a day or so I got called into colonel {Schyberg}.
 Unaware of this honor I was very surprised to get a real scolding
 for my bad judgement with landing over the administrative building
 with a broken airspeed indicator and therefore risking both human life and buildings.
@@ -204,7 +218,7 @@ NOTE: This may be the crash that is https://aviation-safety.net/wikibase/271677[
 
 
 During my time as flight instructor
-at the https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[aspirant school in Ljungbyhed],
+at the {aspirant-school} in Ljungbyhed,
 I had an aspirant that had serious problems with completing the exercise "landing during wing gliding".
 The exercise was about managing to handle an emergency landing after a too high approach,
 especially with aircraft that did not have flaps.
@@ -317,7 +331,7 @@ If I had not been so curious this article would never have been written.
 
 == Start Problems with DC-6
 
-Takeoff from https://en.wikipedia.org/wiki/Damascus[Damascus] some time in the beginning of 1949 with a https://en.wikipedia.org/wiki/Douglas_DC-6[DC-6].
+Takeoff from {Damascus} some time in the beginning of 1949 with a {DC-6}.
 Normally wi never had any problems with takeoff, which normally was during dark in the evening as it was cooler.
 Due to a technical issue we were delayed to around 14:00 when it was as warmest.
 We started towards North West in counterslope and high terrain in front of us.
@@ -351,15 +365,15 @@ We should remember that this was during the infancy of aviation.
 == Flameout on Four Engines
 
 During the Korean war, there was a shortage of high octane aviation fuel.
-To solve the problem, they added, if I recall correctly, a substance that we called https://en.wikipedia.org/wiki/1,2,3-Trichloropropane[TCP].
-https://en.wikipedia.org/wiki/Douglas_DC-7[DC-7C] was especially sensitive with its high compression.
+To solve the problem, they added, if I recall correctly, a substance that we called {TCP}.
+{DC-7C} was especially sensitive with its high compression.
 They had taken out as much effect as possible in the aircraft.
 The gas pressure at start was not 62 inches but 62.5!
 
 .SAS DC-7C. Public Domain.
 image::SAS_DC-7C,_Stig_Viking_SE-CCC_on_the_ground,_at_the_airport_1960s.jpg[DC-7C,align="center",width="100%"]
 
-The TCP had the disadvantage that you got a coating on the spark plugs.
+The {TCP} had the disadvantage that you got a coating on the spark plugs.
 This often resulted in large delays due to spark plug changes.
 36 plugs in every engine!
 
@@ -367,12 +381,9 @@ Normally we "thinned" the engine when we got up to cruising altitude.
 However, an instruction was issued that we should wait 5 minutes before doing the "thinning",
 so that the engine temperature had stabilized.
 
-We started from Beirut towards Rome.
-The cruising altitude we reached over Cyprus where whe entered strong https://en.wikipedia.org/wiki/Cumulonimbus_cloud[CB clouds].
-We served from https://en.wikipedia.org/wiki/Rome[Rome]
-via https://en.wikipedia.org/wiki/Damascus[Damascus]
-to https://en.wikipedia.org/wiki/Teheran[Teheran]
-and back through https://en.wikipedia.org/wiki/Beirut[Beirut] to Rome.
+We started from Beirut towards {Rome}.
+The cruising altitude we reached over Cyprus where whe entered strong {CB-clouds}.
+We served from {Rome} via {Damascus} to {Teheran} and back through {Beirut} to {Rome}.
 
 .Rome-Damascus-Teheran-Beirut-Rome Round Trip. Distance is around 3950 NM (7320 km).
 image::Rome-Teheran.jpg[Rome Teheran Map,align="center",width="100%"]
@@ -384,7 +395,7 @@ Out of the bed and to the guys in the cockpit that were a bit chocked.
 All four engines had flamed out.
 I understood that there was icing in the carburetors so i forced my self over the mechanic and turned down the throttle, and turned the pre-heater knobs all the way up,
 and it did not take many seconds before the engines were spinning again.
-I stayed and checked that the engines were running fine after the "thinning" with 8 https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Break Mean Effective Pressure)].
+I stayed and checked that the engines were running fine after the "thinning" with 8 {BMEP}.
 
 After 5 minutes I was sleeping well in my bed again.
 
@@ -473,7 +484,7 @@ Already a week after this, there were no more arm straps in the entire air force
 [#_eagle_hunt_with_airplane]
 == Eagle Hunt with Airplane
 
-On the way to Tokyo with a _Coronado_, we had a stopover at Kloten Airport, Zurich.
+On the way to Tokyo with a _{Coronado}_, we had a stopover at Kloten Airport, Zurich.
 At 150 m elevation during the approach to runway 16 we catch sight of a large bird in front of us.
 Risk for collision!
 Birds can as known cause large damage, especially if they are ingested by the engines, or hit the front of the wings.
