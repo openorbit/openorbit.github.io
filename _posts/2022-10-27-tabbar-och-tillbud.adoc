@@ -17,6 +17,15 @@ Nils var en flygförare som började i flygvapnet som värnpliktig.
 Under sin karriär i flygvapnet och sedan ABA / SAS var han med om flera händelser,
 många med livet i fara.
 
+|===
+| Datum | Ändring
+
+| 2022-10-08 | Första släppet av texten
+| 2023-10-14 | Rättade fel efter att orginaltexten hittats.
+| 2023-10-14 | Lade till opublicerad sektion: <<_effektförlust_under_start>>
+| 2023-10-14 | Lade till opublicerad sektion: <<_örnjakt_med_flyg>>
+|===
+
 == Förord av Mattias
 
 Denna artikel publicerades först i https://flyghistoria.org[Svensk Flyghistorisk Tidskrift] 4/12.
@@ -156,15 +165,14 @@ redan från det att man började taxa ut blev det bättre.
 Orsaken var naturligtvis bristande kylning vid den låga farten.
 Värmen slogs på efter lättning och se problemen försvann nästan helt.
 
-// Did the original document say 2 times, well 2 times are described so we put that here.
-Jag råkade ut för problemet minst 2 gånger.
-En gång stannade mätaren på 2 km/h.
+Jag råkade ut för problemet minst tre gånger.
+En gång stannade mätaren på 220 km/h.
 För en van förare var det inget större problem.
 Sista gången det hände mig landade jag som vanligt på gällande bana
 vilket råkade vara F 11 bana 26.
 
 Efter någon dag blev jag inkallad till https://sv.wikipedia.org/wiki/Birger_Schyberg[överste Schyberg].
-Omedveten om denna ä?? blev jag mycket förvånad
+Omedveten om denna ära blev jag mycket förvånad
 över att få en riktig utskällning för mitt dåliga omdöme
 att med trasig hastighetsmätare landa över kanslihuset
 och därmed riskera både människor och byggnader.
@@ -195,7 +203,7 @@ hade jag en aspirant som hade stora svårigheter att klara av övningen
 "landning under vingglidning".
 Övningen avsåg att klara av nödlandning efter för hög anflygning,
 framförallt med flygplan som inte var försedda med vingklaffar.
-I detta fall https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15].
+I detta fall https://sv.wikipedia.org/wiki/Klemm_Kl_35[Sk 15 (Klemm)].
 
 .Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
 image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
@@ -280,7 +288,7 @@ För varje meter plus blev det minuspoang.
 Landning före diket jämställdes med haveri och diskvalifikation.
 
 Jag hade kommit underfund med att man kunde ha ett par km/h i överskottsfart
-under utflygningen och rycka till i spaken
+under utflytningen och rycka till i spaken
 så satte sig kärran snällt p g a den ökade vingbelastningen.
 
 Helt säker på att landa på endast ett par meter plus
@@ -395,11 +403,11 @@ men väcktes av att det blev dödstyst, så när som smattret från hagel.
 Upp ur sängen och fram till pojkarna som nog var lite chockade.
 Alla fyra motorera hade lagt av.
 Jag förstod att det var isbildning i förgasarna
-så jag trängde mig fram över mekanikern drog av gasen
+så jag trängde mig fram över mekanikern, drog av gasen
 och drog förvärmningsreglagen ända upp,
 och det tog inte många sekunder förrän motorera sjöng vackert igen.
 Jag stannade kvar och kontrollerade att motorera gick bra
-efter utmagringen med https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Brake Mean Effective Pressure)].
+efter utmagringen med 8 https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Brake Mean Effective Pressure)].
 
 .Rome-Damascus-Teheran-Beirut-Rome Round Trip. Distance is around 3950 NM (7320 km).
 image::Rome-Teheran.jpg[Rome Teheran Map,align="center",width="100%"]
@@ -495,6 +503,40 @@ Gissa om jag snabbt spände fast mig.
 
 Frånsett att sargen förorsakade en skinnflådd rygg
 undkom jag äventyret med blotta förskräckelsen.
+
+== Effektförlust under start
+
+Jag startade med en Sk 14 på Ljungbyhed.
+När jag drog ned gasreglaget från fullgas till stigning så stryptes motorn.
+Konstaterade omedelbart att blandningsreglaget stod i _mager_ blandning.
+Orsaken var att jag vid gasreduktionen fått flygoverallens armslejf runt utmagringsreglaget.
+Detta reglage satt omedelbart till vänster om gasreglaget.
+Utmagringen utfördes genom att reglaget drogs bakåt.
+På ett par m höjd fick jag loss armen (läs slejfen) från reglaget som återfördes till _rik_.
+Så var det bara att fortsätta övningen.
+Här måste jag ge en eloge till FV.
+Redan efter en vecka fanns inte en enda slejf kvar i hela flygvapnet.
+
+== Örnjakt med flyg
+
+På văg till Tokyo med flygplan Coronado mellanlandade vi på Kloten Airport, Zurich.
+På 150 m höjd under inflygning till bana 16 får vi se en stor fågel rakt framför oss.
+Risk för kollision!
+Fåglar kan ju förorsaka stora skador, framförallt om de kommer in i motorerna eller hamnar på vingarnas framkanter.
+
+Från att jag fick se fågeln tills vi mötte den hann jag påminna mig om utbildningen i San Diego där vi fick demonstrerat hur starka vindrutorna var.
+Man provade hållfastheten genom att med en tryckluftskanon skjuta djupfrysta cylinderformade ankor mot fönstren, med en fart av 160 MPH.
+
+Jag beslöt mig för att inte ducka om fågeln träffade vindrutan.
+Det blev en fullträff i min vindruta och trots min föresats duckade jag när fågeln gick till de sälla jaktmarkerna.
+Vindrutan höll och vi meddelade trafikledaren om det inträffade.
+
+Då vi efter tankningen var färdiga att gå ombord igen kom en flygplatsfunktionär fram till mej
+med en enorm örn som han erbjöd mig.
+Han sade med en glimt i ögat.
+_Ett perfekt skott kapten_.
+Eftersom vi var på väg mot Tokyo tvingades jag med sorg i hjärtat avböja erbjudandet.
+Men nog hade det varit pampigt med en uppstoppad örn i gillestugan.
 
 == Slutord
 
