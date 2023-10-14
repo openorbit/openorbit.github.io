@@ -9,6 +9,18 @@ Nils Holm
 :page-translation: { en: blunders-and-accidents.html, sv: tabbar-och-tillbud.html }
 :page-category: aviation
 :imagesdir: /assets/images/
+:Sk-15: https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15]
+:Sk-14: https://en.wikipedia.org/wiki/North_American_NA-16[Sk 14]
+:Mustang: https://en.wikipedia.org/wiki/North_American_P-51_Mustang[Mustang]
+:Tummelisa: https://en.wikipedia.org/wiki/FVM_Ö1_Tummelisa[Tummelisa]
+:Caproni: https://en.wikipedia.org/wiki/Caproni_Ca.313[Caproni]
+:S-16: https://en.wikipedia.org/wiki/Caproni_Ca.313[S 16]
+:B-3: https://en.wikipedia.org/wiki/Junkers_Ju_86[B 3]
+:F-1: https://en.wikipedia.org/wiki/Västmanland_Wing[F 1]
+:F-5: https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[F 5]
+:F-8: https://en.wikipedia.org/wiki/Svea_Air_Corps[F 8]
+:F-11: https://en.wikipedia.org/wiki/Södermanland_Wing[F 11]
+:F-21: https://en.wikipedia.org/wiki/Norrbotten_Wing[F 21]
 
 [.lead]
 Nils was an airman that started in the Swedish Air Force as a conscript.
@@ -62,10 +74,10 @@ that was caused by reckless flying.
 
 Research notes about Talcott are {site-url}/research/talcott.html[available here].
 
-Talcott flew a P51 Mustang during a raid in Poland and was forced into an https://aviation-safety.net/wikibase/95049[emergency landing in Sweden].
-That Mustang was repaired and https://www.forcedlandingcollection.se/USAAF/USAAF115-440806-youvehadit.html[flew up to F 8 Barkaby by a US Embassy flight officer].
+Talcott flew a P51 {Mustang} during a raid in Poland and was forced into an https://aviation-safety.net/wikibase/95049[emergency landing in Sweden].
+That {Mustang} was repaired and https://www.forcedlandingcollection.se/USAAF/USAAF115-440806-youvehadit.html[flew up to F 8 Barkaby by a US Embassy flight officer].
 The aircraft was formally purchased by Sweden in 1945 and served in the air force until it was sold to the Dominican Republic in 1952.
-The fatal accident was with another Mustang that was supposed to be ferried up towards F 8 Barkaby.
+The fatal accident was with another {Mustang} that was supposed to be ferried up towards {F-8} Barkaby.
 It seems that Talcott is the same person mentioned https://www.ancestry.com/1940-census/usa/Maryland/Franklin-D-Talcott_575225[here] and https://www.findagrave.com/memorial/1239515/franklin-d-talcott[here].
 
 NOTE: As far as I have been able to determine, all named individuals here are dead.
@@ -79,7 +91,7 @@ Here follows an account for some of them, without consideration for the chronolo
 
 == With the Throttle in the Hand
 
-On May 7, 1943, I was heading out on a reconnaissance mission in a fully fueled https://en.wikipedia.org/wiki/Caproni_Ca.313[Caproni],
+On May 7, 1943, I was heading out on a reconnaissance mission in a fully fueled {Caproni},
 three weeks after my first solo flight.
 As I after takeoff reduced the throttle to climb, the throttle fell off in my hand. 
 // flöjla motorn?
@@ -102,7 +114,7 @@ image::Caproni.jpeg[Ca.313,align="center",width="100%"]
 
 // Kupera motor?
 The next landing went fine.
-The speed I regulated by in similarly to https://en.wikipedia.org/wiki/FVM_Ö1_Tummelisa[Tummelisa]
+The speed I regulated by in similarly to {Tummelisa}
 temporarily cutting the left engine.
 
 I was called in for interrogation and the lieutenant was very critical
@@ -115,8 +127,8 @@ To my great surprise, the lieutenant changed his criticism to praise.
 
 == Double Engine Failure on Caproni
 
-We had been doing winter exercises at https://en.wikipedia.org/wiki/Norrbotten_Wing[F 21 in Luleå]
-and was flying home to https://en.wikipedia.org/wiki/Södermanland_Wing[F 11].
+We had been doing winter exercises at {F-21} in Luleå
+and was flying home to {F-11}.
 We were given aircraft number 21 and had an estimated flying time of three hours.
 As usually the aircraft was fully loaded for this type of flying.
 We had to get as much of the field equipment along, including oil drums and engine covers.
@@ -143,14 +155,14 @@ They were still warm and the speed wind was enough to keep the propellers spinni
 The cause for the flameout was that Helmer had when he turned his head, bumped into the magnet switch in the ceiling with his winter hat.
 As the lowest, we estimated our altitude to 70-80 m (230 - 260 feet).
 
-We continued the flying to https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] without any comments,
+We continued the flying to {F-11} without any comments,
 I could not notice any special reaction or nervosity with anyone onboard.
 We did not even think it was worth to report.
 
 == Thoroughly Scolded
 
 The problem of failed airspeed indicators
-was common on the https://en.wikipedia.org/wiki/Caproni_Ca.313[S 16 Caproni].
+was common on the {S-16} Caproni.
 The cause was that the https://en.wikipedia.org/wiki/Pitot_tube[pitot tube] heaters
 burned off and therefore subsequent icing.
 Not until we stopped having the heating on already from taxiing it got better.
@@ -161,7 +173,7 @@ I suffered the problem at least three times.
 One time the airspeed indicator stopped at 220 km/h.
 For an experienced flyer, this was no bigger problem.
 The last time it happened to me, I landed as usual at the given runway
-which happened to be https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] runway 26. 
+which happened to be {F-11} runway 26. 
 
 After a day or so I got called into https://sv.wikipedia.org/wiki/Birger_Schyberg[colonel Schyberg].
 Unaware of this honor I was very surprised to get a real scolding
@@ -179,7 +191,7 @@ The colonel turned red in his face and shouted:
 It should be noted that the colonel, despite many attempts,
 never got approved for solo flying.
 It was not just him that had a problem with the landings,
-one just had to remember that it wasn't an https://sv.wikipedia.org/wiki/North_American_NA-16[Sk 14].
+one just had to remember that it wasn't an {Sk-14}.
 
 So easy it can be to to mindlessly step on someone's toes.
 I was ashamed.
@@ -196,9 +208,10 @@ at the https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[aspirant sc
 I had an aspirant that had serious problems with completing the exercise "landing during wing gliding".
 The exercise was about managing to handle an emergency landing after a too high approach,
 especially with aircraft that did not have flaps.
-In this case an https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15 (Klemm)].
+In this case an {Sk-15} (Klemm).
 
-.Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
+
+.Klemm 35 / {Sk-15}. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
 image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
 
 For the modern pilot it may be in place to explain how it went:
@@ -243,7 +256,7 @@ A walk to a farm and a telephone call to with the traffic controller
 resulted in that two airplanes came with help and a few technicians.
 The technicians stayed while a lieutenant in one plane;
 and I and the aspirant in the other started in a closed formation
-towards https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[F 5] and the looming lunch.
+towards {F-5} and the looming lunch.
 
 The landing was also done in closed formation - I was to the left of the lieutenant
 who apparently forgot I was at his wing tip.
@@ -264,10 +277,10 @@ It was a difference between how one judged sergeants and a lieutenants at that t
 == Wrecked Wing Tip
 
 The flight instructor course (FIC) 1944 was finished with with an advanced flying competition;
-including both a mandatory and a freely composed programme, navigation flying under time, and finished with precision landing using an Sk 14.
+including both a mandatory and a freely composed programme, navigation flying under time, and finished with precision landing using an {Sk-14}.
 It was during the last part I messed up.
 
-.North American NA-16 / Sk 14. https://creativecommons.org/publicdomain/mark/1.0/deed.en[Public Domain].
+.North American NA-16 / {Sk-14}. https://creativecommons.org/publicdomain/mark/1.0/deed.en[Public Domain].
 image::FVMF.002264.jpg[Sk 14,align="center",width="100%"]
 
 The grading was done by having specified a simulated ditch. Every meter beyond it resulted in minus points.
@@ -290,16 +303,16 @@ I had earned it - but I did not have to pay for the wing tip.
 == Elevator Mass Balance in the Bed
 
 This happened on Saturday, October 7, 1944.
-I was tired after an orienteering run and lunch and was laying on the bed, resting in the _Åsen_ barack next to the sports field at https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[F 5, Ljungbyhed].
+I was tired after an orienteering run and lunch and was laying on the bed, resting in the _Åsen_ barack next to the sports field at {F-5}, Ljungbyhed.
 
-The American Lieutenant Talcott was test flying a https://en.wikipedia.org/wiki/North_American_P-51_Mustang[Mustang] before transfer to https://en.wikipedia.org/wiki/Svea_Air_Corps[F 8] (see Svensk Flyghistorisk Tidskrift 1/05).
+The American Lieutenant Talcott was test flying a {Mustang} before transfer to {F-8} (see Svensk Flyghistorisk Tidskrift 1/05).
 When I heard the fabulous engine roar I got out of bed and went to the window to see what was going on.
 The good Talcott had apparently not gotten over the tree tops and damaged the machine badly in the tree crowns.
 In an involuntary roll he passed by upside down, at approximately 10 m (30 feet) hight and about 20 m (60 feet) in front of my window.
 I can still see the expression of his face from the effort with trying to rectify the situation.
 
 With a loud bang and a shaking floor, I turned around and found a big hole in the wall and on the bed,
-that I luckily left a few minutes earlier, was the Mustang's heavy elevator mass balance.
+that I luckily left a few minutes earlier, was the {Mustang}'s heavy elevator mass balance.
 If I had not been so curious this article would never have been written.
 
 == Start Problems with DC-6
@@ -413,14 +426,14 @@ The problem was that we were below minimum control speed. As with the start in D
 
 == On the Way Without Parachute
 
-The Caproni was grounded and was being modified.
-As a replacement we at https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] got to borrow https://en.wikipedia.org/wiki/Junkers_Ju_86[B 3] from https://en.wikipedia.org/wiki/Västmanland_Wing[F 1].
+The {Caproni} was grounded and was being modified.
+As a replacement we at {F-11} got to borrow {B-3} from {F-1}.
 There was a lack of flight instructors so it was decided that we normal pilots would train instrument flying with each other.
 
 .Junkers Ju 86K / B 3. Public Domain.
 image::FVMF.006081.jpg[B 3,align="center",width="100%"]
 
-The cadets Borg, Gustavsson and I was on December 11 1942 supposed to grill each other in B 3 number 8.
+The cadets Borg, Gustavsson and I was on December 11 1942 supposed to grill each other in {B-3} number 8.
 
 I was first under the hood with Borg as safety flyer on the right side.
 Because the visibility towards the left was practically zero, it was decided that the third pilot would sit in the rear gunner's seat and watch for any planes in the dead sector.
@@ -446,7 +459,7 @@ Except for the edge causing a skinned back, I escaped the adventure with the she
 [#_effect_loss_during_takeoff]
 == Effect Loss During Takeoff
 
-I took off with an Sk 14 at Ljungbyhed.
+I took off with an {Sk-14} at Ljungbyhed.
 When i reduced the throttle from full to climb, the engine was excessively throttled down.
 Immediately realized that the mixture lever was in _thin_ mixture.
 The cause whs that I during the throttle reduction, managed to get the flight suit's _arm strap_ caught in the lever.
