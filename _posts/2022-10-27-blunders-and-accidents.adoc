@@ -15,6 +15,16 @@ Nils was an airman that started in the Swedish Air Force as a conscript.
 During his career in the Air Force and later ABA / SAS he experienced several incidents,
 many in which his life was in jeopardy.
 
+|===
+| Datum | Ändring
+
+| 2022-10-27 | First release of text
+| 2023-10-14 | Corrected errors after original text was discovered
+| 2023-10-14 | Added unpublished section: <<_effect_loss_during_takeoff>>
+| 2023-10-14 | Added unpublished section: <<_eagle_hunt_with_airplane>>
+|===
+
+
 _Translated by Mattias Holm._
 
 == Foreword by Mattias
@@ -147,9 +157,8 @@ Not until we stopped having the heating on already from taxiing it got better.
 The cause was of course the lack of cooling at the low speed.
 The heat was turned on after takeoff and the problem went away almost completely.
 
-// Did the original document say 2 times, well 2 times are described so we put that here.
-I suffered the problem at least 2 times.
-One time the airspeed indicator stopped at 2 km/h.
+I suffered the problem at least three times.
+One time the airspeed indicator stopped at 220 km/h.
 For an experienced flyer, this was no bigger problem.
 The last time it happened to me, I landed as usual at the given runway
 which happened to be https://en.wikipedia.org/wiki/Södermanland_Wing[F 11] runway 26. 
@@ -187,7 +196,7 @@ at the https://en.wikipedia.org/wiki/Swedish_Air_Force_Flying_School[aspirant sc
 I had an aspirant that had serious problems with completing the exercise "landing during wing gliding".
 The exercise was about managing to handle an emergency landing after a too high approach,
 especially with aircraft that did not have flaps.
-In this case an https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15].
+In this case an https://en.wikipedia.org/wiki/Klemm_Kl_35[Sk 15 (Klemm)].
 
 .Klemm 35 / Sk 15. 1 August 1976, https://creativecommons.org/licenses/by/3.0/[CC-BY 3.0].
 image::Klemm_35_01.jpg[Sk 15,align="center",width="100%"]
@@ -264,7 +273,7 @@ image::FVMF.002264.jpg[Sk 14,align="center",width="100%"]
 The grading was done by having specified a simulated ditch. Every meter beyond it resulted in minus points.
 Landing before the ditch was equivalent with a crash and disqualification.
 
-I had found out that you could have a few extra km/h in excess speed during the flight;
+I had found out that you could have a few extra km/h in excess speed during the flare;
 by yanking on the stick the aircraft would touch down nicely due to the increased wing load.
 
 Absolutely sure to land only a few meters plus, I looked right at the mark and the official,
@@ -341,7 +350,6 @@ The TCP had the disadvantage that you got a coating on the spark plugs.
 This often resulted in large delays due to spark plug changes.
 36 plugs in every engine!
 
-// magrade?
 Normally we "thinned" the engine when we got up to cruising altitude.
 However, an instruction was issued that we should wait 5 minutes before doing the "thinning",
 so that the engine temperature had stabilized.
@@ -363,7 +371,7 @@ Out of the bed and to the guys in the cockpit that were a bit chocked.
 All four engines had flamed out.
 I understood that there was icing in the carburetors so i forced my self over the mechanic and turned down the throttle, and turned the pre-heater knobs all the way up,
 and it did not take many seconds before the engines were spinning again.
-I stayed and checked that the engines were running fine after the "thinning" with https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Break Mean Effective Pressure)].
+I stayed and checked that the engines were running fine after the "thinning" with 8 https://en.wikipedia.org/wiki/Mean_effective_pressure[BMEP (Break Mean Effective Pressure)].
 
 After 5 minutes I was sleeping well in my bed again.
 
@@ -434,6 +442,39 @@ he simply pulled me forward and all of me was soon onboard again.
 Guess if I quickly buckled up or not after this.
 
 Except for the edge causing a skinned back, I escaped the adventure with the sheer horror.
+
+== Effect Loss During Takeoff
+
+I took off with an Sk 14 at Ljungbyhed.
+When i reduced the throttle from full to climb, the engine was excessively throttled down.
+Immediately realized that the mixture lever was in _thin_ mixture.
+The cause whs that I during the throttle reduction, managed to get the flight suit's _arm strap_ caught in the lever.
+This lever was just left of the throttle.
+The thinning was done by pulling the lever backwards.
+At a couple of m height, I managed to get the arm loose from the lever that was returned to _rich_.
+So the only thing to do was to continue the exercise.
+Here I must commend the Swedish Air Force.
+Already a week after this, there were no more arm straps in the entire air force.
+
+== Eagle Hunt with Airplane
+
+On the way to Tokyo with a _Coronado_, we had a stopover at Kloten Airport, Zurich.
+At 150 m elevation during the approach to runway 16 we catch sight of a large bird in front of us.
+Risk for collision!
+Birds can as known cause large damage, especially if they are ingested by the engines, or hit the front of the wings.
+
+From when I saw the bird until we hit it, i was reminded about the training in San Diego where we got it demonstrated how strong the windshield were.
+They tested the reliability by using an air cannon, shooting deep frozen cylinder shaped ducks towards the windshield,
+at a speed of 160 MPH.
+
+I decided to not duck if the bird hit the windshield.
+There was a head on collision on my windshield and despite my decision, I ducked when the bird passed away.
+The windshield held and we informed the traffic manager about the event.
+
+When we after refueling was ready to board again an airport official approached me with a gigantic eagle that he offered me.
+He said with a glimmer in the eye: _a perfect shot captain_.
+Because we were on the way to Tokyo, I had to with a sorrow in my heart decline the offer.
+But it would surely have been great with a stuffed eagle in the recreation room.
 
 == Epilogue
 
