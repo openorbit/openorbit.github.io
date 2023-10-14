@@ -20,7 +20,7 @@ många med livet i fara.
 |===
 | Datum | Ändring
 
-| 2022-10-08 | Första släppet av texten
+| 2022-10-27 | Första släppet av texten
 | 2023-10-14 | Rättade fel efter att orginaltexten hittats.
 | 2023-10-14 | Lade till opublicerad sektion: <<_effektförlust_under_start>>
 | 2023-10-14 | Lade till opublicerad sektion: <<_örnjakt_med_flyg>>
