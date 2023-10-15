@@ -29,7 +29,7 @@ However, part of the manuscript was provided to Mikael Forslund who produced a b
 using parts of the manuscript.
 The book does not include this story, however the history of the Caproni Ca.313
 in the Swedish Air Force is quite interesting and I would strongly recommended
-https://books.google.nl/books/about/Caproni_Ca_313_R_P_B_S.html?id=-bs9MwEACAAJ&redir_esc=y[Mikael Forslund’s Caproni book].
+https://books.google.nl/books/about/Caproni_Ca_313_R_P_B_S.html?id=-bs9MwEACAAJ[Mikael Forslund’s Caproni book].
 Most of the book is in Swedish, but a summary in the book is written in English.
 
 Nils was a https://en.wikipedia.org/wiki/Caproni_Ca.313[Caproni Ca.313] pilot
@@ -83,7 +83,7 @@ https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attributi
 So we can conclude that the flight most likely happened on either the 1st of August or the 22nd of August.
 The other dates seem to cold to be offering sunny weather for swimming.
 
-NOTE: Subsequently, we have discovered parts of Nils' flight journal.
+NOTE: Subsequently, we have discovered parts of Nils' {site-url}/research/flygdagbok.html[flight journal].
     It states for 1943-08-01:
         _Reconnaissance in Norway.
         Flies over an American B-17 Flying Fortress.

@@ -29,7 +29,7 @@ Delar av manuskriptet kom på vägar fram till Mikael Forslund
 som gjorde en bok med delar av manuskriptet.
 Boken innehåller inte denna berättelse, men historien om Caproni Ca.313
 i Svenska Flygvapnet är rätt intressant och jag rekommenderar starkt
-https://books.google.nl/books/about/Caproni_Ca_313_R_P_B_S.html?id=-bs9MwEACAAJ&redir_esc=y[Mikael Forslunds Caproni-bok].
+https://books.google.nl/books/about/Caproni_Ca_313_R_P_B_S.html?id=-bs9MwEACAAJ[Mikael Forslunds Caproni-bok].
 Boken är skriven på svenska.
 
 Nils var en värnpliktig https://sv.wikipedia.org/wiki/Caproni_Ca.313[Caproni Ca.313]-pilot
@@ -81,14 +81,14 @@ https://creativecommons.org/licenses/by/4.0/legalcode.sv[Creative Commons Erkän
 Så vi kan dra slutsatsen flygningen mest sannolikt hände antingen den 1a augusti eller den 22a augusti.
 De andra datumen verkar för kalla för att ha soligt väder för simning.
 
-NOTE: Vi, har nyligen upptäckt delar av Nils' flygdagbok.
+NOTE: Vi, har nyligen upptäckt delar av Nils' {site-url}/research/flygdagbok.html[flygdagbok].
     Den säger för 1943-08-01:
         _Spaning mot Norge.
         Flyger över en amerikansk B-17 Flygande fästing.
         Mina motorer går dåligt.
         Måste handpumpa oss fram._
-    Since the 22nd of August is blank, we now believe that this is the date.
-    It was also the warmest Sunday in that month.
+    Eftersom de 22a augusti är blankt, tror vi nu att detta är datumet.
+    Det var också den varmaste söndagen den månaden.
 
 
 Avståndet mellan Såtenäs och Rjukan är 153 NM (283 km), varav 60 NM (111 km) i Sverige och 93 NM (172 km) i Norge.
