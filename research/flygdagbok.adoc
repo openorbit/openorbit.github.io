@@ -1,0 +1,510 @@
+= Flygdagbok
+Nils Holm
+:bibtex-file: research/flygdagbok.bib
+:lang: sv
+:f1: https://sv.wikipedia.org/wiki/Västmanlands_flygflottilj[F 1]
+:f2: https://sv.wikipedia.org/wiki/Roslagens_flygflottilj[F 2]
+:f3: https://sv.wikipedia.org/wiki/Östgöta_flygflottilj[F 3]
+:f4: https://sv.wikipedia.org/wiki/Jämtlands_flygflottilj[F 4]
+:f5: https://sv.wikipedia.org/wiki/Krigsflygskolan[F 5]
+:f7: https://sv.wikipedia.org/wiki/Skaraborgs_flygflottilj[F 7]
+:f8: https://sv.wikipedia.org/wiki/Svea_flygflottilj[F 8]
+:f11: https://sv.wikipedia.org/wiki/Södermanlands_flygflottilj[F 11]
+:f11-en: https://en.wikipedia.org/wiki/Södermanland_Wing[F 11]
+:f21: https://sv.wikipedia.org/wiki/Norrbottens_flygflottilj[F 21]
+:b3: https://sv.wikipedia.org/wiki/Junkers_Ju_86[B 3]
+:b4: https://sv.wikipedia.org/wiki/Hawker_Hart[B 4]
+:b17: https://sv.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress[B-17]
+:tp5: https://sv.wikipedia.org/wiki/Junkers_Ju_52/3m[Tp 5]
+:tp10: https://sv.wikipedia.org/wiki/Fokker_F.VIII[Tp 10]
+:sk11: https://sv.wikipedia.org/wiki/De_Havilland_Tiger_Moth[Sk 11]
+:sk12: https://sv.wikipedia.org/wiki/Focke-Wulf_Fw_44[Sk 12]
+:s16: https://sv.wikipedia.org/wiki/Caproni_Ca.313[S 16]
+:s17bs: https://sv.wikipedia.org/wiki/Saab_17[S 17BS]
+:tummelisa: https://sv.wikipedia.org/wiki/FVM/CVM_Tummelisa[Tummelisa]
+:dc3: https://sv.wikipedia.org/wiki/Douglas_DC-3[DC-3]
+:j21: https://sv.wikipedia.org/wiki/Saab_21[J 21]
+:gotland: https://sv.wikipedia.org/wiki/HMS_Gotland_(1933)[Gotland]
+:gavle: https://sv.wikipedia.org/wiki/HMS_Gävle_(J9)[Gävle] 
+:patricia: https://sv.wikipedia.org/wiki/HMS_Patricia[Patricia]
+:tumlaren: https://sv.wikipedia.org/wiki/Sjölejonet-klass[Tumlaren]
+:claessmith: https://www.wikidata.org/wiki/Q95691615[Claes Smith]
+:ob: https://sv.wikipedia.org/wiki/Olof_Thörnell[ÖB]
+:duvander: https://www.wikidata.org/wiki/Q5626025
+:schyberg: https://sv.wikipedia.org/wiki/Birger_Schyberg
+:bengtnordenskiold: https://sv.wikipedia.org/wiki/Bengt_Nordenskiöld
+:brink: https://sv.wikipedia.org/wiki/Gösta_Brink
+:fishing-boat-attack: https://www.svd.se/a/zEPryr/det-tyska-angreppet-historien-glomde
+:link-trainer: https://en.wikipedia.org/wiki/Link_Trainer
+
+Detta är utdrag från Nils Holm's flygdagbok från tiden han tjänstgjorde vid {f11}.
+Dessa delar av dagboken har även publicerats i cite:[book:caproni].
+Mattias Holm lagt till länkar, referenser och lite kommentarer för att stödja personlig forskning.
+
+This is an excerpt from Nils Holm's flying journal from the time he served at the {f11-en}.
+These parts of the journal has also been previously published in cite:[book:caproni].
+Mattias Holm has added links, citations and some editorial notes here to support personal research.
+The journal is in Swedish, and has not been translated.
+
+== 1942
+
+_4/11_: Första flygningen med {b3}.
+Flygning från höger sida.
+
+_5/11_: Flyger från vänster sida.
+
+_11/11_: Start- och landningsövningar.
+
+_12/11_: Start- och landningsövningar.
+
+_13/11_: Enkelkommando i {b3} efter 3 tim, 50 min.
+29 landningar.
+
+_14/11_: I och med enkelkommandoflygningen ligger vi nu i beredskap var tredje vecka.
+I praktiken betyder det permissionsförbud.
+
+_16/11_: 1-motorflygning med {b3}.
+Inte så svårt som väntat.
+Knabe är en lugn och behaglig instruktör.
+
+_19/11_: Första spaningsuppdraget.
+
+_20/11_: Knabe muckar.
+
+_23/11_: Studiebesök och båtkännedom i Oxelösunds hamn.
+
+_24/11_: Får {brink}[Brink] som flyglärare.
+Han skäller nästan hela tiden på en egendomlig skånska.
+Är det komplext att så många underofficerare och underbefäl skäller och på så sätt gör eleverna mindre receptiva.
+Inlärningen blir absolut sämre!
+
+_25/11_: Flygning {f11} - {f1} - {f3} - {f11}.
+Fel på bränslesystemet.
+Reparation på F 3.
+Tid: 1 tim.
+
+_27/11_: Navigeringsövningar i {tp5} (Ju 52).
+Rätt tråkigt.
+Mådde illa.
+Såg flygplanskryssaren _{gotland}_ och en massa ubåtar.
+
+_6/12_: Maten i allmänhet bra, men i dag blev vi matförgiftade.
+Tredje gången på lika många veckor.
+Stuvade morötter!
+
+_7-8/12_: Det snöar kraftigt.
+Vi tilldelas antika skidor.
+Markstridsutbildning på kulspruta.
+Svårt att skjuta skurar.
+
+_15/12_: Värnpliktige flygföraren Schoultz och spanaren Ståhl råkar ut för dåligt väder under flygning i södra Sverige.
+Landar trots förbud i Kalmar och plöjer upp fältet.
+Startförbud!
+
+_18/12_: Stor flottiljparad i stan med Krigsmans Erinran.
+De värnpliktiga får inte längre bära vit krage utan förses med en vit tygremsa som knytes runt halsen!!
+Förfärligt fult och besvärligt.
+Till andra egendomligheter i klädseln bär även manskapet koppel.
+På andra flottiljer är det förbehållet officerare och underofficerare.
+På andra orter hälsar värnpliktiga på {f11}:s värnpliktiga och underbefäl.
+
+_21/12_: Utbildas på gummibåt av tysk konstruktion.
+
+_22/12_: Halva styrkan åker hem på julledigt.
+
+_24/12_: Flotta julklappar av Kronan: Tandborste och hårvatten.
+Under julen pryddes matsalen med bordsdukar.
+Bra mat!
+
+_29/12_: Andra halvan åker på permission (till 6/1-1943).
+
+== 1943
+
+_11/1_: Första flygningen sedan 15/12.
+
+_12/1_: Aspirant Gustavsson i {b3} kör på värnpliktige flygföraren Svesse i en Tp 5.
+Endast mindre skador.
+
+_15/1_: Upp klockan 03.30 för tåg till Stockholm och buss till Hårsfjärden på studiebesök.
+Ombord på _{gotland}_, _{gavle}_, _{patricia}_ och ubåten _{tumlaren}_.
+Intressant och lärorikt, men vill inte byta vapenslag.
+
+_20/1_: Lär oss deviera {b3}-kompasser.
+
+_21/1_: Blir korpral!!
+
+_22/1_: Fallskärmspackarkurs.
+
+_28/1_: Destination Malmö med spaning mot Kustflottan i Karlskrona.
+Alla andra vände i trakten av Kalmar men jag, med Mide och Hellstrand som flygspanare, fortsatte och tvingades lågsniffa i Karskrona hamn (och över Mides hem).
+I Skåne minskade molnhöjden snabbt till tio m.
+Hellstrand tycktes inte gilla lågflygning till skillnad från Mide.
+Malmö rapporterar sikt 200 m och molnhöjd 0.
+Flyger till F 3 för att tanka.
+
+_1/2_: Lasse Larsson kvaddar en {b3} (nr 10) utanför fältet i Malmö cite:[web:flygvapenhaverier].
+Bränslekranarna ej standard.
+Det ena landningsstället vek sig och nosen trycktes in.
+Fänrik Sjögren vrickade därvid foten.
+Får motorfel på {b3} (nr 12) och enmotorlandar på Kungsängen i Norrköping för reparation.
+
+_23/2_: Överste Schyberg inspekterar vår flygning till Visby.
+
+_24/2_: När översten skulle flygas hem hjälptes löjtnant Ahlin och Elghorn att navigera så att de förlorade orienteringen
+
+_27/2_: Navflygning i {tp5}.
+_Nocke_ Nordquist sumpar hängande antennen i Karlsborg.
+
+_8/3_: Första genomgången på {s16} Caproni.
+
+_9/3_: Till {f21} i Kallax via {f4} i Östersund (tankning).
+30 min efter start från {f4} får vi order att återvända.
+Orsaken var att Egéus fått motorstopp på båda motorerna p g a att det varit vatten i bensinen.
+Båda motordrivna bränslepumparna skar.
+Motorerna kom igång med handpumpning på 30 m höjd.
+Vid landning på {f21} fick vi se en {b3} med nosen i marken utanför banan.
+Jens Reiman hade fatt anvisning att landa i medvind.
+Även vi blev anvisad fel bana, men var ju varnade.
+
+_11/3_: Jag TLM, i väntan på inflygning på {b4} Hawker Hart.
+Flygningen inställd på grund av att Schoultz i kraftig sidvind kom in i en snövall och hamnade i ryggläge.
+Propellerbitarna flög omkring och då jag kom fram hängde han upp och ner med bensinen droppande ner på cylindrarna.
+Otäckt!
+
+_17/3_: Dimma {f21}.
+Landar Boden.
+Missar landning och får gå om (kort fält) Egéus kommer ner på fjärde försöket.
+
+_22/3_: Flygning {f21} - {f11} (4 tim)
+
+_29/3_: Min första flygning med {s16}.
+
+_9/4_: Samtliga {s16} med dubbelkommando trasiga.
+Brandel på {f3} störtar cite:[as:271511].
+Nu har en sjundedel av kursen störtat!
+
+_12/4_: Enkelkommando i {s16} (4 tim, 15 min. 13 landningar).
+
+_Maj_: Kapten Rehnberg avgår som divisionschef och ersättes av kapten Lennart Bunke.
+
+_7/5_: Då jag efter starten minskade gasen fick jag gasreglaget i näven.
+Vänster motor fixerad på 2 000 r/min.
+Missar första landingsförsöket på grund av för hög fart.
+Stoppar ej motorn på grund av hög vikt och endast tre timmars flygtid efter enkelkommando.
+Landar med 'Tummelisametoden', det vill säga kontakt-kupé på motorn som ju inte gick att dra av.
+
+_14/5_: Fanjunkare Stark kvaddar en Fokker vid landning i hård byig vind.
+
+NOTE: Mattias: Förmodligen cite:[as:271515] som är registrerad för den 15e maj.
+
+_20/5_: Jag blir {link-trainer}[Linktrainerinstruktör].
+
+Under den gångna månaden har alla flygförarna fått skriva på en förbindelse att inte lågsniffa.
+På vår division var den allmänna meningen att lågsniff bör tränas så mycket som möjligt
+eftersom det på grund av flygplanets dåliga fart är det enda sätt
+på vilket vi skulle kunna klara oss undan ett förföljande fiendeflygplan.
+
+_6/6_: Flottiljparad för fanan i Nyköping (Stora Torget).
+Musiken spelade dåligt och Bunke kom i otakt med de övriga divisionerna.
+Vid inmarschen på torget utmärkte han sig genom att byta fot med en fantastisk påföljd för alla eftervarande.
+Flaggan hissades dessutom felaktigt.
+
+_16/6_: Kungens födelsedag.
+Parad igen.
+Åter utmärkte sig Bunke genom att komma i otakt.
+
+Kommentarer: Det märks en avsevärd skillnad på divisionsandan sedan Bunke kom.
+Jämfört med Rehnberg är han gnatig, mån om sin värdighet
+och dessutom rädd för att lata oss flyga om det skulle råka blåsa en aning i Kina.
+Det goda kamratskapet på Rehnbergs tid har försämrats.
+Det verkar som om alla går omkring och är lite rädda.
+Beträffande flygning är det dåligt med tidstilldelningen eftersom Capronin mest står på marken med olika fel.
+Det blir mest Tp 10 och Sk 11.
+Frånvaron av uppvärmning i flygplanen har medfört att jag fått smärtor i axlar och knän.
+Går på behandling (reumatism?).
+
+_1/7_: Min första långflygning med {s16}: 2 tim, 30 min.
+Det är den hittills längsta flygningen med {s16} sedan ombyggnaden.
+Har Westberg som spanare men han hittar inga fält i Västergötland på egen hand.
+
+Jag får rycka in.
+Han får spaka (flygspanare) på hemvägen men det går väldigt dåligt.
+Han verkar spänd och ur balans och gräver ner kärran i svängarna.
+Blir irriterad då jag ingriper.
+
+_2/7_: Schoultz, Westberg, Jansson och Gullberg kommer inte hem på beräknad tid cite:[as:271333].
+Jag som är TL på märket slår larm.
+Med 1 löjtnant Ribbing som spanare (+ ERI och ERG) spanar vi efter flygplanet i Östersjön
+och hittar nedslagsplatsen sju minuter flygtid söder om Landsort.
+När vi tittat på oljefläcken kommer en {s17bs} från {f2} rakt emot oss på samma (låga) höjd.
+Jag 2 svänger i överensstämmelse med OSF höger, men han svänger vänster!!
+Jag trycker för att komma under men det gör han också.
+Med ett ryck i spaken lyckas jag undvika en kollision
+men det var så nära att jag kom in i hans propellerström.
+Det var nära att vi fått tre havererade flygplan på samma ställe.
+Det enda vi såg var oljefläcken och några spillror, som vi fotograferade.
+
+_7/7_: Spänt politiskt läge.
+Flygande personalen deltar i kamouflering av luftvärnsställningarna.
+
+_8/7_: Kadetten Torell får punktering i starten och havererar en {s16}.
+
+_12/7_: Hastighetsmätaren slutar fungera.
+Landar utan problem.
+
+_14/7_: Fortfarande spänt läge.
+Kvällsnöjet bestar av att bygga flygplanvärn.
+
+_21/7_: {f11} etablerar en spaningsgrupp på {f7}.
+Endast två flygplan till att börja med.
+Förare: Furir Lind och korpral Holm.
+Spanare: Trybom och Ståhl.
+Flygsignalister: Palmquist och Elghorn.
+Anflygningen till {f7} gick i rote och var i roligaste laget.
+Vi flög in framför märket på fullgas.
+Tappade en hängande och två fasta antenner.
+
+_23/7_: Lind får motorstopp på båda motorerna.
+Själv får jag vända från ett specialuppdrag på grund av överhettning.
+
+_26/7_: Förläggningstruppen kommer.
+
+_27/7_: Spaningsflygning mot Norge.
+
+_28/7_: Resten av flygstyrkan kommer.
+Löjtnant Jakobsson chef för gruppen.
+
+_29/7_: Markstyrkan kommer.
+
+_31/7_: Spaning mot Norge.
+
+Kommentarer: De allierade har nu efter segern i Nordafrika börjat anfallet på Italien där Mussolini har avgått.
+Sverige har sagt upp transiteringsavtalet med Tyskland.
+Flygvapnet har krigsmobiliserats, vilket märks på våt beredskapstjänst.
+Vi ligger på pappersmadrasser utan lakan.
+Många gånger tycker man att det är trist att ligga i beredskap i hangaren utan att kunna komma ur kläderna.
+Ingen belysning, ingen radio och ingen permission.
+
+_1/8_: Spaning mot Norge.
+Flyger över en amerikansk {b17} Flygande fästning.
+Mina motorer går dåligt.
+Måste handpumpa oss fram.
+
+_6/8_: {dc3} (kurir) landar på natten och startar igen.
+
+_10/8_: Eskaderövning börjar.
+
+_12/8_: Upp 02.30 för spaning mot kusten.
+
+_19/8_: Vi blir överklass och får riktiga papperslakan.
+
+_20/8_: Berkenstam, {brink}[Brink], Malmström och Fagerlund
+störtar med {s16} nr 52 i en sjö utanför Uddevalla cite:[as:271325].
+Orsak bränslebrist, därför att flygplanet tog bränsle från endast en tank, vilket hade avlämnats!
+Berkenstam tuppar av och finner vid uppvaknandet att han sitter upp och ner i vattnet.
+När han kommer upp håller {brink}[Brink] på att sjunka men räddas av Fagerlunds dykning ner efter gummibåten.
+{brink}[Brink] och Malmström till sjukhus där de får stanna.
+
+_25/8_: Har uppvisning i avancerad flygning med {sk11} för {ob}, {bengtnordenskiold}[C FV] och {schyberg}[C F 11].
+Provflygaren {claessmith} har kommit hit med en Saab {j21} för markprov inför utprovningen.
+
+_27/8_: {fishing-boat-attack}[Tyskarna beskjuter svenska fiskebåtar].
+
+_28/8_: Start vid 6-tiden för spaning mot Karlskrona hamn.
+Dåligt väder.
+Går över hamnen i moln och gör en kraftig dykning under sväng för att komma i fotoläge (flygspanare Ståhl).
+Kommer ur moln precis framför nosen på en annan {s16}.
+Nära ögat (och några meter från döden)!
+
+_31/8_: Den bekräftade omplaceringen till hemmabasen inställes, dock inte för alla.
+Tyska pressen gör hotfulla utfall mot Sverige.
+Smärre upplopp i Danmark och Norge.
+
+_15/9_: Konstateras att flygplanet bebos av råttor, efter att dygnet runt ha fått stå i flygplanvärn.
+Flygplanen får nu hangarplats.
+Själva kastades vi ut ur kasernerna och bor nu i en lektionssal i Stallmästargården.
+
+_29/9_: Gruppchefsbyte.
+Löjtnant Jakobsson går, löjtnant Rosén kommer.
+
+_27/10_: Efter 95 dagar utan permission återkommer jag till {f11}.
+Underbart med en riktig säng.
+Spanar på tyska trupptransportfartyg på väg mot Norge.
+
+_5/11_: Aspirant Forsberg får motorstopp på {s16} och även den andra motorn stannar.
+Landar på ett 300 meter långt fält med landingsstället ute (!), trots att micropumpen inte fungerade.
+Stannar fem meter från ett dike.
+Tur och skicklighet!
+
+_18/11_: För att stävja busflygning monteras barograf i vissa flygplan.
+{duvander}[Duvanders] initiativ men tyvärr ineffektivt.
+Barografen synlig...
+
+_7/12_: Genomgång i matsalen av {s16} brister.
+Fel på allt!
+
+_13/12_: Värnpliktige flygföraren Öström på ensamflygning i {s16} får stopp på bada motorerna.
+Försöker landa bana 28 efter högersväng in mot fältet på 150 meters höjd.
+Skjuter över banan i hög fart med riktning mot skogen.
+Kraftig markkontakt varvid båda motorerna brakar igång på fullgas.
+Som ett kors mot himlen stiger han för att omedelbart försvinna bakom skogen under trädtoppshöjd.
+De klarar sig.
+Glappkontakt i huvudmagneten.
+Det blev kontakt vid den hårda markkontakten.
+Otäck syn var det.
+
+== 1944
+
+_1/1_: Dåligt väder med snö.
+Fick kraftig isbildning sa att hastighetsmätaren fastnade på 220 km/h.
+Landningen gick bra med ledning av känsel och hörsel.
+
+_11/1_: Sergeant Lindberg nödlandar i trakten av Västervik, en bit ut i havet cite:[as:170620].
+Buklandning på isen, som går sönder, men flygplanet vilar i 40 minuter på vingarna innan det sjunker.
+Det var bara tio meter djupt så stjärten stack upp en bit.
+Innan flygplanet sjönk plockade besättningen ut bland annat radioutrustningen.
+
+_12/1_: Flygspaning i 2 tim, 5 min.
+Temp -35° till -40°.
+Fryser trots vinterkläderna så att mekanikern måste massera mina fingrar som börjat bli vita.
+Det gjorde så ont att jag skrek av smärta.
+
+_12/1_: Kadett Malmström (MAL) och fänrik Forslund får motorstopp.
+Malmström vet tydligen inte hur man ska göra för att fa ut bästa effekt ur den aktiva motorn och tydligen inte heller hur man ska trimma för minsta luftmotstånd.
+Klarar inte att flyga utan höjdförlust.
+Nödlandar i trakten av Drottningholm.
+Malmström har flera gånger visat en nervös läggning.
+
+_13/1_: Jag var reservflygförare åt Hennings och Malmström.
+Verkligen kontraster.
+Hennings rå, saklig och nonchalant.
+Malmström försiktig, okunnig och rädd (det beror inte enbart på gårdagens händelser).
+Vi hade lite lågt bränsletryck på vänster motor.
+Genast fick han för sig att motorn gick dåligt, fast ingen av oss andra hörde det minsta fel.
+Han var alldeles genomsvettig trots kylan.
+Han borde sluta innan det blir katastrof.
+
+_13/1_: Rosenberg kör sönder en S 9 genom att kollidera med en {s16}.
+
+_18-19/1_: Åker åter till {f7} - med tåg.
+Fick sällskap med ett gäng norska flyktingar som berättade hur svårt det var i Norge.
+Brännvinet kostade 100 kr litern, cigaretter ända upp till två kr styck.
+(jämför min lön på 90 kr/mån)
+Kött förekom en gång varannan månad.
+Samtliga studenter fanns antingen i Tyskland, Sverige eller undangömda i Norge.
+I Sverige fanns spioner som tog reda på pojkarnas namn för att sedan smita över till Norge och rapportera till tyskarna.
+
+_20/1_: Barmark och blött fält hindrar all flygverksamhet.
+Tjänsten består mest av idrott, någon lektion om något som man redan kan,
+flygplanbesiktning och 'halmpressning', det vill säga sängläge.
+
+_26/1_: Äntligen flygning.
+Samverkan med infanteriet i skymningen.
+Lågspaning med synnerligen besvärande spegelreflexer i glasnosen.
+Mörkerlandning utan flodljus och lyktrad.
+Riktigt spännande.
+
+_29/1_: Provflyger nr 61 med Ålund och Erlandsson.
+Rent straffbar nedgång från 5 300 meter.
+Överskred maxhastigheten betydligt och försökte göra vingover.
+Efter landning konstaterar vi att en motorplåt sitter löst.
+
+_1/2_: Provflyger ett flygplan som inte flugits sedan det i {f3}:s regi havererade 28 juli 1941
+(nr 3304, det flygplan som Öström hade vid nedskjutningen den 15 maj 1944 cite:[as:94996]).
+Det märktes på motorerna att det var ett 'nytt' flygplan.
+Problem med höga temperaturer och vid landningen visar det sig att bromsarna inte fungerar,
+vilket inte gjorde något eftersom fältet var så löst att det blev två fina plogfåror efter hjulen.
+
+_9/12_: Ny provflygning med 3304.
+Åter lossnar en motorplåt.
+
+_11/2_: Idag gick 3304 till CVV med löjtnant Simmons ({f7}) som flygförare.
+Löjtnant Rosén följde med som flygspanare.
+Nu när kärran var provad vågade de skitarna och jag som var yngst i tjänsten kunde naturligtvis inte komma ifråga.
+Rosén, som ju inte är förarutbildad, har för oss varit en stor besvikelse.
+Han är överdrivet försiktig och det bir dåligt med flygning.
+Kanske han känner sig osäker!
+
+_28/2_: Hem till {f11}.
+
+_29/2_: Får den femte instruktionen i handhavandet av bränslesystemet - på tre månader!!
+
+Under februari 'råkar' kadett Forsberg träffa ett träd med en {sk12} men kan oturligt nog inte skaka bort de grenar som fastnade i flygplanet.
+Det blev buren!
+
+_1/3_: 21.30 börjas ett väldigt skjutande nere vid hangarerna.
+Enligt rykte tyckte sig någon ha sett mystiska personer smyga omkring.
+Ingenting hittades.
+Spionskräck och nervspänning??
+
+_3/3_: Får förfrågan om jag kan tänka mig en flyginstruktörskurs till hösten.
+Skulle tills dess kunna få tjänstgöra som instruktör på {s16} för ett 15-tal nya aspiranter.
+Den sedan den första uppskjutna flygningen blir äntligen av.
+Isbildningsrisk förekommer i moln och vi förbjuds att flyga i moln!!
+Jag gjorde molngenomgång.
+Flygtid {f11} - {f21} = tre timmar.
+
+_5/3_: Får ägg till frukost!!!
+
+_6/3_: Föreställer tillsammans med {brink}[Brink] en bombflottilj och anfaller grupp två flygfält.
+Förvånas ter över {brink}[Brinks] flygning.
+
+_8/3_: Under landning går bromswiren av.
+Lyckas med fullgas klara en gärdesgård men fastnar i en snövall.
+Loss av egen kraft.
+En flygförare kommer ner först vid femte försöket.
+Värnpliktige flygföraren Rosenberg avpolleteras efter busflygning i trafik-varvet.
+Ska stoppas även civilt.
+Se även 13/1-1944!
+Kadetten Malmström far avsked som flygare på grund av flygskräck.
+Väntat!
+
+_10/3_: Har ännu inte fått svar på min ansökan om att i dag få resa på tjänstledighet till min systers bröllop i övermorgon.
+Cornelius anser att jag inte kan få åka förrän lördag (11/3).
+Jag skulle ju vara framme ett par timmar före bröllopet.
+Återkommer när Schyberg är inne och anhåller ånyo om tjänstledigt.
+Nu går det väldigt bra!
+
+_17/3_: {f21} - {f11}.
+På 600 meters höjd lutar sig flygplanmästare Larsson framåt för att titta på vänster motor.
+Plötsligt stannar bada motorerna.
+Vi är tungt lastade och sjunker snabbt nedåt och jag siktar in mig på att landa på en isbelagd sjö medan vi systematiskt går igenom bränslesystem, instrument och reglage.
+Finner huvudmagneten frånslagen.
+Bada motorerna går gång på 100 meter.
+Det var Larsson som kuperat motorn med sin mössa då han lutade sig fram och vred på huvudet.
+Övrig besättning:
+Löjtnant Wibom och furir Eriksson (Eri).
+Flygtid: Tre timmar.
+
+_23/3_: En spaningsgrupp ombaseras.
+Detta omtalas samma dag på de sovjetiska nyheterna.
+
+_5/4_: Samövning med {f8}, som skulle skjuta ner oss under spaning mot Stockholm.
+På 7 000 meters höjd får jag lågt oljetryck och återvänder hem utan någon strid.
+Efter landning konstateras kraftig rök från höger motor och oljan rinner i strömmar från flera lagringar.
+Påskafton: Segelflyger med {schyberg}[Schyberg], {duvander}[Duvander] och {brink}[Brink].
+
+_21/4_: Till {f7} igen.
+Löjtnant Rosén erbjuder mig utan vidare att
+få bo i kadettförläggningen.
+Förra gången gick det minsann inte att ordna trots att löjtnant Jakobsson tidigare lovat det (lag i en skollokal tillsammans med en massa bassar).
+Jag har kanske blivit finare nu när jag uttagits till flyglärare på aspirantskolan.
+
+_25/4_: Spaning mot trupper i trakten av Falköping.
+Vingduken lossnar på ena sidan under dykning.
+
+_29/4_: En hel massa amerikanska Flygande Fästningar och
+Liberators kom hit för internering.
+
+_1/5_: Tar avsked från {f7} och {f11}.
+Tar tidiga bussen till järnvägsstationen men fastnar i vakten.
+Från högsta ort hade utgått påbud att ingen, på grund av det ånyo kritiska läget fick lämna förbandet.
+Flygvapenordern hjälpte inte trots att det uttryckligen stod att jag samma dag skulle börja min tjänst på {f5}.
+Med dagofficerens hjälp lyckades jag dock att komma loss från {f7}.
+Det skedde utan saknad!
+I och med detta var det slut på {f11}-tjänsten."
+
+[bibliography]
+== Referenser
+
+bibliography::[]
