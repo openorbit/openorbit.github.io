@@ -10,6 +10,7 @@ Nils Holm
 :imagesdir: /assets/images/
 :MiG-3: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3[MiG-3]
 :MiG-5: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_DIS[MiG-5]
+:MiG-9: https://sv.wikipedia.org/wiki/Mikojan-Gurevitj_MiG-9[MiG-9]
 :DC-3: https://sv.wikipedia.org/wiki/Douglas_DC-3[DC-3]
 :Bulltofta: https://sv.wikipedia.org/wiki/Bulltofta_flygplats[Bulltofta]
 :ABA: https://sv.wikipedia.org/wiki/ABA[ABA]
@@ -120,8 +121,8 @@ Så snart vi tagit upp landställ och klaff beordrades jag upp i astrodomen
 eftersom man nästan lovat oss att ryssen skulle komma.
 Molnhöjden var 700 m och vi flög tätt under molnbasen
 och det dröjde inte alls länge förr än två rotar {MiG-5}
-footnote:[Bara  två prototyper av MiG-5 byggdes, så två rotar kan omöjligen ha mötts.
-Förmodligen är detta en fråga om felaktig identifiering.]
+footnote:[Bara två prototyper av {MiG-5} byggdes, så två rotar kan omöjligen ha mötts.
+Förmodligen är detta en fråga om felaktig benämning. En fotnot i SFF, indikerar att det var en I-210 som egentligen är en {MiG-9}. {MiG-9} passar beskrivningen.]
 närmade sej från norr.
 Det var för övrigt första gången jag såg en roteformation,
 i Sverige använde vi ju fortfarande tregrupp.

@@ -10,6 +10,7 @@ Nils Holm
 :imagesdir: /assets/images/
 :MiG-3: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3[MiG-3]
 :MiG-5: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_DIS[MiG-5]
+:MiG-9: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-9[MiG-9]
 :DC-3: https://en.wikipedia.org/wiki/Douglas_DC-3[DC-3]
 :Bulltofta: https://en.wikipedia.org/wiki/Malmö_Bulltofta_Airport[Bulltofta]
 :ABA: https://en.wikipedia.org/wiki/AB_Aerotransport[ABA]
@@ -113,7 +114,7 @@ because they had almost guaranteed that the Russians would show up.
 The cloud layer was 700 m and we flew closely under the clouds
 and it was not long until two two-ship formations of {MiG-5}
 footnote:[Only two prototypes of MiG-5 was built, so four of these aircraft cannot have been encountered.
-Probably a case of faulty identification.]
+Probably a case of faulty labeling in the article. A footnote indicates the aircraft was called I-210 which is also known as {MiG-9}, and this aircraft fits the description.]
 approach from the north.
 It was the first time i saw a two-ship formation,
 in Sweden we were still using three-ship formations.
