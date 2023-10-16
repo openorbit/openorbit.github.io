@@ -2,6 +2,10 @@
 Nils Holm
 :bibtex-file: research/flygdagbok.bib
 :lang: sv
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
 :f1: https://sv.wikipedia.org/wiki/Västmanlands_flygflottilj[F 1]
 :f2: https://sv.wikipedia.org/wiki/Roslagens_flygflottilj[F 2]
 :f3: https://sv.wikipedia.org/wiki/Östgöta_flygflottilj[F 3]
