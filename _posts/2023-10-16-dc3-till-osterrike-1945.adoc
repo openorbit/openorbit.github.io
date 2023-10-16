@@ -13,7 +13,7 @@ Nils Holm
 :DC-3: https://sv.wikipedia.org/wiki/Douglas_DC-3[DC-3]
 :Bulltofta: https://sv.wikipedia.org/wiki/Bulltofta_flygplats[Bulltofta]
 :ABA: https://sv.wikipedia.org/wiki/ABA[ABA]
-:Bromma: https://sv.wikipedia.org/wiki/Stockholm-Bromma_flygplats
+:Bromma: https://sv.wikipedia.org/wiki/Stockholm-Bromma_flygplats[Bromma]
 :note-caption: Anm
 :SFF: https://flyghistoria.org[SFF]
 :Carl-Gustav: https://sv.wikipedia.org/wiki/Carl_Gustaf_von_Rosen[Carl Gustav]
