@@ -74,6 +74,14 @@
     name: Non-Commercial License
     link: https://www.google.com/intl/en-GB_ALL/permissions/geoguidelines/
 
+- image: bromma-tulln.png
+  name: Map Bromma Tulln
+  author: Google Earth
+  description: Map showing flight route Bromma to Tulln.
+  license:
+    name: Non-Commercial License
+    link: https://www.google.com/intl/en-GB_ALL/permissions/geoguidelines/
+
 - image: SAS_DC-6,_Alrek_Viking_SE-BDE_at_Bromma_Airport,_Stockholm,_Sweden.jpg
   name: SAS DC-6
   author: SAS Scandinavian Airlines
@@ -94,3 +102,12 @@
     link: https://creativecommons.org/publicdomain/mark/1.0/deed.en
     image: http://i.creativecommons.org/p/mark/1.0/88x31.png
 
+- image: SAS_DC-3_Orvar_Viking_SE-BBO,_on_the_ground,_at_the_airport_1940s.jpg
+  name: ABA DC-3
+  author: SAS Scandinavian Airlines
+  description: ABA DC-3
+  source: https://commons.wikimedia.org/wiki/File:SAS_DC-3_Orvar_Viking_SE-BBO,_on_the_ground,_at_the_airport_1940s.jpg
+  license:
+    name: Public Domain
+    link: https://creativecommons.org/publicdomain/mark/1.0/deed.en
+    image: http://i.creativecommons.org/p/mark/1.0/88x31.png

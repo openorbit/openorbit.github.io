@@ -1,0 +1,136 @@
+= DC-3 to Austria 1945
+Nils Holm
+:page-tags: [aviation, dc3]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+:page-translation: { en: dc3-to-austria-1945.html, sv: dc3-till-osterrike-1945.html }
+:page-category: aviation
+:imagesdir: /assets/images/
+:MiG-3: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3[MiG-3]
+:MiG-5: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_DIS[MiG-5]
+:DC-3: https://en.wikipedia.org/wiki/Douglas_DC-3[DC-3]
+:Bulltofta: https://en.wikipedia.org/wiki/Malmö_Bulltofta_Airport[Bulltofta]
+:ABA: https://en.wikipedia.org/wiki/AB_Aerotransport[ABA]
+:Bromma: https://en.wikipedia.org/wiki/Stockholm_Bromma_Airport
+:SFF: https://flyghistoria.org[SFF]
+:Carl-Gustav: https://en.wikipedia.org/wiki/Carl_Gustaf_von_Rosen[Carl Gustav]
+
+[.lead]
+After _Erik von Rosen_'s talk about his father _{Carl-Gustav} von Rosen_
+at {SFF} Stockholm's meeting on the 26 of April,
+I was reminded about a flight we did together,
+when were were employed at {ABA}.
+The flight started on the 24th of October, 1945.
+
+== Forewords by Mattias
+
+This is an article written by Nils Holm who served in the Swedish Air Force, {ABA} and later SAS.
+Previously published in: Svensk Flyghistorisk Tidskrift 4/05.
+Mattias Holm has added links and footnotes, and translated the article.
+
+== The Story
+
+After _Erik von Rosen_'s talk about his father _{Carl-Gustav} von Rosen_
+at SFF Stockholm's meeting on the 26 of April,
+I was reminded about a flight we did together,
+when were were employed at {ABA}.
+The flight started on the 24th of October, 1945.
+
+The reason for the flight was a severe epidemic in Austria, maybe it was cholera?
+{ABA} was given the task from the Swedish government to fly down a plane ({DC-3}, SE-BAW)
+loaded with penicillin, a doctor and two or three nurses to Lintz.
+We were not allowed to fly all the way to Vienna as Austria to a large extent was occupied by the Russians. 
+
+.Bromma to Tulln (from Google Earth).
+image:bromma-tulln.png[Bromma to Tulln,align="center",width="100%"]
+
+It was a routine flight to {Bulltofta} for refuelling.
+Thereafter onward to Frankfurt.
+It was a short time after the end of the war with the problems it meant for the lack of information on airports,
+available mapping materials and radio frequencies (all communications was done using telegraphs).
+
+Anyway, the weather was good and all went according to plants until we approached Frankfurt.
+We actually had no idea where the airfield was.
+{Carl-Gustav} announced that he would himself take care of flying and instruments,
+(we had an indicator in the ceiling that was set to indicate the pilots responsibilities),
+while I got the task to keep a lookout and find the field
+and "Hum Hum take you if you do not find it".
+I was searching so that the eyes became teary and see,
+I found a small field just at the northern part of the city.
+The field was smaller than {Bulltofta} and only a cleared swath while the rest consisted of a lot of bomb craters.
+{Carl-Gustav} expressed his surprised that the americans did not have larger airfields,
+but because we didn't have any coordinates or maps of the field
+the telegraphist was ordered to request landing clearance.
+We got it and managed to stay in the short field
+which turned to be a spot for hundreds (?) of Piper Cubs - but no other airplanes.
+
+We caused a lot of excitement, partly due to our nationality
+and partly because no airplane as large as a DC-3 had visited the field before.
+We were informed that we were probably supposed to fly to Wiesbaden,
+that was about eight minutes flying time to the southwest.
+It was not hard to find, a gigantic field with an asphalt runway,
+lots of large planes ang good service.
+
+.ABA DC-3 (SE-BBO, another but same type of aircraft to the one mentioned in the story (SE-BAW)).
+image:SAS_DC-3_Orvar_Viking_SE-BBO,_on_the_ground,_at_the_airport_1940s.jpg[align="center",width="100%"]
+
+After refueling we flow onwards to Lintz, that was our final desintation,
+we arrived there without problems.
+The head of the airport, a colonel, checked our papers.
+Because the load was destined to Vienna, he suggested that we continue to an airport named Tulln.
+We explained that we had been told not to fly further than Lintz because we would fly over the Russian zone.
+
+Well, that was probably right, but the allied had an air corridor that was ok to fly in.
+We were given a map where the corridor was drawn and departed.
+Only the city of Lintz footnote:[Should probably be Tulln], but not the airfield was on the map and it started to get dark when we approached the field.
+{Carl-Gustav} ordered me to find the field and again threatened with Hum-Hum if I failed.
+I swa the lights from the city and the surrounding villages.
+No lightning for aircraft was visible, but there was an area that was completely dark
+and I assumed it was an airfield which I told.
+We circled around the field, got radio contact (on frequency 6440?)
+and within time a the row of goosenecks was lit up in the direction of the landing
+so we could land in complete darkness.
+
+If we hade gotten attention in Frankfurt, that was nothing to this reception.
+We were informed that we had severely ignored existing flying restrictions.
+The corridor was only to be flown by allied military aircraft 
+and even if it was not directly stated, we almost felt that we were threatened win internment:
+any return flight was at the time not thinkable.
+We were however well met and was invited to the officers mess for dinner.
+After a lot of parlaying, the colonel had the brilliant idea
+that we would receive a fighter escort to Lintz the following morning.
+Everyone was convinced that the Russians had informants that was leaking our presence.
+
+When we on the 26th were ready for takeoff, we were informed that the headquarters in Wiesbaden
+had decided that we would have to do without escort because they didn't want to disturb the good relations with the Russians.
+"If they have entered illegally they have to face the consequences and make it out themselves."
+We did a normal takeoff and turned west.
+As soon as we had taken up the gear and flaps I was ordered up to the astrodome
+(sometimes we navigated after the stars) to keep a good lookout,
+because they had almost guaranteed that the Russians would show up.
+The cloud layer was 700 m and we flew closely under the clouds
+and it was not long until two two-ship formations of {MiG-5}
+footnote:[Only two prototypes of MiG-5 was built, so four of these aircraft cannot have been encountered.
+Probably a case of faulty identification.]
+approach from the north.
+It was the first time i saw a two-ship formation,
+in Sweden we were still using three-ship formations.
+
+When i informed about my observation I got back to my pilots seat.
+{Carl-Gustav} gave full throttle and turned steeply away from the Russians
+and we disappeared in the clouds and was thus no longer visible for the Russians.
+Well among the clouds, a right turn towards the Russians was done
+and soon, we were able to get back to the corridor -
+of-course in clouds until we were in Germany.
+The flight was then routine until we were back at {Bromma}
+and it resulted in 3872 km flying under 14 h 43 minutes in the air.
+
+NOTE: {MiG-5} was actually a development of the {MiG-3} and the only MiG-type with a star motor,
+a Shvetsov M.82 A with 1600 hp instead of the MiG-3:s in-line engine Mikulin AM 35A with 1350 hp.
+Neither the {MiG-3} nor the {MiG-5} achieved their expectations
+and {MiG-5} was at the time of our flight not used in Russia.
+Our antagonists were probably based in Czechoslovakia, near Prague.
+At another time one of {ABA}'s converted flying fortresses was shot at during a flight from Prague.
+The damage was limited to a few bullet holes. 

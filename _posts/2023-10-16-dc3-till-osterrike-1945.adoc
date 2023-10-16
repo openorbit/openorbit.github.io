@@ -1,0 +1,145 @@
+= DC-3 till Österrike 1945
+Nils Holm
+:page-tags: [flyg, dc3]
+:page-license: CC BY-NC-ND 4.0
+:page-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+:page-license-image: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+:page-license-small-image: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+:page-translation: { en: dc3-to-austria-1945.html, sv: dc3-till-osterrike-1945.html }
+:page-category: aviation
+:imagesdir: /assets/images/
+:MiG-3: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3[MiG-3]
+:MiG-5: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_DIS[MiG-5]
+:DC-3: https://sv.wikipedia.org/wiki/Douglas_DC-3[DC-3]
+:Bulltofta: https://sv.wikipedia.org/wiki/Bulltofta_flygplats[Bulltofta]
+:ABA: https://sv.wikipedia.org/wiki/ABA[ABA]
+:Bromma: https://sv.wikipedia.org/wiki/Stockholm-Bromma_flygplats
+:note-caption: Anm
+:SFF: https://flyghistoria.org[SFF]
+:Carl-Gustav: https://sv.wikipedia.org/wiki/Carl_Gustaf_von_Rosen[Carl Gustav]
+
+[.lead]
+Efter Erik von Rosens föredrag om sin far _{Carl-Gustav} von Rosen_
+vid {SFF} Stockholms möte den 26 april,
+påmindes jag om en flygning vi gjorde tillsammans,
+då vi var anställda i {ABA}.
+Flygningen startade den 24 oktober 1945.
+
+== Förord av Mattias
+
+Detta är en artikel skriven av Nils Holm som tjänstgjorde inom Flygvapnet, {ABA} och senare SAS.
+Tidigare publicerad i: Svensk Flyghistorisk Tidskrift 4/05.
+Mattias Holm har lagt till länkar och fotnoter. 
+
+== Berättelsen
+
+Efter Erik von Rosens föredrag om sin far _{Carl-Gustav} von Rosen_
+vid SFF Stockholms möte den 26 april,
+påmindes jag om en flygning vi gjorde tillsammans,
+då vi var anställda i {ABA}.
+Flygningen startade den 24 oktober 1945.
+
+Anledningen till flygningen var en svår epidemi i Österrike, kanske var det kolera.
+{ABA} fick regeringens uppdrag att flyga ner ett flygplan ({DC-3}, SE-BAW) lastat med penicillin,
+en läkare och två eller tre sjuksköterskor till Lintz.
+Vi fick inte flyga ända fram till Wien eftersom Österrike till stor del var ockuperat av ryssarna.
+
+.Bromma till Tulln (från Google Earth).
+image:bromma-tulln.png[Bromma till Tulln,align="center",width="100%"]
+
+Det blev en rutinmässig flygning till {Bulltofta} för tankning.
+Därifrån vidare till Frankfurt.
+Det var nära efter krigsslutet med de problem det betydde av bristande information om flygplatser,
+tillgängligt kartmaterial och radiofrekvenser (all kommunikation skedde på telegrafi).
+
+Nåväl, vädret var bra och allt gick enligt planerna tills vi närmade oss Frankfurt.
+Vi hade faktiskt ingen aning om var flygfältet låg.
+{Carl-Gustav} meddelade att han själv tog hand om flygning och instrument,
+(vi hade en visare i taket som ställdes in på piloternas ansvarsfördelning),
+medan jag fick i uppgift att hålla enbart utkik och hitta fältet
+och "Hum Hum tar dig om du inte hittar det".
+Jag spanade så att ögonen tårades och se,
+jag hittade ett litet fält precis i norra delen av staden.
+Fältet var mindre än {Bulltofta} med endast ett röjt stråk medan resten bestod av en massa bombhål.
+{Carl-Gustav} uttryckte sin förvåning över att amerikanerna inte hade ett större flygfält,
+men eftersom vi inte hade några koordinatsuppgifter eller skisser av fältet
+beordrades telegrafisten att begära landningstillstånd.
+Det fick vi och vi klarade att hålla oss kvar på det korta fältet
+som visade sig vara uppehållsplats
+för hundratals (?) Piper Cub - men inga andra flygplan.
+
+Vi väckte stor uppmärksamhet,
+dels p g a var nationalitet
+och dels därför att ett så stort flygplan som DC-3
+aldrig tidigare hade visat sig pa fältet.
+Vi fick besked om att vi säkert skulle till Wiesbaden,
+som låg cirka åtta minuters flygtid mot SV.
+Det var inte svårt att hitta, ett ofantligt fält med asfaltbana,
+massor av stora flygplan och god service.
+
+.ABA DC-3 (SE-BBO, en annan men samma sorts flygplan som nämns i berättelsen (SE-BAW)).
+image:SAS_DC-3_Orvar_Viking_SE-BBO,_on_the_ground,_at_the_airport_1940s.jpg[align="center",width="100%"]
+
+Efter tankning fortsatte vi till Lintz, som var vår slutdestination,
+dit vi anlände utan problem.
+Själve flygplatschefen, en överste, kontrollerade våra papper.
+Eftersom lasten skulle till Wien föreslog han att vi skulle fortsätta
+till en flygplats som hette Tulln.
+Vi förklarade att vi fått besked om att vi inte fick flyga längre än till Lintz
+eftersom vi i så fall skulle flyga över den ryska zonen.
+
+Jo, det var nog riktigt, men se de allierade hade en flygkorridor
+som det gick bra att flyga i.
+Vi fick en karta där korridoren var inritad och gav oss iväg.
+Bara staden Lintz footnote:[Skall förmodligen vara Tulln] men inte flygfältet var inritat och det började skymma
+när vi närmade oss fältet.
+{Carl-Gustav} beordrade mej att hitta fältet och hotade åter med Hum-Hum om jag misslyckades.
+Jag såg ljusen från staden och från de omgivande byarna.
+Någon flygbelysning syntes inte, men det fanns ett område som var helt mörkt
+och jag antog att det var ett flygfält, vilket jag meddelade.
+Vi cirklade runt fältet, fick radiokontakt (på frekv 6440?)
+och så småningom tändes raden av goosnecks i landningriktningen
+varför vi kunde landa i totalt mörker.
+
+Hade vi blivit uppmärksammade i Frankfurt så var det ingenting mot detta mottagande.
+Vi meddelades att vi grovt hade sidosatt gällande flygrestriktioner.
+Korridoren fick endast beflygas av de allierades militära flygplan
+och även om det inte direkt utsades så kände vi oss nästan hotade med internering;
+någon återflygning var för närvarande inte tänkbar.
+Vi blev emellertid väl bemötta och inviterades till officersmässen på middag.
+Efter mycket parlamenterande kom översten på den lysande idén
+att vi skulle få jakteskort till Lintz nästa morgon.
+Alla var övertygade om att ryssarna hade informatörer som skvallrade om vår närvaro.
+
+När vi den 26:e var klara för start meddelades att högkvarteret i Wiesbaden
+hade bestämt att vi skulle få klara oss utan eskort eftersom man inte ville störa de goda relationerna med ryssarna.
+"Har de tagit sig in illegalt så får de stå sitt kast och klara sig ut på egen hand."
+Vi gjorde en normal start och svängde västerut.
+Så snart vi tagit upp landställ och klaff beordrades jag upp i astrodomen
+(vi navigerade ju ibland efter stjärnorna) för att hålla noggrann utkik,
+eftersom man nästan lovat oss att ryssen skulle komma.
+Molnhöjden var 700 m och vi flög tätt under molnbasen
+och det dröjde inte alls länge förr än två rotar {MiG-5}
+footnote:[Bara  två prototyper av MiG-5 byggdes, så två rotar kan omöjligen ha mötts.
+Förmodligen är detta en fråga om felaktig identifiering.]
+närmade sej från norr.
+Det var för övrigt första gången jag såg en roteformation,
+i Sverige använde vi ju fortfarande tregrupp.
+
+Då jag meddelat min iakttagelse fick jag inta min pilotstol.
+{Carl-Gustav} gav fullgas svängde brant bort från ryssarna
+och vi försvann upp i molnen och var alltså utom synhåll for ryssarna.
+Väl i moln följde en högersväng mot ryssarna
+och snart kunde vi återgå till att lägga oss i korridoren -
+naturligtvis i moln tills vi var inne i Tyskland.
+Flygningen gick sedan rutinmässigt hem till {Bromma}
+och resulterade i 3872 km flygning under 14 tim 43 min i luften.
+
+NOTE: {MiG-5} var egentligen en utveckling av {MiG-3} och den enda MiG-typen med stjärnmotor,
+en Shvetsov M.82 A om 1600 hk i stället för MiG-3:s radmotor Mikulin AM 35A på 1350 hk.
+Varken {MiG-3} eller {MiG-5} motsvarade förväntningarna
+och {MiG-5} användes vid tiden för vår flygning inte i Ryssland.
+Våra antagonister lär ha varit baserade i Tjeckoslovakien, nära Prag.
+Vid ett annat tillfälle blev en av {ABA}:s ombyggda flygande fästningar
+beskjuten vid flygning från Prag.
+Skadorna inskränkte sig till några kulhål.
