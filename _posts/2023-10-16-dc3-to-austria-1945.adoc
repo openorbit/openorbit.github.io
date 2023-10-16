@@ -9,8 +9,7 @@ Nils Holm
 :page-category: aviation
 :imagesdir: /assets/images/
 :MiG-3: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3[MiG-3]
-:MiG-5: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_DIS[MiG-5]
-:MiG-9: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-9[MiG-9]
+:I-211: https://en.wikipedia.org/wiki/Mikoyan-Gurevich_I-211[I-211]
 :DC-3: https://en.wikipedia.org/wiki/Douglas_DC-3[DC-3]
 :Bulltofta: https://en.wikipedia.org/wiki/Malmö_Bulltofta_Airport[Bulltofta]
 :ABA: https://en.wikipedia.org/wiki/AB_Aerotransport[ABA]
@@ -112,9 +111,8 @@ As soon as we had taken up the gear and flaps I was ordered up to the astrodome
 (sometimes we navigated after the stars) to keep a good lookout,
 because they had almost guaranteed that the Russians would show up.
 The cloud layer was 700 m and we flew closely under the clouds
-and it was not long until two two-ship formations of {MiG-5}
-footnote:[Only two prototypes of MiG-5 was built, so four of these aircraft cannot have been encountered.
-Probably a case of faulty labeling in the article. A footnote indicates the aircraft was called I-210 which is also known as {MiG-9}, and this aircraft fits the description.]
+and it was not long until two two-ship formations of _MiG-5_
+footnote:[There seem to be some confusion as to the nomenclature of the MiG in question. A footnote in {SFF} indicates the aircraft was called I-210, and several older books refer to evolutions of the {MiG-3} as MiG-5 and MiG-9, which in the end were different aircraft, see {I-211} at wikipedia for info.]
 approach from the north.
 It was the first time i saw a two-ship formation,
 in Sweden we were still using three-ship formations.
@@ -128,10 +126,10 @@ of-course in clouds until we were in Germany.
 The flight was then routine until we were back at {Bromma}
 and it resulted in 3872 km flying under 14 h 43 minutes in the air.
 
-NOTE: {MiG-5} was actually a development of the {MiG-3} and the only MiG-type with a star motor,
+NOTE: MiG-5 was actually a development of the {MiG-3} and the only MiG-type with a star motor,
 a Shvetsov M.82 A with 1600 hp instead of the MiG-3:s in-line engine Mikulin AM 35A with 1350 hp.
-Neither the {MiG-3} nor the {MiG-5} achieved their expectations
-and {MiG-5} was at the time of our flight not used in Russia.
+Neither the {MiG-3} nor the MiG-5 achieved their expectations
+and MiG-5 was at the time of our flight not used in Russia.
 Our antagonists were probably based in Czechoslovakia, near Prague.
 At another time one of {ABA}'s converted flying fortresses was shot at during a flight from Prague.
 The damage was limited to a few bullet holes. 
