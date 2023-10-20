@@ -215,8 +215,10 @@ Jag skämdes.
 
 == Två landningshaverier inom en timme
 
-NOTE: Detta kan vara kraschen som finns https://aviation-safety.net/wikibase/271677[dokumenterad här] cite:[as:271677].
-  Denna sätter dock platsen till Reslöv istället för {Kvidinge}.
+NOTE: Det misstänktes att detta var kraschen som var https://aviation-safety.net/wikibase/271677[dokumenterad här] cite:[as:271677].
+  Denna satte dock platsen till Reslöv istället för {Kvidinge}.
+  Dock, efter att ha läst haverirapporten,
+  kan man dock dra slutsatsen att haveriet dokumenterat i cite:[as:271677] är ett annat haveri än det som beskrivs i denna berättelse.
 
 Under min tid som flyglärare på {aspirantskolan} i Ljungbyhed
 hade jag en aspirant som hade stora svårigheter att klara av övningen

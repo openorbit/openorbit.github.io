@@ -213,8 +213,10 @@ I was ashamed.
 == Two Landing Failures in One Hour
 
 
-NOTE: This may be the crash that is https://aviation-safety.net/wikibase/271677[documented here] cite:[as:271677].
-  The report however places the event at Reslöv instead of Kvidinge.
+NOTE: This was initially suspected to be the crash that is https://aviation-safety.net/wikibase/271677[documented here] cite:[as:271677].
+  However, after having read the official crash investigation,
+  it can be concluded that cite:[as:271677]
+  refers to a different event.
 
 
 During my time as flight instructor
