@@ -1,0 +1,21 @@
+= Swift Physics
+:page-project-github-url: https://github.com/openorbit/swift-physics
+:page-project-github-action-status: https://github.com/openorbit/swift-physics/actions/workflows/swift.yml/badge.svg
+
+Swift physics is a physics library written in Swift.
+
+While it started as swift-celmek, only implementing astronomical algorithms,
+It scope has since expanded, prompting a name change.
+
+It implements a number of astronomical algorithms such as:
+
+- VSOP87
+- ELP2000 82b
+- Goffin2000
+- Several algorithms from Meeus' Astronomical Algorithm's.
+
+In addition:
+
+- Aerodynamics (atmospheric models, NACA airfoil shape calculator)
+
+The library is tested on macOS and Linux.
